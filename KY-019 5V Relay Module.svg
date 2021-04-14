@@ -1,0 +1,768 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" height="38.781647mm" id="svg2"  version="1.1" gorn="0" width="27.00042mm" viewBox="0 0 95.670778 137.41528">
+    <desc >
+        <referenceFile >keyes_ky-019_5v_relay_module_breakout_3_300mil_breadboard.svg</referenceFile>
+    </desc>
+    <defs id="defs4" />
+    <metadata id="metadata7" >
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g transform="translate(-278.51058,-457.3338)" >
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g style="display:inline" id="breadboard"  gorn="0.3.0.0.0.0.0.0.0.0">
+                                        <g transform="matrix(0.9375,0,0,0.9375,275.99288,455.87445)" >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <path stroke-opacity="1" style="opacity:1;stroke-miterlimit:4;stroke-dasharray:none;" id="rect4553" fill-opacity="1" stroke-width="0.2" d="M 2.6855469,1.5566406 V 130.06055 H 104.73438 V 1.5566406 Z M 15.423828,3.9511719 a 6.6141729,6.6141729 0 0 1 6.613281,6.6132811 6.6141729,6.6141729 0 0 1 -6.613281,6.613281 6.6141729,6.6141729 0 0 1 -6.6152342,-6.613281 6.6141729,6.6141729 0 0 1 6.6152342,-6.6132811 z m 77.816406,0 A 6.6141729,6.6141729 0 0 1 99.853516,10.564453 6.6141729,6.6141729 0 0 1 93.240234,17.177734 6.6141729,6.6141729 0 0 1 86.625,10.564453 6.6141729,6.6141729 0 0 1 93.240234,3.9511719 Z M 16.941406,24.960938 a 1.961047,1.961047 0 0 1 1.960938,1.960937 1.961047,1.961047 0 0 1 -1.960938,1.960937 1.961047,1.961047 0 0 1 -1.960937,-1.960937 1.961047,1.961047 0 0 1 1.960937,-1.960937 z m 0,37.884765 a 1.9610467,1.9610467 0 0 1 1.960938,1.962891 1.9610467,1.9610467 0 0 1 -1.960938,1.960937 1.9610467,1.9610467 0 0 1 -1.960937,-1.960937 1.9610467,1.9610467 0 0 1 1.960937,-1.962891 z m -1.517578,49.724607 a 6.6141729,6.6141729 0 0 1 6.613281,6.61328 6.6141729,6.6141729 0 0 1 -6.613281,6.61524 6.6141729,6.6141729 0 0 1 -6.6152342,-6.61524 6.6141729,6.6141729 0 0 1 6.6152342,-6.61328 z m 77.816406,0 a 6.6141729,6.6141729 0 0 1 6.613282,6.61328 6.6141729,6.6141729 0 0 1 -6.613282,6.61524 6.6141729,6.6141729 0 0 1 -6.615234,-6.61524 6.6141729,6.6141729 0 0 1 6.615234,-6.61328 z"  gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0" stroke="none" fill="#2d2d2d"/>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g transform="translate(276.99302,455.67838)" >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g id="print"  gorn="0.3.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0">
+                                                                            <circle stroke-opacity="1" style="opacity:1;stroke-miterlimit:4;stroke-dasharray:none;" cx="13.490586" id="path4590" fill-opacity="0.36500005" stroke-width="0.53149605"  gorn="0.3.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0.0" stroke="#fbfbfb" cy="111.98557" r="6.9285984" fill="none"/>
+                                                                            <circle stroke-opacity="1" style="opacity:1;stroke-miterlimit:4;stroke-dasharray:none;" cx="13.490586" id="path4590-6" fill-opacity="0.36500005" stroke-width="0.53149605"  gorn="0.3.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0.1" stroke="#fbfbfb" cy="10.155029" r="6.9285989" fill="none"/>
+                                                                            <circle stroke-opacity="1" style="opacity:1;stroke-miterlimit:4;stroke-dasharray:none;" cx="86.443573" id="path4590-2" fill-opacity="0.36500005" stroke-width="0.53149605"  gorn="0.3.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0.2" stroke="#fbfbfb" cy="111.98557" r="6.9285989" fill="none"/>
+                                                                            <circle stroke-opacity="1" style="opacity:1;stroke-miterlimit:4;stroke-dasharray:none;" cx="86.443573" id="path4590-6-7" fill-opacity="0.36500005" stroke-width="0.53149605"  gorn="0.3.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0.3" stroke="#fbfbfb" cy="10.155029" r="6.9285994" fill="none"/>
+                                                                            <rect height="5.6558027" stroke-opacity="1" style="opacity:1;stroke-miterlimit:4;stroke-dasharray:none;" id="rect4543" fill-opacity="1" stroke-width="0.53149605"  gorn="0.3.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0.4" stroke="#fbfbfb" width="10.216934" y="71.093979" fill="none" x="11.007531"/>
+                                                                            <rect height="22.136692" stroke-opacity="1" style="opacity:1;stroke-miterlimit:4;stroke-dasharray:none;" id="rect4545" fill-opacity="1" stroke-width="0.53149605"  gorn="0.3.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0.5" stroke="#fbfbfb" width="7.3586259" y="32.354767" fill="none" x="12.223832"/>
+                                                                            <rect height="7.5410709" stroke-opacity="1" style="opacity:1;stroke-miterlimit:4;stroke-dasharray:none;" id="rect4547" fill-opacity="1" stroke-width="0.53149605"  gorn="0.3.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0.6" stroke="#fbfbfb" width="27.61005" y="108.06954" fill="none" x="47.496578"/>
+                                                                            <rect height="74.255219" stroke-opacity="1" style="opacity:1;stroke-miterlimit:4;stroke-dasharray:none;" id="rect4549" fill-opacity="1" stroke-width="0.53149605"  gorn="0.3.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0.7" stroke="#fbfbfb" width="56.253956" y="32.415585" fill="none" x="24.50848"/>
+                                                                            <path stroke-opacity="1" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" id="path4551" stroke-width="0.53149605" d="m 9.8824514,90.433177 v -7.358625 h 7.7843316 v 7.115365"  gorn="0.3.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0.8" stroke="#ffffff" fill="none"/>
+                                                                            <path stroke-opacity="1" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" id="path4551-9" stroke-width="0.53149611" d="m 9.8824515,93.249835 v 7.358625 h 7.7843305 v -7.115365"  gorn="0.3.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0.9" stroke="#ffffff" fill="none"/>
+                                                                            <path stroke-opacity="1" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" id="path4568" stroke-width="0.53149605" d="m 40.381218,115.48898 h 2.554234 v -7.29781 h -2.432604"  gorn="0.3.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0.10" stroke="#ffffff" fill="none"/>
+                                                                            <g stroke-opacity="1" font-size="5.625" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;stroke-linecap:butt;stroke-linejoin:miter;" id="text4572" fill-opacity="1" stroke-width="0.9375"  gorn="0.3.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0.11" stroke="none" fill="#000000" xmlns:xml="http://www.w3.org/XML/1998/namespace" xml:space="preserve">
+                                                                                <text font-size="5.625" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.028125px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;" id="tspan4570" stroke-width="0.9375"  gorn="0.3.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0.11.0" y="120.43588" fill="#ffffff" x="23.488228">ON_led</text>
+                                                                            </g>
+                                                                            <g transform="rotate(-90)" >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g >
+                                                                                                        <g >
+                                                                                                            <g stroke-opacity="1" font-size="9.375" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;stroke-linecap:butt;stroke-linejoin:miter;" id="text4576" fill-opacity="1" stroke-width="0.9375"  gorn="0.3.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0.12.0.0.0.0.0.0.0.0" stroke="none" fill="#000000" xmlns:xml="http://www.w3.org/XML/1998/namespace" xml:space="preserve">
+                                                                                                                <text font-size="9.375" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;" id="tspan4574" stroke-width="0.9375"  gorn="0.3.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0.12.0.0.0.0.0.0.0.0.0" y="90.359322" fill="#ffffff" x="-90.962357">FE_SRly</text>
+                                                                                                            </g>
+                                                                                                        </g>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                            <g stroke-opacity="1" font-size="5.625" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;stroke-linecap:butt;stroke-linejoin:miter;" id="text4580" fill-opacity="1" stroke-width="0.9375"  gorn="0.3.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0.13" stroke="none" fill="#000000" xmlns:xml="http://www.w3.org/XML/1998/namespace" xml:space="preserve">
+                                                                                <text font-size="5.625" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;" id="tspan4578" stroke-width="0.9375"  gorn="0.3.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0.13.0" y="67.97123" fill="#ffffff" x="17.51169">Q1</text>
+                                                                            </g>
+                                                                            <g transform="rotate(-90)" >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g >
+                                                                                                        <g >
+                                                                                                            <g stroke-opacity="1" font-size="5.85937" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;stroke-linejoin:miter;" id="text4584" fill-opacity="1" stroke-width="0.9375"  gorn="0.3.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0.14.0.0.0.0.0.0.0.0" stroke="none" fill="#ffffff" xmlns:xml="http://www.w3.org/XML/1998/namespace" xml:space="preserve">
+                                                                                                                <text font-size="5.85937" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;" id="tspan4582" stroke-width="0.9375"  gorn="0.3.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0.14.0.0.0.0.0.0.0.0.0" y="23.569416" fill="#ffffff" x="-94.958214">R1</text>
+                                                                                                            </g>
+                                                                                                        </g>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                            <g stroke-opacity="1" font-size="9.375" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;stroke-linejoin:miter;" id="text4588" fill-opacity="1" stroke-width="0.9375"  gorn="0.3.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0.15" stroke="none" fill="#000000" xmlns:xml="http://www.w3.org/XML/1998/namespace" xml:space="preserve">
+                                                                                <text font-size="5.625" id="tspan4586" stroke-width="0.9375"  gorn="0.3.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0.15.0" y="120.78882" fill="#ffffff" x="52.184464">S</text>
+                                                                            </g>
+                                                                            <g stroke-opacity="1" font-size="9.375" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;stroke-linejoin:miter;" id="text4588-7" fill-opacity="1" stroke-width="0.9375"  gorn="0.3.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0.16" stroke="none" fill="#000000" xmlns:xml="http://www.w3.org/XML/1998/namespace" xml:space="preserve">
+                                                                                <text font-size="5.625" id="tspan4586-0" stroke-width="0.9375"  gorn="0.3.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0.16.0" y="120.53476" fill="#ffffff" x="60.861565">+</text>
+                                                                            </g>
+                                                                            <g stroke-opacity="1" font-size="9.375" style="font-style:normal;font-weight:normal;line-height:125%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;stroke-linejoin:miter;" id="text4588-7-3" fill-opacity="1" stroke-width="0.9375"  gorn="0.3.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0.17" stroke="none" fill="#000000" xmlns:xml="http://www.w3.org/XML/1998/namespace" xml:space="preserve">
+                                                                                <text font-size="5.625" id="tspan4586-0-7" stroke-width="0.9375"  gorn="0.3.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0.17.0" y="118.08481" fill="#ffffff" x="70.257668">_</text>
+                                                                            </g>
+                                                                            <g stroke-opacity="1" font-size="5.625" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;stroke-linecap:butt;stroke-linejoin:miter;" id="text4580-6" fill-opacity="1" stroke-width="0.9375"  gorn="0.3.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0.18" stroke="none" fill="#000000" xmlns:xml="http://www.w3.org/XML/1998/namespace" xml:space="preserve">
+                                                                                <text font-size="5.625" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;" id="tspan4578-9" stroke-width="0.9375"  gorn="0.3.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0.18.0" y="6.238368" fill="#ffffff" x="38.649216">NC</text>
+                                                                            </g>
+                                                                            <g stroke-opacity="1" font-size="5.625" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;stroke-linecap:butt;stroke-linejoin:miter;" id="text4580-0" fill-opacity="1" stroke-width="0.9375"  gorn="0.3.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0.19" stroke="none" fill="#000000" xmlns:xml="http://www.w3.org/XML/1998/namespace" xml:space="preserve">
+                                                                                <text font-size="5.625" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;" id="tspan4578-3" stroke-width="0.9375"  gorn="0.3.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0.19.0" y="6.2411141" fill="#ffffff" x="58.882015">NO</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g transform="translate(0.99436896,-0.16572816)" >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g id="c1"  gorn="0.3.0.0.0.0.0.0.0.0.2.0.0.0.0.0.0.0.0">
+                                                                            <circle stroke-opacity="1" style="display:inline;stroke-miterlimit:4;stroke-dasharray:none;" cx="292.04617" id="path8375-78-6-8-5" fill-opacity="0" stroke-width="1.68105161"  gorn="0.3.0.0.0.0.0.0.0.0.2.0.0.0.0.0.0.0.0.0" stroke="#8c8c8c" cy="480.95844" r="2.6766748" fill="none"/>
+                                                                            <circle stroke-opacity="1" style="display:inline;stroke-miterlimit:4;stroke-dasharray:none;" cx="292.04617" id="path8375-78-6-8-5-1" fill-opacity="0" stroke-width="1.68105173"  gorn="0.3.0.0.0.0.0.0.0.0.2.0.0.0.0.0.0.0.0.1" stroke="#8c8c8c" cy="516.47565" r="2.6766748" fill="none"/>
+                                                                            <circle stroke-opacity="1" style="display:inline;opacity:1;stroke-miterlimit:4;stroke-dasharray:none;" cx="292.04617" id="path8544-4-9-9-9" fill-opacity="1" stroke-width="1.08899999"  gorn="0.3.0.0.0.0.0.0.0.0.2.0.0.0.0.0.0.0.0.2" stroke="none" cy="480.95844" r="1.8384814" fill="#a3a3a3"/>
+                                                                            <circle stroke-opacity="1" style="display:inline;opacity:1;stroke-miterlimit:4;stroke-dasharray:none;" cx="292.04617" id="path8544-4-9-9-9-2" fill-opacity="1" stroke-width="1.08899999"  gorn="0.3.0.0.0.0.0.0.0.0.2.0.0.0.0.0.0.0.0.3" stroke="none" cy="516.47565" r="1.8384815" fill="#a3a3a3"/>
+                                                                            <path stroke-opacity="1" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" id="path4621" stroke-width="1.64763784" d="m 292.03239,489.26072 v -7.50398"  gorn="0.3.0.0.0.0.0.0.0.0.2.0.0.0.0.0.0.0.0.4" stroke="#a3a3a3" fill="none"/>
+                                                                            <path stroke-opacity="1" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" id="path4621-0" stroke-width="1.64763784" d="m 292.19949,516.84002 v -7.50398"  gorn="0.3.0.0.0.0.0.0.0.0.2.0.0.0.0.0.0.0.0.5" stroke="#a3a3a3" fill="none"/>
+                                                                            <g transform="matrix(0,1.2499999,-1.2499999,0,296.50911,480.60995)" >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g >
+                                                                                                        <g >
+                                                                                                            <g id="g11"  gorn="0.3.0.0.0.0.0.0.0.0.2.0.0.0.0.0.0.0.0.6.0.0.0.0.0.0.0.0">
+                                                                                                                <path style="fill:#1a1a1a" id="Body_1_" d="M 9.159,0 H 7.002 c -0.475,0 -0.393,7.193 0,7.193 h 2.157 c 0.396,0 11.114,0 11.508,0 h 2.158 C 23.34,7.193 23.383,0 22.825,0 H 20.667 C 20.27,0 9.553,0 9.159,0 Z"  gorn="0.3.0.0.0.0.0.0.0.0.2.0.0.0.0.0.0.0.0.6.0.0.0.0.0.0.0.0.0"/>
+                                                                                                                <rect height="7.1929998" style="opacity:0.73999999;fill:#ffffff" id="rect16"  gorn="0.3.0.0.0.0.0.0.0.0.2.0.0.0.0.0.0.0.0.6.0.0.0.0.0.0.0.0.1" width="1.992" y="0" x="9.783" enable-background="new    "/>
+                                                                                                                <path style="opacity:0.4;fill:#ffffff" id="Reflex_1_" d="m 7.289,0.358 c 0.726,0 1.145,0 1.866,0 0.719,0 10.786,0 11.508,0 0.021,0 0.229,0 0.479,0 0.563,0 1.066,0 1.311,0 0.354,0 1.146,0.36 -0.354,0.36 -1.08,0 -0.726,0 -1.438,0 -0.717,0 -10.791,0 -11.508,0 -0.723,0 -1.145,0 -1.866,0 -0.356,0.001 -0.714,-0.36 0.002,-0.36 z"  gorn="0.3.0.0.0.0.0.0.0.0.2.0.0.0.0.0.0.0.0.6.0.0.0.0.0.0.0.0.2" enable-background="new    "/>
+                                                                                                                <path style="opacity:0.4" id="Shaddow_1_" d="m 22.822,7.194 c -0.727,0.014 -1.438,0 -2.156,0 -0.902,0 -12.942,0 -13.667,0 -0.091,0 -0.202,-0.723 -0.182,-0.723 1.293,0 1.613,0 2.336,0 0.723,0 10.789,0 11.509,0 0.721,0 1.67,0 2.393,0 0.021,0 -0.086,0.721 -0.233,0.723 z"  gorn="0.3.0.0.0.0.0.0.0.0.2.0.0.0.0.0.0.0.0.6.0.0.0.0.0.0.0.0.3" enable-background="new    "/>
+                                                                                                            </g>
+                                                                                                        </g>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g transform="matrix(0,-1.6911447,1.6911447,0,300.89729,569.44328)" >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g style="display:inline" id="led-0603"  gorn="0.3.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0">
+                                                                            <g transform="rotate(180,1.2675,3.271)" >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g >
+                                                                                                        <g >
+                                                                                                            <g id="g624"  gorn="0.3.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                                                                                                                <g transform="translate(21.5539,31.3385)" >
+                                                                                                                    <g >
+                                                                                                                        <g >
+                                                                                                                            <g >
+                                                                                                                                <g >
+                                                                                                                                    <g >
+                                                                                                                                        <g >
+                                                                                                                                            <g >
+                                                                                                                                                <g id="led-0603_1_"  gorn="0.3.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                                                                                                                                                    <g transform="rotate(-90,3.26,1.5535)" >
+                                                                                                                                                        <g >
+                                                                                                                                                            <g >
+                                                                                                                                                                <g >
+                                                                                                                                                                    <g >
+                                                                                                                                                                        <g >
+                                                                                                                                                                            <g >
+                                                                                                                                                                                <g >
+                                                                                                                                                                                    <g id="g627"  gorn="0.3.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                                                                                                                                                                                        <g id="g629"  gorn="0.3.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                                                                                                                                                                                            <g id="g631"  gorn="0.3.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                                                                                                                                                                                                <g transform="rotate(89.999852,35.835674,-21.425081)" >
+                                                                                                                                                                                                    <g >
+                                                                                                                                                                                                        <g >
+                                                                                                                                                                                                            <g >
+                                                                                                                                                                                                                <g >
+                                                                                                                                                                                                                    <g >
+                                                                                                                                                                                                                        <g >
+                                                                                                                                                                                                                            <g >
+                                                                                                                                                                                                                                <rect height="6.4219999" style="fill:#dcdcdc" id="rect633"  gorn="0.3.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0" width="1.398" y="-24.636" x="35.136002"/>
+                                                                                                                                                                                                                            </g>
+                                                                                                                                                                                                                        </g>
+                                                                                                                                                                                                                    </g>
+                                                                                                                                                                                                                </g>
+                                                                                                                                                                                                            </g>
+                                                                                                                                                                                                        </g>
+                                                                                                                                                                                                    </g>
+                                                                                                                                                                                                </g>
+                                                                                                                                                                                                <line style="fill:none" x1="32.624001" id="line635" y2="-20.764" y1="-20.764"  gorn="0.3.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1" x2="39.046001"/>
+                                                                                                                                                                                            </g>
+                                                                                                                                                                                            <g id="g637"  gorn="0.3.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1">
+                                                                                                                                                                                                <g transform="rotate(89.999852,35.833225,-21.999332)" >
+                                                                                                                                                                                                    <g >
+                                                                                                                                                                                                        <g >
+                                                                                                                                                                                                            <g >
+                                                                                                                                                                                                                <g >
+                                                                                                                                                                                                                    <g >
+                                                                                                                                                                                                                        <g >
+                                                                                                                                                                                                                            <g >
+                                                                                                                                                                                                                                <rect height="4.5050001" style="fill:#f2f2f2" id="rect639"  gorn="0.3.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0.0" width="2.477" y="-24.252001" x="34.595001"/>
+                                                                                                                                                                                                                            </g>
+                                                                                                                                                                                                                        </g>
+                                                                                                                                                                                                                    </g>
+                                                                                                                                                                                                                </g>
+                                                                                                                                                                                                            </g>
+                                                                                                                                                                                                        </g>
+                                                                                                                                                                                                    </g>
+                                                                                                                                                                                                </g>
+                                                                                                                                                                                                <path style="fill:#22b573;fill-opacity:0.7" id="path641" d="m 37.373,-20.762 c 0,0 -0.168,-0.467 0.052,-0.426 0.218,0.041 0.54,-0.147 0.676,0 l -0.015,0.424 z"  gorn="0.3.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.1"/>
+                                                                                                                                                                                                <g id="g643"  gorn="0.3.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.2">
+                                                                                                                                                                                                    <g id="g645"  gorn="0.3.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.2.0">
+                                                                                                                                                                                                        <g transform="rotate(89.999852,35.833475,-22.063782)" >
+                                                                                                                                                                                                            <g >
+                                                                                                                                                                                                                <g >
+                                                                                                                                                                                                                    <g >
+                                                                                                                                                                                                                        <g >
+                                                                                                                                                                                                                            <g >
+                                                                                                                                                                                                                                <g >
+                                                                                                                                                                                                                                    <g >
+                                                                                                                                                                                                                                        <rect height="0.85399997" style="fill:#ffffff" id="rect647"  gorn="0.3.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.2.0.0.0.0.0.0.0.0.0.0" width="0.96100003" y="-22.490999" x="35.353001"/>
+                                                                                                                                                                                                                                    </g>
+                                                                                                                                                                                                                                </g>
+                                                                                                                                                                                                                            </g>
+                                                                                                                                                                                                                        </g>
+                                                                                                                                                                                                                    </g>
+                                                                                                                                                                                                                </g>
+                                                                                                                                                                                                            </g>
+                                                                                                                                                                                                        </g>
+                                                                                                                                                                                                        <g transform="rotate(89.999852,35.833924,-21.582832)" >
+                                                                                                                                                                                                            <g >
+                                                                                                                                                                                                                <g >
+                                                                                                                                                                                                                    <g >
+                                                                                                                                                                                                                        <g >
+                                                                                                                                                                                                                            <g >
+                                                                                                                                                                                                                                <g >
+                                                                                                                                                                                                                                    <g >
+                                                                                                                                                                                                                                        <rect height="0.85399997" style="fill:#b3b3b3" id="rect649"  gorn="0.3.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.2.0.1.0.0.0.0.0.0.0.0" width="0.050000001" y="-22.01" x="35.808998"/>
+                                                                                                                                                                                                                                    </g>
+                                                                                                                                                                                                                                </g>
+                                                                                                                                                                                                                            </g>
+                                                                                                                                                                                                                        </g>
+                                                                                                                                                                                                                    </g>
+                                                                                                                                                                                                                </g>
+                                                                                                                                                                                                            </g>
+                                                                                                                                                                                                        </g>
+                                                                                                                                                                                                    </g>
+                                                                                                                                                                                                    <g id="g651"  gorn="0.3.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.2.1">
+                                                                                                                                                                                                        <polygon style="fill:#d1c690" id="polygon653"  gorn="0.3.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.2.1.0" points="37.137,-21.186 38.1,-21.081 38.1,-21.813 37.137,-21.708 "/>
+                                                                                                                                                                                                        <g id="g655"  gorn="0.3.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.2.1.1">
+                                                                                                                                                                                                            <path style="fill:#d1c690" id="path657" d="m 37.425,-21.385 c -0.002,0 -0.005,0 -0.007,0 -0.268,-0.034 -0.449,-0.104 -0.598,-0.161 -0.209,-0.08 -0.361,-0.142 -0.634,-0.056 -0.026,0.013 -0.059,-0.01 -0.064,-0.043 -0.008,-0.035 0.009,-0.067 0.039,-0.078 0.303,-0.094 0.478,-0.024 0.696,0.06 0.148,0.061 0.318,0.123 0.572,0.156 0.03,0.004 0.054,0.032 0.049,0.067 -0.002,0.031 -0.026,0.055 -0.053,0.055 z"  gorn="0.3.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.2.1.1.0"/>
+                                                                                                                                                                                                        </g>
+                                                                                                                                                                                                        <polygon style="fill:#d1c690" id="polygon659"  gorn="0.3.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.2.1.2" points="34.532,-22.714 33.566,-22.819 33.566,-22.087 34.532,-22.192 "/>
+                                                                                                                                                                                                        <g id="g661"  gorn="0.3.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.2.1.3">
+                                                                                                                                                                                                            <path style="fill:#d1c690" id="path663" d="m 35.792,-21.911 c -0.025,0 -0.049,-0.02 -0.055,-0.047 -0.063,-0.291 -0.949,-0.42 -1.492,-0.436 -0.033,0 -0.058,-0.027 -0.058,-0.063 0.002,-0.035 0.025,-0.063 0.058,-0.063 h 0.002 c 0.151,0.004 1.498,0.053 1.6,0.528 0.007,0.035 -0.012,0.068 -0.042,0.078 -0.004,0.003 -0.008,0.003 -0.013,0.003 z"  gorn="0.3.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.2.1.3.0"/>
+                                                                                                                                                                                                        </g>
+                                                                                                                                                                                                        <path style="fill:#d1c690" id="path665" d="m 36.262,-21.895 c 0,0 -0.355,-0.002 -0.382,0.312 0.071,0 0.382,0 0.382,0 z"  gorn="0.3.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.2.1.4"/>
+                                                                                                                                                                                                        <path style="fill:#d1c690" id="path667" d="m 35.828,-22.212 c 0,0 0.158,0.305 0.052,0.352 -0.107,0.047 -0.178,0.051 -0.24,-0.029 -0.061,-0.086 0.188,-0.323 0.188,-0.323 z"  gorn="0.3.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.2.1.5"/>
+                                                                                                                                                                                                        <path style="fill:#9d956c" id="path669" d="m 36.187,-21.544 c 0.271,-0.084 0.423,-0.023 0.633,0.055 0.146,0.061 0.33,0.129 0.598,0.162 l 10e-4,-0.058 c -0.268,-0.034 -0.449,-0.104 -0.598,-0.161 -0.209,-0.08 -0.361,-0.142 -0.634,-0.056 z"  gorn="0.3.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.2.1.6"/>
+                                                                                                                                                                                                        <polygon style="fill:#9d956c" id="polygon671"  gorn="0.3.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.2.1.7" points="34.532,-22.137 33.566,-22.034 33.566,-22.087 34.532,-22.192 "/>
+                                                                                                                                                                                                        <path style="fill:#9d956c" id="path673" d="m 35.734,-21.901 c -0.061,-0.291 -0.946,-0.421 -1.491,-0.435 v -0.061 c 0.545,0.018 1.434,0.146 1.494,0.438 z"  gorn="0.3.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.2.1.8"/>
+                                                                                                                                                                                                        <path style="fill:#9d956c" id="path675" d="m 35.879,-21.528 c 0.071,0 0.382,0 0.382,0 v -0.058 c 0,0 -0.311,0 -0.382,0 z"  gorn="0.3.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.2.1.9"/>
+                                                                                                                                                                                                        <path style="fill:#9d956c" id="path677" d="m 35.639,-21.837 c 0.063,0.08 0.131,0.075 0.239,0.03 l 10e-4,-0.06 c -0.107,0.05 -0.178,0.052 -0.24,-0.028 z"  gorn="0.3.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.2.1.10"/>
+                                                                                                                                                                                                    </g>
+                                                                                                                                                                                                </g>
+                                                                                                                                                                                                <g transform="rotate(89.999852,35.833226,-23.211234)" >
+                                                                                                                                                                                                    <g >
+                                                                                                                                                                                                        <g >
+                                                                                                                                                                                                            <g >
+                                                                                                                                                                                                                <g >
+                                                                                                                                                                                                                    <g >
+                                                                                                                                                                                                                        <g >
+                                                                                                                                                                                                                            <g >
+                                                                                                                                                                                                                                <rect height="3.4619999" style="opacity:0.5;fill:#ffffff" id="rect679"  gorn="0.3.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.3.0.0.0.0.0.0.0.0" width="0.052999999" y="-24.941999" x="35.806999" enable-background="new    "/>
+                                                                                                                                                                                                                            </g>
+                                                                                                                                                                                                                        </g>
+                                                                                                                                                                                                                    </g>
+                                                                                                                                                                                                                </g>
+                                                                                                                                                                                                            </g>
+                                                                                                                                                                                                        </g>
+                                                                                                                                                                                                    </g>
+                                                                                                                                                                                                </g>
+                                                                                                                                                                                                <g style="opacity:0.25" id="g681"  gorn="0.3.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.4">
+                                                                                                                                                                                                    <path style="fill:#ffffff" id="path683" d="m 35.294,-22.49 c 0,-0.049 0.035,-0.088 0.076,-0.088 h 0.326 c 0.043,0 0.077,-0.039 0.077,-0.086 v -0.033 c 0,0.05 -0.034,0.089 -0.077,0.089 H 35.37 c -0.043,0 -0.078,0.039 -0.078,0.086 z"  gorn="0.3.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.4.0"/>
+                                                                                                                                                                                                    <path style="fill:#ffffff" id="path685" d="m 37.284,-22.817 c 0,-0.05 -0.036,-0.089 -0.077,-0.089 h -1.355 c -0.043,0 -0.076,0.039 -0.076,0.089 v -0.033 c 0,-0.049 0.032,-0.088 0.076,-0.088 h 1.355 c 0.041,0 0.077,0.039 0.077,0.088 z"  gorn="0.3.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.4.1"/>
+                                                                                                                                                                                                    <path style="fill:#ffffff" id="path687" d="m 37.564,-21.344 h -0.207 c -0.041,0 -0.074,-0.038 -0.074,-0.088 v -0.03 c 0,0.047 0.033,0.086 0.074,0.086 h 0.206 z"  gorn="0.3.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.4.2"/>
+                                                                                                                                                                                                    <path style="fill:#ffffff" id="path689" d="m 34.102,-22.906 h 1.029 c 0.041,0 0.078,0.039 0.078,0.089 v -0.033 c 0,-0.049 -0.035,-0.088 -0.078,-0.088 h -1.029 z"  gorn="0.3.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.4.3"/>
+                                                                                                                                                                                                </g>
+                                                                                                                                                                                                <g id="g691"  gorn="0.3.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.5">
+                                                                                                                                                                                                    <path style="opacity:0.5;fill:#f2f2f2" id="path693" d="m 33.583,-23.237 v 2.475 h 4.505 v -2.475 z"  gorn="0.3.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.5.0" enable-background="new    "/>
+                                                                                                                                                                                                    <path style="opacity:0.55;fill:#ffffff" id="path695" d="m 33.634,-22.583 v -0.271 c 0.016,-0.151 -0.012,-0.271 0.096,-0.271 0.613,0 3.944,0 4.097,0 0.167,0 0.175,0.064 -0.013,0.064 -0.131,0 -3.133,0 -3.586,0 -0.457,0 -0.518,0.104 -0.518,0.197 l 0.002,0.271 c 0,0.182 -0.078,0.182 -0.078,0.01 z"  gorn="0.3.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.5.1" enable-background="new    "/>
+                                                                                                                                                                                                    <path style="opacity:0.02999998" id="path697" d="m 38.038,-20.983 c 0,0.067 0.012,0.137 -0.098,0.137 -0.611,0 -3.943,0 -4.095,0 -0.168,0 -0.176,-0.065 0.008,-0.065 0.136,0 3.138,-0.002 3.592,-0.002 0.593,0 0.593,-0.07 0.593,-0.07 z"  gorn="0.3.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.5.2" enable-background="new    "/>
+                                                                                                                                                                                                </g>
+                                                                                                                                                                                            </g>
+                                                                                                                                                                                            <g id="g699"  gorn="0.3.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2">
+                                                                                                                                                                                                <path style="fill:#d1c690" id="path701" d="m 32.626,-20.762 h 0.77 v -0.521 c 0,-0.125 0.082,-0.213 0.188,-0.27 v -1.688 h -1.009 v 2.427 0.049"  gorn="0.3.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0"/>
+                                                                                                                                                                                                <g transform="rotate(89.999852,33.077373,-23.212187)" >
+                                                                                                                                                                                                    <g >
+                                                                                                                                                                                                        <g >
+                                                                                                                                                                                                            <g >
+                                                                                                                                                                                                                <g >
+                                                                                                                                                                                                                    <g >
+                                                                                                                                                                                                                        <g >
+                                                                                                                                                                                                                            <g >
+                                                                                                                                                                                                                                <rect height="1.006" style="opacity:0.5;fill:#ffffff" id="rect703"  gorn="0.3.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.1.0.0.0.0.0.0.0.0" width="0.050999999" y="-23.715" x="33.051998" enable-background="new    "/>
+                                                                                                                                                                                                                            </g>
+                                                                                                                                                                                                                        </g>
+                                                                                                                                                                                                                    </g>
+                                                                                                                                                                                                                </g>
+                                                                                                                                                                                                            </g>
+                                                                                                                                                                                                        </g>
+                                                                                                                                                                                                    </g>
+                                                                                                                                                                                                </g>
+                                                                                                                                                                                            </g>
+                                                                                                                                                                                            <g id="g705"  gorn="0.3.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3">
+                                                                                                                                                                                                <path style="fill:#d1c690" id="path707" d="m 39.095,-20.762 v -0.049 -2.426 h -1.009 v 2.104 c 0.104,0.056 0.189,0.146 0.189,0.271 v 0.098 h 0.77"  gorn="0.3.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.0"/>
+                                                                                                                                                                                                <g transform="rotate(89.999852,38.58953,-23.21173)" >
+                                                                                                                                                                                                    <g >
+                                                                                                                                                                                                        <g >
+                                                                                                                                                                                                            <g >
+                                                                                                                                                                                                                <g >
+                                                                                                                                                                                                                    <g >
+                                                                                                                                                                                                                        <g >
+                                                                                                                                                                                                                            <g >
+                                                                                                                                                                                                                                <rect height="1.0089999" style="opacity:0.5;fill:#ffffff" id="rect709"  gorn="0.3.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3.1.0.0.0.0.0.0.0.0" width="0.052000001" y="-23.716" x="38.563999" enable-background="new    "/>
+                                                                                                                                                                                                                            </g>
+                                                                                                                                                                                                                        </g>
+                                                                                                                                                                                                                    </g>
+                                                                                                                                                                                                                </g>
+                                                                                                                                                                                                            </g>
+                                                                                                                                                                                                        </g>
+                                                                                                                                                                                                    </g>
+                                                                                                                                                                                                </g>
+                                                                                                                                                                                            </g>
+                                                                                                                                                                                        </g>
+                                                                                                                                                                                    </g>
+                                                                                                                                                                                </g>
+                                                                                                                                                                            </g>
+                                                                                                                                                                        </g>
+                                                                                                                                                                    </g>
+                                                                                                                                                                </g>
+                                                                                                                                                            </g>
+                                                                                                                                                        </g>
+                                                                                                                                                    </g>
+                                                                                                                                                </g>
+                                                                                                                                            </g>
+                                                                                                                                        </g>
+                                                                                                                                    </g>
+                                                                                                                                </g>
+                                                                                                                            </g>
+                                                                                                                        </g>
+                                                                                                                    </g>
+                                                                                                                </g>
+                                                                                                            </g>
+                                                                                                        </g>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g transform="matrix(-1.4893572,0,0,-1.4893572,296.57735,555.40063)" >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g style="display:inline" id="_x30_603-res"  gorn="0.3.0.0.0.0.0.0.0.0.4.0.0.0.0.0.0.0.0">
+                                                                            <g transform="rotate(90,3.969,1.417)" >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g >
+                                                                                                        <g >
+                                                                                                            <g id="g970"  gorn="0.3.0.0.0.0.0.0.0.0.4.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                                                                                                                <g id="g972"  gorn="0.3.0.0.0.0.0.0.0.0.4.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                                                                                                                    <g id="g974"  gorn="0.3.0.0.0.0.0.0.0.0.4.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                                                                                                                        <g transform="rotate(89.999852,7.9286084,1.4175121)" >
+                                                                                                                            <g >
+                                                                                                                                <g >
+                                                                                                                                    <g >
+                                                                                                                                        <g >
+                                                                                                                                            <g >
+                                                                                                                                                <g >
+                                                                                                                                                    <g >
+                                                                                                                                                        <rect height="7.9660001" style="fill:#333333" id="rect976"  gorn="0.3.0.0.0.0.0.0.0.0.4.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0" width="2.8340001" y="-2.566" x="6.5120001"/>
+                                                                                                                                                    </g>
+                                                                                                                                                </g>
+                                                                                                                                            </g>
+                                                                                                                                        </g>
+                                                                                                                                    </g>
+                                                                                                                                </g>
+                                                                                                                            </g>
+                                                                                                                        </g>
+                                                                                                                        <g transform="rotate(89.999852,7.9286602,0.02296025)" >
+                                                                                                                            <g >
+                                                                                                                                <g >
+                                                                                                                                    <g >
+                                                                                                                                        <g >
+                                                                                                                                            <g >
+                                                                                                                                                <g >
+                                                                                                                                                    <g >
+                                                                                                                                                        <rect height="7.9660001" style="opacity:0.2;fill:#ffffff" id="rect978"  gorn="0.3.0.0.0.0.0.0.0.0.4.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0" width="0.045000002" y="-3.96" x="7.9060001" enable-background="new    "/>
+                                                                                                                                                    </g>
+                                                                                                                                                </g>
+                                                                                                                                            </g>
+                                                                                                                                        </g>
+                                                                                                                                    </g>
+                                                                                                                                </g>
+                                                                                                                            </g>
+                                                                                                                        </g>
+                                                                                                                        <g transform="rotate(89.999852,7.9279066,2.8189139)" >
+                                                                                                                            <g >
+                                                                                                                                <g >
+                                                                                                                                    <g >
+                                                                                                                                        <g >
+                                                                                                                                            <g >
+                                                                                                                                                <g >
+                                                                                                                                                    <g >
+                                                                                                                                                        <rect height="7.9660001" style="opacity:0.2" id="rect980"  gorn="0.3.0.0.0.0.0.0.0.0.4.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.0.0.0.0.0.0.0" width="0.030999999" y="-1.164" x="7.9120002" enable-background="new    "/>
+                                                                                                                                                    </g>
+                                                                                                                                                </g>
+                                                                                                                                            </g>
+                                                                                                                                        </g>
+                                                                                                                                    </g>
+                                                                                                                                </g>
+                                                                                                                            </g>
+                                                                                                                        </g>
+                                                                                                                    </g>
+                                                                                                                    <g id="g982"  gorn="0.3.0.0.0.0.0.0.0.0.4.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1">
+                                                                                                                        <path style="fill:#dcdcdc" id="path984" d="m 10.755,0.001 v 0 0 h -0.094 v 0 c -0.08,0.25 -0.135,0.795 -0.135,1.074 0,0.291 0.048,1.409 0.135,1.674 v 0 0 h 1.224 V 0.001 Z"  gorn="0.3.0.0.0.0.0.0.0.0.4.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0"/>
+                                                                                                                        <path style="fill:#dcdcdc" id="path986" d="M 5.191,0.104 V 0.001 H 3.969 V 2.749 H 5.192 C 5.28,2.485 5.385,1.372 5.385,1.077 5.385,0.73 5.31,0.405 5.191,0.104 Z"  gorn="0.3.0.0.0.0.0.0.0.0.4.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.1"/>
+                                                                                                                        <path style="fill:#999999" id="path988" d="M 11.892,2.854 H 10.668 L 10.661,2.749 h 1.224 z"  gorn="0.3.0.0.0.0.0.0.0.0.4.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.2"/>
+                                                                                                                        <path style="fill:#999999" id="path990" d="M 3.975,2.855 H 5.198 L 5.191,2.749 H 3.969 Z"  gorn="0.3.0.0.0.0.0.0.0.0.4.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.3"/>
+                                                                                                                        <g transform="rotate(89.999852,4.5805059,0.02300594)" >
+                                                                                                                            <g >
+                                                                                                                                <g >
+                                                                                                                                    <g >
+                                                                                                                                        <g >
+                                                                                                                                            <g >
+                                                                                                                                                <g >
+                                                                                                                                                    <g >
+                                                                                                                                                        <rect height="1.223" style="opacity:0.5;fill:#ffffff" id="rect992"  gorn="0.3.0.0.0.0.0.0.0.0.4.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.4.0.0.0.0.0.0.0.0" width="0.045000002" y="-0.58899999" x="4.5580001" enable-background="new    "/>
+                                                                                                                                                    </g>
+                                                                                                                                                </g>
+                                                                                                                                            </g>
+                                                                                                                                        </g>
+                                                                                                                                    </g>
+                                                                                                                                </g>
+                                                                                                                            </g>
+                                                                                                                        </g>
+                                                                                                                        <g transform="rotate(89.999852,11.274865,0.02296457)" >
+                                                                                                                            <g >
+                                                                                                                                <g >
+                                                                                                                                    <g >
+                                                                                                                                        <g >
+                                                                                                                                            <g >
+                                                                                                                                                <g >
+                                                                                                                                                    <g >
+                                                                                                                                                        <rect height="1.225" style="opacity:0.5;fill:#ffffff" id="rect994"  gorn="0.3.0.0.0.0.0.0.0.0.4.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.5.0.0.0.0.0.0.0.0" width="0.045000002" y="-0.58999997" x="11.252" enable-background="new    "/>
+                                                                                                                                                    </g>
+                                                                                                                                                </g>
+                                                                                                                                            </g>
+                                                                                                                                        </g>
+                                                                                                                                    </g>
+                                                                                                                                </g>
+                                                                                                                            </g>
+                                                                                                                        </g>
+                                                                                                                        <line style="fill:none" x1="4.7069998" id="line996" y2="2.835" y1="2.835"  gorn="0.3.0.0.0.0.0.0.0.0.4.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.6" x2="4.7069998"/>
+                                                                                                                    </g>
+                                                                                                                </g>
+                                                                                                                <g stroke-opacity="1" font-size="2.51786" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-linecap:butt;stroke-linejoin:miter;" id="text8301" fill-opacity="1" stroke-width="1"  gorn="0.3.0.0.0.0.0.0.0.0.4.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1" stroke="none" fill="#ffffff" xmlns:xml="http://www.w3.org/XML/1998/namespace" xml:space="preserve">
+                                                                                                                    <text style="font-size:2.5178647px;fill:#ffffff;fill-opacity:1" id="tspan8303"  gorn="0.3.0.0.0.0.0.0.0.0.4.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0" y="2.3092048" x="8.1210651">151</text>
+                                                                                                                </g>
+                                                                                                            </g>
+                                                                                                        </g>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g transform="translate(276.95076,455.625)" >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g id="relay"  gorn="0.3.0.0.0.0.0.0.0.0.5.0.0.0.0.0.0.0.0">
+                                                                            <rect height="73.416084" stroke-opacity="1" style="opacity:1;stroke-miterlimit:4;stroke-dasharray:none;" id="rect4617" fill-opacity="1" stroke-width="1.64763772"  gorn="0.3.0.0.0.0.0.0.0.0.5.0.0.0.0.0.0.0.0.0" stroke="none" width="55.179493" y="32.831032" fill="#1e9cf8" x="25.106134"/>
+                                                                            <rect height="18.691406" stroke-opacity="1" style="opacity:1;stroke-miterlimit:4;stroke-dasharray:none;" id="rect4621" fill-opacity="1" stroke-width="1.64763772"  gorn="0.3.0.0.0.0.0.0.0.0.5.0.0.0.0.0.0.0.0.1" stroke="none" width="55.179497" y="9.1535263" fill="#1e9cf8" x="25.106134"/>
+                                                                            <path stroke-opacity="1" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="path4618" fill-opacity="1" stroke-width="0.9375" d="M 80.285629,9.1535223 H 25.106135 L 26.04375,4.255655 79.347188,4.248355 Z"  gorn="0.3.0.0.0.0.0.0.0.0.5.0.0.0.0.0.0.0.0.2" stroke="none" fill="#50b5f8"/>
+                                                                            <path stroke-opacity="1" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="path4618-4" fill-opacity="1" stroke-width="0.9375" d="M 80.28563,27.844929 H 25.106134 l 0.937615,4.897867 53.30344,0.0073 z"  gorn="0.3.0.0.0.0.0.0.0.0.5.0.0.0.0.0.0.0.0.3" stroke="none" fill="#0783dd"/>
+                                                                            <rect height="15.644531" stroke-opacity="1" style="opacity:1;stroke-miterlimit:4;stroke-dasharray:none;" id="rect4644" fill-opacity="1" stroke-width="1.64763772"  gorn="0.3.0.0.0.0.0.0.0.0.5.0.0.0.0.0.0.0.0.4" stroke="none" width="2.8710938" y="10.676964" fill="#0975bf" x="42.031822"/>
+                                                                            <rect height="15.644531" stroke-opacity="1" style="opacity:1;stroke-miterlimit:4;stroke-dasharray:none;" id="rect4644-6" fill-opacity="1" stroke-width="1.64763772"  gorn="0.3.0.0.0.0.0.0.0.0.5.0.0.0.0.0.0.0.0.5" stroke="none" width="2.8710938" y="10.676964" fill="#0975bf" x="60.488853"/>
+                                                                            <circle stroke-opacity="1" style="opacity:1;stroke-miterlimit:4;stroke-dasharray:none;" cx="52.695881" id="path4667" fill-opacity="1" stroke-width="1.64763772"  gorn="0.3.0.0.0.0.0.0.0.0.5.0.0.0.0.0.0.0.0.6" stroke="none" cy="18.499229" r="6.796875" fill="#076fb5"/>
+                                                                            <circle stroke-opacity="1" style="opacity:1;stroke-miterlimit:4;stroke-dasharray:none;" cx="71.31958" id="path4667-3" fill-opacity="1" stroke-width="1.64763772"  gorn="0.3.0.0.0.0.0.0.0.0.5.0.0.0.0.0.0.0.0.7" stroke="none" cy="18.499229" r="6.796875" fill="#076fb5"/>
+                                                                            <circle stroke-opacity="1" style="opacity:1;stroke-miterlimit:4;stroke-dasharray:none;" cx="34.072182" id="path4667-7" fill-opacity="1" stroke-width="1.64763772"  gorn="0.3.0.0.0.0.0.0.0.0.5.0.0.0.0.0.0.0.0.8" stroke="none" cy="18.499229" r="6.796875" fill="#076fb5"/>
+                                                                            <g transform="rotate(24)" >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g >
+                                                                                                        <g >
+                                                                                                            <circle stroke-opacity="1" style="opacity:1;stroke-miterlimit:4;stroke-dasharray:none;" cx="55.687115" id="path4767-5" fill-opacity="1" stroke-width="1.64763772"  gorn="0.3.0.0.0.0.0.0.0.0.5.0.0.0.0.0.0.0.0.9.0.0.0.0.0.0.0.0" stroke="none" cy="-4.4825335" r="5.6835938" fill="#627d8e"/>
+                                                                                                        </g>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                            <path stroke-opacity="1" style="opacity:1;stroke-miterlimit:4;stroke-dasharray:none;" id="path4767" fill-opacity="0.97250001" stroke-width="1.64763772" d="m 55.948403,13.896872 -4.536315,10.18873 a 5.6835938,5.6835938 0 0 0 6.476428,-3.219719 5.6835938,5.6835938 0 0 0 -1.940113,-6.969011 z M 53.97976,13.024378 a 5.6835938,5.6835938 0 0 0 -6.475684,3.218048 5.6835938,5.6835938 0 0 0 1.939369,6.970683 z"  gorn="0.3.0.0.0.0.0.0.0.0.5.0.0.0.0.0.0.0.0.10" stroke="none" fill="#8b99a1"/>
+                                                                            <g transform="rotate(96)" >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g >
+                                                                                                        <g >
+                                                                                                            <circle stroke-opacity="1" style="opacity:1;stroke-miterlimit:4;stroke-dasharray:none;" cx="14.836375" id="path4767-5-5" fill-opacity="1" stroke-width="1.64763772"  gorn="0.3.0.0.0.0.0.0.0.0.5.0.0.0.0.0.0.0.0.11.0.0.0.0.0.0.0.0" stroke="none" cy="-35.819229" r="5.6835938" fill="#627d8e"/>
+                                                                                                        </g>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                            <path stroke-opacity="1" style="opacity:1;stroke-miterlimit:4;stroke-dasharray:none;" id="path4767-8" fill-opacity="0.97250001" stroke-width="1.64763772" d="M 39.507392,20.153084 28.415535,18.987283 a 5.6835938,5.6835938 0 0 0 5.063462,5.1645 5.6835938,5.6835938 0 0 0 6.028395,-3.998699 z m 0.221447,-2.141907 a 5.6835938,5.6835938 0 0 0 -5.061642,-5.16431 5.6835938,5.6835938 0 0 0 -6.030216,3.998509 z"  gorn="0.3.0.0.0.0.0.0.0.0.5.0.0.0.0.0.0.0.0.12" stroke="none" fill="#8b99a1"/>
+                                                                            <g transform="rotate(-45)" >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g >
+                                                                                                        <g >
+                                                                                                            <circle stroke-opacity="1" style="opacity:1;stroke-miterlimit:4;stroke-dasharray:none;" cx="37.349628" id="path4767-5-3" fill-opacity="1" stroke-width="1.64763772"  gorn="0.3.0.0.0.0.0.0.0.0.5.0.0.0.0.0.0.0.0.13.0.0.0.0.0.0.0.0" stroke="none" cy="63.51149" r="5.6835938" fill="#627d8e"/>
+                                                                                                        </g>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                            <path stroke-opacity="1" style="opacity:1;stroke-miterlimit:4;stroke-dasharray:none;" id="path4767-52" fill-opacity="0.97250001" stroke-width="1.64763772" d="m 68.136434,13.793456 7.886329,7.88633 A 5.6835938,5.6835938 0 0 0 75.33784,14.479675 5.6835938,5.6835938 0 0 0 68.136434,13.793456 Z m -1.520042,1.525213 a 5.6835938,5.6835938 0 0 0 0.683629,7.198818 5.6835938,5.6835938 0 0 0 7.202701,0.687512 z"  gorn="0.3.0.0.0.0.0.0.0.0.5.0.0.0.0.0.0.0.0.14" stroke="none" fill="#8b99a1"/>
+                                                                            <path stroke-opacity="1" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="path4854" stroke-width="0.9375" d="M 25.144042,33.307149 H 80.26611"  gorn="0.3.0.0.0.0.0.0.0.0.5.0.0.0.0.0.0.0.0.15" stroke="#50b5f8" fill="none"/>
+                                                                            <path stroke-opacity="1" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="path4854-4" stroke-width="0.9375" d="M 25.105046,105.76518 H 80.227115"  gorn="0.3.0.0.0.0.0.0.0.0.5.0.0.0.0.0.0.0.0.16" stroke="#0783dd" fill="none"/>
+                                                                            <path stroke-opacity="1" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="path4871" stroke-width="0.9375" d="M 25.589045,33.765048 V 105.28218"  gorn="0.3.0.0.0.0.0.0.0.0.5.0.0.0.0.0.0.0.0.17" stroke="#50b5f8" fill="none"/>
+                                                                            <path stroke-opacity="1" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" id="path4871-3" stroke-width="0.9375" d="m 79.801024,33.77783 v 71.51713"  gorn="0.3.0.0.0.0.0.0.0.0.5.0.0.0.0.0.0.0.0.18" stroke="#0783dd" fill="none"/>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g transform="translate(276.97097,454.68222)" >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g id="g4964"  gorn="0.3.0.0.0.0.0.0.0.0.6.0.0.0.0.0.0.0.0">
+                                                                            <rect height="3.4570312" stroke-opacity="1" style="opacity:1;stroke-miterlimit:4;stroke-dasharray:none;" id="rect4937" fill-opacity="1" stroke-width="2.71062994"  gorn="0.3.0.0.0.0.0.0.0.0.6.0.0.0.0.0.0.0.0.0" stroke="none" width="3.2519531" y="68.890244" fill="#a3a3a3" x="14.434094"/>
+                                                                            <rect height="3.4570312" stroke-opacity="1" style="opacity:1;stroke-miterlimit:4;stroke-dasharray:none;" id="rect4937-4" fill-opacity="1" stroke-width="2.71062994"  gorn="0.3.0.0.0.0.0.0.0.0.6.0.0.0.0.0.0.0.0.1" stroke="none" width="3.2519531" y="77.187805" fill="#a3a3a3" x="11.171783"/>
+                                                                            <rect height="3.4570312" stroke-opacity="1" style="opacity:1;stroke-miterlimit:4;stroke-dasharray:none;" id="rect4937-0" fill-opacity="1" stroke-width="2.71062994"  gorn="0.3.0.0.0.0.0.0.0.0.6.0.0.0.0.0.0.0.0.2" stroke="none" width="3.2519531" y="77.187805" fill="#a3a3a3" x="17.67569"/>
+                                                                            <rect height="4.9125237" stroke-opacity="1" style="opacity:1;stroke-miterlimit:4;stroke-dasharray:none;" id="rect4935" fill-opacity="1" stroke-width="2.71062994"  gorn="0.3.0.0.0.0.0.0.0.0.6.0.0.0.0.0.0.0.0.3" stroke="none" width="10.21466" y="72.290306" fill="#1a1a1a" x="10.942383"/>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g transform="translate(214.05473,270.57187)" >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g style="display:inline" id="pins"  gorn="0.3.0.0.0.0.0.0.0.0.7.0.0.0.0.0.0.0.0">
+                                                                            <g transform="translate(-16.524092,60.645888)" >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g >
+                                                                                                        <g >
+                                                                                                            <g style="display:inline" id="g8616"  gorn="0.3.0.0.0.0.0.0.0.0.7.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"/>
+                                                                                                        </g>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                            <circle stroke-opacity="1" style="display:inline;" cx="114.90543" id="path8375-78-6" fill-opacity="0" stroke-width="1"  gorn="0.3.0.0.0.0.0.0.0.0.7.0.0.0.0.0.0.0.0.1" stroke="#8c8c8c" cy="297.01807" r="2.3883932" fill="none"/>
+                                                                            <circle stroke-opacity="1" style="display:inline;" cx="123.48074" id="path8375-3-9" fill-opacity="0" stroke-width="1"  gorn="0.3.0.0.0.0.0.0.0.0.7.0.0.0.0.0.0.0.0.2" stroke="#8c8c8c" cy="297.01807" r="2.3883932" fill="#2e2e2e"/>
+                                                                            <path stroke-opacity="1" style="display:inline;stroke-miterlimit:4;stroke-dasharray:none;" id="path8375-3-0-2" fill-opacity="0" stroke-width="1.29999995" d="m 134.63842,297.08505 a 2.388393,2.3883932 0 0 1 -2.38839,2.38839 2.388393,2.3883932 0 0 1 -2.38839,-2.38839 2.388393,2.3883932 0 0 1 2.38839,-2.3884 2.388393,2.3883932 0 0 1 2.38839,2.3884 z m -4.97767,-2.67858 h 5.17857 c 0,0 0,0 0,0 v 5.22322 c 0,0 0,0 0,0 h -5.17857 c 0,0 0,0 0,0 v -5.22322 c 0,0 0,0 0,0 z"  gorn="0.3.0.0.0.0.0.0.0.0.7.0.0.0.0.0.0.0.0.3" stroke="#8c8c8c" fill="#2e2e2e"/>
+                                                                            <g transform="matrix(1.2440783,0,0,1.2440783,-94.546522,286.88078)" >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g >
+                                                                                                        <g >
+                                                                                                            <polygon style="display:inline;fill:#404040" id="polygon9525"  gorn="0.3.0.0.0.0.0.0.0.0.7.0.0.0.0.0.0.0.0.4.0.0.0.0.0.0.0.0" points="171.949,10.056 171.949,6.061 170.389,4.526 166.327,4.526 164.766,6.061 164.766,10.056 166.327,11.588 170.389,11.588 "/>
+                                                                                                        </g>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                            <g transform="matrix(1.2440783,0,0,1.2440783,-85.610632,286.88078)" >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g >
+                                                                                                        <g >
+                                                                                                            <polygon style="display:inline;fill:#404040" id="polygon9525-7"  gorn="0.3.0.0.0.0.0.0.0.0.7.0.0.0.0.0.0.0.0.5.0.0.0.0.0.0.0.0" points="164.766,10.056 166.327,11.588 170.389,11.588 171.949,10.056 171.949,6.061 170.389,4.526 166.327,4.526 164.766,6.061 "/>
+                                                                                                        </g>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                            <g transform="matrix(1.2440783,0,0,1.2440783,-76.674732,286.88078)" >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g >
+                                                                                                        <g >
+                                                                                                            <polygon style="display:inline;fill:#404040" id="polygon9525-0"  gorn="0.3.0.0.0.0.0.0.0.0.7.0.0.0.0.0.0.0.0.6.0.0.0.0.0.0.0.0" points="164.766,10.056 166.327,11.588 170.389,11.588 171.949,10.056 171.949,6.061 170.389,4.526 166.327,4.526 164.766,6.061 "/>
+                                                                                                        </g>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                            <rect height="26.979361" stroke-opacity="1" style="display:inline;opacity:1;stroke-miterlimit:4;stroke-dasharray:none;" id="connector0pin" fill-opacity="1" stroke-width="1.19069779"  gorn="0.3.0.0.0.0.0.0.0.0.7.0.0.0.0.0.0.0.0.7" stroke="#8c8c8c" rx="8.7117614e-016" width="1.5093021" y="296.59021" fill="#8c8c8c" ry="8.7117614e-016" x="114.10526"/>
+                                                                            <rect height="0.0563401" id="connector0terminal" stroke-width="0"  gorn="0.3.0.0.0.0.0.0.0.0.7.0.0.0.0.0.0.0.0.8" stroke="none" width="0.0054" y="324.137" fill="none" x="114.857"/>
+                                                                            <rect height="26.979361" stroke-opacity="1" style="display:inline;opacity:1;stroke-miterlimit:4;stroke-dasharray:none;" id="connector1pin" fill-opacity="1" stroke-width="1.19069779"  gorn="0.3.0.0.0.0.0.0.0.0.7.0.0.0.0.0.0.0.0.9" stroke="#8c8c8c" rx="8.7117614e-016" width="1.5093021" y="296.5802" fill="#8c8c8c" ry="8.7117614e-016" x="123.13847"/>
+                                                                            <rect height="0.0563401" id="connector1terminal" stroke-width="0"  gorn="0.3.0.0.0.0.0.0.0.0.7.0.0.0.0.0.0.0.0.10" stroke="none" width="0.0054" y="324.127" fill="none" x="123.89"/>
+                                                                            <rect height="26.979361" stroke-opacity="1" style="display:inline;opacity:1;stroke-miterlimit:4;stroke-dasharray:none;" id="connector2pin" fill-opacity="1" stroke-width="1.19069779"  gorn="0.3.0.0.0.0.0.0.0.0.7.0.0.0.0.0.0.0.0.11" stroke="#8c8c8c" rx="8.7117614e-016" width="1.5093021" y="296.57709" fill="#8c8c8c" ry="8.7117614e-016" x="132.14316"/>
+                                                                            <rect height="0.0563401" id="connector2terminal" stroke-width="0"  gorn="0.3.0.0.0.0.0.0.0.0.7.0.0.0.0.0.0.0.0.12" stroke="none" width="0.0054" y="324.124" fill="none" x="132.895"/>
+                                                                            <circle stroke-opacity="1" style="display:inline;opacity:1;stroke-miterlimit:4;stroke-dasharray:none;" cx="96.968231" id="connector3pin" fill-opacity="0" stroke-width="1.64763772"  gorn="0.3.0.0.0.0.0.0.0.0.7.0.0.0.0.0.0.0.0.13" stroke="none" cy="203.55237" r="6.796875" fill="#000000"/>
+                                                                            <circle stroke-opacity="1" style="display:inline;opacity:1;stroke-miterlimit:4;stroke-dasharray:none;" cx="115.59195" id="connector4pin" fill-opacity="0" stroke-width="1.64763772"  gorn="0.3.0.0.0.0.0.0.0.0.7.0.0.0.0.0.0.0.0.14" stroke="none" cy="203.60812" r="6.796875" fill="#000000"/>
+                                                                            <circle stroke-opacity="1" style="display:inline;opacity:1;stroke-miterlimit:4;stroke-dasharray:none;" cx="134.21561" id="connector5pin" fill-opacity="0" stroke-width="1.64763772"  gorn="0.3.0.0.0.0.0.0.0.0.7.0.0.0.0.0.0.0.0.15" stroke="none" cy="203.55237" r="6.796875" fill="#000000"/>
+                                                                            <rect height="0.16069429" stroke-opacity="1" style="opacity:1;stroke-miterlimit:4;stroke-dasharray:none;" id="rect8209" fill-opacity="1" stroke-width="1.07946324"  gorn="0.3.0.0.0.0.0.0.0.0.7.0.0.0.0.0.0.0.0.16" stroke="#c1c1c1" rx="9.9289509e-016" width="1.6205368" y="296.5462" fill="#1a1a1a" ry="9.9289509e-016" x="114.043"/>
+                                                                            <rect height="0.077249847" stroke-opacity="1" style="opacity:1;stroke-miterlimit:4;stroke-dasharray:none;" id="rect8209-6" fill-opacity="1" stroke-width="0.80857694"  gorn="0.3.0.0.0.0.0.0.0.0.7.0.0.0.0.0.0.0.0.17" stroke="#c1c1c1" rx="1.1588659e-015" width="1.8914231" y="323.66626" fill="#1a1a1a" ry="1.1588659e-015" x="113.912"/>
+                                                                            <rect height="0.16069429" stroke-opacity="1" style="opacity:1;stroke-miterlimit:4;stroke-dasharray:none;" id="rect8209-0-6" fill-opacity="1" stroke-width="1.07946324"  gorn="0.3.0.0.0.0.0.0.0.0.7.0.0.0.0.0.0.0.0.18" stroke="#c1c1c1" rx="9.9289509e-016" width="1.6205368" y="296.5462" fill="#1a1a1a" ry="9.9289509e-016" x="123.08405"/>
+                                                                            <rect height="0.077249847" stroke-opacity="1" style="opacity:1;stroke-miterlimit:4;stroke-dasharray:none;" id="rect8209-6-9-1" fill-opacity="1" stroke-width="0.80857694"  gorn="0.3.0.0.0.0.0.0.0.0.7.0.0.0.0.0.0.0.0.19" stroke="#c1c1c1" rx="1.1588659e-015" width="1.8914231" y="323.66626" fill="#1a1a1a" ry="1.1588659e-015" x="122.95306"/>
+                                                                            <rect height="0.16069429" stroke-opacity="1" style="opacity:1;stroke-miterlimit:4;stroke-dasharray:none;" id="rect8209-0-6-7" fill-opacity="1" stroke-width="1.07946324"  gorn="0.3.0.0.0.0.0.0.0.0.7.0.0.0.0.0.0.0.0.20" stroke="#c1c1c1" rx="9.9289509e-016" width="1.6205368" y="296.5462" fill="#1a1a1a" ry="9.9289509e-016" x="132.08406"/>
+                                                                            <rect height="0.077249847" stroke-opacity="1" style="opacity:1;stroke-miterlimit:4;stroke-dasharray:none;" id="rect8209-6-9-1-7" fill-opacity="1" stroke-width="0.80857694"  gorn="0.3.0.0.0.0.0.0.0.0.7.0.0.0.0.0.0.0.0.21" stroke="#c1c1c1" rx="1.1588659e-015" width="1.8914231" y="323.66626" fill="#1a1a1a" ry="1.1588659e-015" x="131.95306"/>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

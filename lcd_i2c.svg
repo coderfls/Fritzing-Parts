@@ -1,0 +1,486 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Generator: Adobe Illustrator 13.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+<svg xmlns="http://www.w3.org/2000/svg"  width="1.65354in" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace" x="0px" version="1.2" y="0px" height="0.748028in" viewBox="0 0 119.055 53.858" baseProfile="tiny" id="0">
+ <desc   id="0.0">
+  <referenceFile   id="0.0.0">LCM1602_IIC.svg</referenceFile>
+ </desc>
+ <rect  width="119.055" y="0" fill="#1B1464"  height="53.857" id="0.1"/>
+ <g   id="breadboard_1_">
+  <g   id="icon_1_">
+   <g   id="0.2.0.0">
+    <title   id="0.2.0.0.0">layer 21</title>
+    <g   id="0.2.0.0.1">
+     <title   id="0.2.0.0.1.0">element:JP1</title>
+     <g   id="0.2.0.0.1.1">
+      <title   id="0.2.0.0.1.1.0">package:1X04</title>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.1" y1="40.591" stroke-width="0.576" x1="117.128" y2="44.191" x2="117.128"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.2" y1="44.191" stroke-width="0.576" x1="117.128" y2="45.992" x2="115.327"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.3" y1="45.992" stroke-width="0.576" x1="111.728" y2="44.191" x2="109.929"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.4" y1="31.591" stroke-width="0.576" x1="115.327" y2="33.39" x2="117.128"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.5" y1="33.39" stroke-width="0.576" x1="117.128" y2="36.992" x2="117.128"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.6" y1="36.992" stroke-width="0.576" x1="117.128" y2="38.792" x2="115.327"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.7" y1="38.792" stroke-width="0.576" x1="111.728" y2="36.992" x2="109.929"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.8" y1="36.992" stroke-width="0.576" x1="109.929" y2="33.39" x2="109.929"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.9" y1="33.39" stroke-width="0.576" x1="109.929" y2="31.591" x2="111.728"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.10" y1="40.591" stroke-width="0.576" x1="117.128" y2="38.792" x2="115.327"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.11" y1="38.792" stroke-width="0.576" x1="111.728" y2="40.591" x2="109.929"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.12" y1="44.191" stroke-width="0.576" x1="109.929" y2="40.591" x2="109.929"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.13" y1="18.992" stroke-width="0.576" x1="117.128" y2="22.591" x2="117.128"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.14" y1="22.591" stroke-width="0.576" x1="117.128" y2="24.391" x2="115.327"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.15" y1="24.391" stroke-width="0.576" x1="111.728" y2="22.591" x2="109.929"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.16" y1="24.391" stroke-width="0.576" x1="115.327" y2="26.191" x2="117.128"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.17" y1="26.191" stroke-width="0.576" x1="117.128" y2="29.792" x2="117.128"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.18" y1="29.792" stroke-width="0.576" x1="117.128" y2="31.591" x2="115.327"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.19" y1="31.591" stroke-width="0.576" x1="111.728" y2="29.792" x2="109.929"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.20" y1="29.792" stroke-width="0.576" x1="109.929" y2="26.191" x2="109.929"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.21" y1="26.191" stroke-width="0.576" x1="109.929" y2="24.391" x2="111.728"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.22" y1="17.191" stroke-width="0.576" x1="115.327" y2="17.191" x2="111.728"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.23" y1="18.992" stroke-width="0.576" x1="117.128" y2="17.191" x2="115.327"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.24" y1="17.191" stroke-width="0.576" x1="111.728" y2="18.992" x2="109.929"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.25" y1="22.591" stroke-width="0.576" x1="109.929" y2="18.992" x2="109.929"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.2.0.0.1.1.26" y1="45.992" stroke-width="0.576" x1="115.327" y2="45.992" x2="111.728"/>
+     </g>
+    </g>
+    <g   id="0.2.0.0.2">
+     <title   id="0.2.0.0.2.0">element:JP2</title>
+     <g   id="0.2.0.0.2.1">
+      <title   id="0.2.0.0.2.1.0">package:STAND-OFF</title>
+     </g>
+    </g>
+    <g   id="0.2.0.0.3">
+     <title   id="0.2.0.0.3.0">element:JP3</title>
+     <g   id="0.2.0.0.3.1">
+      <title   id="0.2.0.0.3.1.0">package:STAND-OFF</title>
+     </g>
+    </g>
+    <g   id="0.2.0.0.4">
+     <title   id="0.2.0.0.4.0">element:JP5</title>
+     <g   id="0.2.0.0.4.1">
+      <title   id="0.2.0.0.4.1.0">package:FIDUCIAL-1X2.5</title>
+     </g>
+    </g>
+    <g   id="0.2.0.0.5">
+     <title   id="0.2.0.0.5.0">element:JP6</title>
+     <g   id="0.2.0.0.5.1">
+      <title   id="0.2.0.0.5.1.0">package:FIDUCIAL-1X2.5</title>
+     </g>
+    </g>
+    <g   id="0.2.0.0.6">
+     <title   id="0.2.0.0.6.0">element:R1</title>
+     <g   id="0.2.0.0.6.1">
+      <title   id="0.2.0.0.6.1.0">package:0402-RES</title>
+     </g>
+    </g>
+    <g   id="0.2.0.0.7">
+     <title   id="0.2.0.0.7.0">element:R2</title>
+     <g   id="0.2.0.0.7.1">
+      <title   id="0.2.0.0.7.1.0">package:0402-RES</title>
+     </g>
+    </g>
+    <g   id="0.2.0.0.8">
+     <title   id="0.2.0.0.8.0">element:U$2</title>
+     <g   id="0.2.0.0.8.1">
+      <title   id="0.2.0.0.8.1.0">package:OSHW-LOGO-M</title>
+     </g>
+    </g>
+   </g>
+   <circle  fill="none" cx="113.527"  cy="20.792" stroke="#9A916C" id="connector3_1_" r="2.052" stroke-width="1.224"/>
+   <rect  width="4.104" x="111.476" y="18.739" fill="none"  height="4.104" stroke="#9A916C" id="connector16pin" stroke-width="1.224"/>
+   <circle  fill="none" cx="113.527"  cy="27.993" stroke="#9A916C" id="connector17pin" r="2.052" stroke-width="1.224"/>
+   <circle  fill="none" cx="113.527"  cy="35.191" stroke="#9A916C" id="connector18pin" r="2.052" stroke-width="1.224"/>
+   <circle  fill="none" cx="113.527"  cy="42.39" stroke="#9A916C" id="connector19pin" r="2.052" stroke-width="1.224"/>
+  </g>
+ </g>
+ <g   id="0.3">
+  <g   id="0.3.0">
+   <title   id="0.3.0.0">layer 21</title>
+   <g   id="0.3.0.1">
+    <title   id="0.3.0.1.0">element:JP1</title>
+    <g   id="0.3.0.1.1">
+     <title   id="0.3.0.1.1.0">package:1X04</title>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.0.1.1.1" y1="9.99" stroke-width="0.576" x1="7.327" y2="9.99" x2="3.727"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.0.1.1.2" y1="9.99" stroke-width="0.576" x1="3.727" y2="8.189" x2="1.926"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.0.1.1.3" y1="4.59" stroke-width="0.576" x1="1.926" y2="2.792" x2="3.727"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.0.1.1.4" y1="8.189" stroke-width="0.576" x1="16.327" y2="9.99" x2="14.527"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.0.1.1.5" y1="9.99" stroke-width="0.576" x1="14.527" y2="9.99" x2="10.926"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.0.1.1.6" y1="9.99" stroke-width="0.576" x1="10.926" y2="8.189" x2="9.126"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.0.1.1.7" y1="4.59" stroke-width="0.576" x1="9.126" y2="2.792" x2="10.926"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.0.1.1.8" y1="2.792" stroke-width="0.576" x1="10.926" y2="2.792" x2="14.527"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.0.1.1.9" y1="2.792" stroke-width="0.576" x1="14.527" y2="4.59" x2="16.327"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.0.1.1.10" y1="9.99" stroke-width="0.576" x1="7.327" y2="8.189" x2="9.126"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.0.1.1.11" y1="4.59" stroke-width="0.576" x1="9.126" y2="2.792" x2="7.327"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.0.1.1.12" y1="2.792" stroke-width="0.576" x1="3.727" y2="2.792" x2="7.327"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.0.1.1.13" y1="9.99" stroke-width="0.576" x1="28.925" y2="9.99" x2="25.328"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.0.1.1.14" y1="9.99" stroke-width="0.576" x1="25.328" y2="8.189" x2="23.527"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.0.1.1.15" y1="4.59" stroke-width="0.576" x1="23.527" y2="2.792" x2="25.328"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.0.1.1.16" y1="8.189" stroke-width="0.576" x1="23.527" y2="9.99" x2="21.727"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.0.1.1.17" y1="9.99" stroke-width="0.576" x1="21.727" y2="9.99" x2="18.126"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.0.1.1.18" y1="9.99" stroke-width="0.576" x1="18.126" y2="8.189" x2="16.327"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.0.1.1.19" y1="4.59" stroke-width="0.576" x1="16.327" y2="2.792" x2="18.126"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.0.1.1.20" y1="2.792" stroke-width="0.576" x1="18.126" y2="2.792" x2="21.727"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.0.1.1.21" y1="2.792" stroke-width="0.576" x1="21.727" y2="4.59" x2="23.527"/>
+     <path  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.0.1.1.22" stroke-width="0.576" d="M30.726,4.59"/>
+     <path  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.0.1.1.23" stroke-width="0.576" d="M30.726,8.189"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.0.1.1.24" y1="9.99" stroke-width="0.576" x1="28.925" y2="8.189" x2="30.726"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.0.1.1.25" y1="4.59" stroke-width="0.576" x1="30.726" y2="2.792" x2="28.925"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.0.1.1.26" y1="2.792" stroke-width="0.576" x1="25.328" y2="2.792" x2="28.925"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.0.1.1.27" y1="8.189" stroke-width="0.576" x1="1.926" y2="4.59" x2="1.926"/>
+    </g>
+   </g>
+   <g   id="0.3.0.2">
+    <title   id="0.3.0.2.0">element:JP2</title>
+    <g   id="0.3.0.2.1">
+     <title   id="0.3.0.2.1.0">package:STAND-OFF</title>
+    </g>
+   </g>
+   <g   id="0.3.0.3">
+    <title   id="0.3.0.3.0">element:JP3</title>
+    <g   id="0.3.0.3.1">
+     <title   id="0.3.0.3.1.0">package:STAND-OFF</title>
+    </g>
+   </g>
+   <g   id="0.3.0.4">
+    <title   id="0.3.0.4.0">element:JP5</title>
+    <g   id="0.3.0.4.1">
+     <title   id="0.3.0.4.1.0">package:FIDUCIAL-1X2.5</title>
+    </g>
+   </g>
+   <g   id="0.3.0.5">
+    <title   id="0.3.0.5.0">element:JP6</title>
+    <g   id="0.3.0.5.1">
+     <title   id="0.3.0.5.1.0">package:FIDUCIAL-1X2.5</title>
+    </g>
+   </g>
+   <g   id="0.3.0.6">
+    <title   id="0.3.0.6.0">element:R1</title>
+    <g   id="0.3.0.6.1">
+     <title   id="0.3.0.6.1.0">package:0402-RES</title>
+    </g>
+   </g>
+   <g   id="0.3.0.7">
+    <title   id="0.3.0.7.0">element:R2</title>
+    <g   id="0.3.0.7.1">
+     <title   id="0.3.0.7.1.0">package:0402-RES</title>
+    </g>
+   </g>
+   <g   id="0.3.0.8">
+    <title   id="0.3.0.8.0">element:U$2</title>
+    <g   id="0.3.0.8.1">
+     <title   id="0.3.0.8.1.0">package:OSHW-LOGO-M</title>
+    </g>
+   </g>
+  </g>
+  <circle  fill="none" cx="27.126"  cy="6.39" stroke="#9A916C" id="connector12pin" r="2.051" stroke-width="1.224"/>
+  <circle  fill="none" cx="19.926"  cy="6.39" stroke="#9A916C" id="connector13pin" r="2.051" stroke-width="1.224"/>
+  <circle  fill="none" cx="12.727"  cy="6.39" stroke="#9A916C" id="connector14pin" r="2.051" stroke-width="1.224"/>
+  <circle  fill="none" cx="5.527"  cy="6.39" stroke="#9A916C" id="connector15pin" r="2.051" stroke-width="1.224"/>
+  <g   id="icon_2_">
+   <g   id="0.3.5.0">
+    <title   id="0.3.5.0.0">layer 21</title>
+    <g   id="0.3.5.0.1">
+     <title   id="0.3.5.0.1.0">element:JP1</title>
+     <g   id="0.3.5.0.1.1">
+      <title   id="0.3.5.0.1.1.0">package:1X04</title>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.5.0.1.1.1" y1="9.99" stroke-width="0.576" x1="93.729" y2="9.99" x2="90.129"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.5.0.1.1.2" y1="9.99" stroke-width="0.576" x1="90.129" y2="8.189" x2="88.328"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.5.0.1.1.3" y1="4.59" stroke-width="0.576" x1="88.328" y2="2.792" x2="90.129"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.5.0.1.1.4" y1="8.189" stroke-width="0.576" x1="102.729" y2="9.99" x2="100.93"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.5.0.1.1.5" y1="9.99" stroke-width="0.576" x1="100.93" y2="9.99" x2="97.328"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.5.0.1.1.6" y1="9.99" stroke-width="0.576" x1="97.328" y2="8.189" x2="95.528"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.5.0.1.1.7" y1="4.59" stroke-width="0.576" x1="95.528" y2="2.792" x2="97.328"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.5.0.1.1.8" y1="2.792" stroke-width="0.576" x1="97.328" y2="2.792" x2="100.93"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.5.0.1.1.9" y1="2.792" stroke-width="0.576" x1="100.93" y2="4.59" x2="102.729"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.5.0.1.1.10" y1="9.99" stroke-width="0.576" x1="93.729" y2="8.189" x2="95.528"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.5.0.1.1.11" y1="4.59" stroke-width="0.576" x1="95.528" y2="2.792" x2="93.729"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.5.0.1.1.12" y1="2.792" stroke-width="0.576" x1="90.129" y2="2.792" x2="93.729"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.5.0.1.1.13" y1="9.99" stroke-width="0.576" x1="115.328" y2="9.99" x2="111.729"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.5.0.1.1.14" y1="9.99" stroke-width="0.576" x1="111.729" y2="8.189" x2="109.93"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.5.0.1.1.15" y1="4.59" stroke-width="0.576" x1="109.93" y2="2.792" x2="111.729"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.5.0.1.1.16" y1="8.189" stroke-width="0.576" x1="109.93" y2="9.99" x2="108.129"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.5.0.1.1.17" y1="9.99" stroke-width="0.576" x1="108.129" y2="9.99" x2="104.528"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.5.0.1.1.18" y1="9.99" stroke-width="0.576" x1="104.528" y2="8.189" x2="102.729"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.5.0.1.1.19" y1="4.59" stroke-width="0.576" x1="102.729" y2="2.792" x2="104.528"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.5.0.1.1.20" y1="2.792" stroke-width="0.576" x1="104.528" y2="2.792" x2="108.129"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.5.0.1.1.21" y1="2.792" stroke-width="0.576" x1="108.129" y2="4.59" x2="109.93"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.5.0.1.1.22" y1="8.189" stroke-width="0.576" x1="117.129" y2="4.59" x2="117.129"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.5.0.1.1.23" y1="9.99" stroke-width="0.576" x1="115.328" y2="8.189" x2="117.129"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.5.0.1.1.24" y1="4.59" stroke-width="0.576" x1="117.129" y2="2.792" x2="115.328"/>
+      <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.5.0.1.1.25" y1="2.792" stroke-width="0.576" x1="111.729" y2="2.792" x2="115.328"/>
+      <path  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.5.0.1.1.26" stroke-width="0.576" d="M88.328,4.59"/>
+      <path  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.5.0.1.1.27" stroke-width="0.576" d="M88.328,8.189"/>
+     </g>
+    </g>
+    <g   id="0.3.5.0.2">
+     <title   id="0.3.5.0.2.0">element:JP2</title>
+     <g   id="0.3.5.0.2.1">
+      <title   id="0.3.5.0.2.1.0">package:STAND-OFF</title>
+     </g>
+    </g>
+    <g   id="0.3.5.0.3">
+     <title   id="0.3.5.0.3.0">element:JP3</title>
+     <g   id="0.3.5.0.3.1">
+      <title   id="0.3.5.0.3.1.0">package:STAND-OFF</title>
+     </g>
+    </g>
+    <g   id="0.3.5.0.4">
+     <title   id="0.3.5.0.4.0">element:JP5</title>
+     <g   id="0.3.5.0.4.1">
+      <title   id="0.3.5.0.4.1.0">package:FIDUCIAL-1X2.5</title>
+     </g>
+    </g>
+    <g   id="0.3.5.0.5">
+     <title   id="0.3.5.0.5.0">element:JP6</title>
+     <g   id="0.3.5.0.5.1">
+      <title   id="0.3.5.0.5.1.0">package:FIDUCIAL-1X2.5</title>
+     </g>
+    </g>
+    <g   id="0.3.5.0.6">
+     <title   id="0.3.5.0.6.0">element:R1</title>
+     <g   id="0.3.5.0.6.1">
+      <title   id="0.3.5.0.6.1.0">package:0402-RES</title>
+     </g>
+    </g>
+    <g   id="0.3.5.0.7">
+     <title   id="0.3.5.0.7.0">element:R2</title>
+     <g   id="0.3.5.0.7.1">
+      <title   id="0.3.5.0.7.1.0">package:0402-RES</title>
+     </g>
+    </g>
+    <g   id="0.3.5.0.8">
+     <title   id="0.3.5.0.8.0">element:U$2</title>
+     <g   id="0.3.5.0.8.1">
+      <title   id="0.3.5.0.8.1.0">package:OSHW-LOGO-M</title>
+     </g>
+    </g>
+   </g>
+   <circle  fill="none" cx="113.528"  cy="6.39" stroke="#9A916C" id="connector3_2_" r="2.051" stroke-width="1.224"/>
+   <rect  width="4.104" x="111.478" y="4.338" fill="none"  height="4.103" stroke="#9A916C" id="connector0pin" stroke-width="1.224"/>
+   <circle  fill="none" cx="106.328"  cy="6.39" stroke="#9A916C" id="connector1pin" r="2.051" stroke-width="1.224"/>
+   <circle  fill="none" cx="99.129"  cy="6.39" stroke="#9A916C" id="connector2pin" r="2.051" stroke-width="1.224"/>
+   <circle  fill="none" cx="91.93"  cy="6.39" stroke="#9A916C" id="connector3pin" r="2.051" stroke-width="1.224"/>
+  </g>
+  <g   id="0.3.6">
+   <title   id="0.3.6.0">layer 21</title>
+   <g   id="0.3.6.1">
+    <title   id="0.3.6.1.0">element:JP1</title>
+    <g   id="0.3.6.1.1">
+     <title   id="0.3.6.1.1.0">package:1X04</title>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.6.1.1.1" y1="9.99" stroke-width="0.576" x1="36.126" y2="9.99" x2="32.527"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.6.1.1.2" y1="9.99" stroke-width="0.576" x1="32.527" y2="8.189" x2="30.726"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.6.1.1.3" y1="4.59" stroke-width="0.576" x1="30.726" y2="2.792" x2="32.527"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.6.1.1.4" y1="8.189" stroke-width="0.576" x1="45.126" y2="9.99" x2="43.328"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.6.1.1.5" y1="9.99" stroke-width="0.576" x1="43.328" y2="9.99" x2="39.726"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.6.1.1.6" y1="9.99" stroke-width="0.576" x1="39.726" y2="8.189" x2="37.925"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.6.1.1.7" y1="4.59" stroke-width="0.576" x1="37.925" y2="2.792" x2="39.726"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.6.1.1.8" y1="2.792" stroke-width="0.576" x1="39.726" y2="2.792" x2="43.328"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.6.1.1.9" y1="2.792" stroke-width="0.576" x1="43.328" y2="4.59" x2="45.126"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.6.1.1.10" y1="9.99" stroke-width="0.576" x1="36.126" y2="8.189" x2="37.925"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.6.1.1.11" y1="4.59" stroke-width="0.576" x1="37.925" y2="2.792" x2="36.126"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.6.1.1.12" y1="2.792" stroke-width="0.576" x1="32.527" y2="2.792" x2="36.126"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.6.1.1.13" y1="9.99" stroke-width="0.576" x1="57.727" y2="9.99" x2="54.127"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.6.1.1.14" y1="9.99" stroke-width="0.576" x1="54.127" y2="8.189" x2="52.329"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.6.1.1.15" y1="4.59" stroke-width="0.576" x1="52.329" y2="2.792" x2="54.127"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.6.1.1.16" y1="8.189" stroke-width="0.576" x1="52.329" y2="9.99" x2="50.528"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.6.1.1.17" y1="9.99" stroke-width="0.576" x1="50.528" y2="9.99" x2="46.925"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.6.1.1.18" y1="9.99" stroke-width="0.576" x1="46.925" y2="8.189" x2="45.126"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.6.1.1.19" y1="4.59" stroke-width="0.576" x1="45.126" y2="2.792" x2="46.925"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.6.1.1.20" y1="2.792" stroke-width="0.576" x1="46.925" y2="2.792" x2="50.528"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.6.1.1.21" y1="2.792" stroke-width="0.576" x1="50.528" y2="4.59" x2="52.329"/>
+     <path  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.6.1.1.22" stroke-width="0.576" d="M59.528,4.59"/>
+     <path  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.6.1.1.23" stroke-width="0.576" d="M59.528,8.189"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.6.1.1.24" y1="9.99" stroke-width="0.576" x1="57.727" y2="8.189" x2="59.528"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.6.1.1.25" y1="4.59" stroke-width="0.576" x1="59.528" y2="2.792" x2="57.727"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.6.1.1.26" y1="2.792" stroke-width="0.576" x1="54.127" y2="2.792" x2="57.727"/>
+     <path  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.6.1.1.27" stroke-width="0.576" d="M30.726,4.59"/>
+     <path  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.6.1.1.28" stroke-width="0.576" d="M30.726,8.189"/>
+    </g>
+   </g>
+   <g   id="0.3.6.2">
+    <title   id="0.3.6.2.0">element:JP2</title>
+    <g   id="0.3.6.2.1">
+     <title   id="0.3.6.2.1.0">package:STAND-OFF</title>
+    </g>
+   </g>
+   <g   id="0.3.6.3">
+    <title   id="0.3.6.3.0">element:JP3</title>
+    <g   id="0.3.6.3.1">
+     <title   id="0.3.6.3.1.0">package:STAND-OFF</title>
+    </g>
+   </g>
+   <g   id="0.3.6.4">
+    <title   id="0.3.6.4.0">element:JP5</title>
+    <g   id="0.3.6.4.1">
+     <title   id="0.3.6.4.1.0">package:FIDUCIAL-1X2.5</title>
+    </g>
+   </g>
+   <g   id="0.3.6.5">
+    <title   id="0.3.6.5.0">element:JP6</title>
+    <g   id="0.3.6.5.1">
+     <title   id="0.3.6.5.1.0">package:FIDUCIAL-1X2.5</title>
+    </g>
+   </g>
+   <g   id="0.3.6.6">
+    <title   id="0.3.6.6.0">element:R1</title>
+    <g   id="0.3.6.6.1">
+     <title   id="0.3.6.6.1.0">package:0402-RES</title>
+    </g>
+   </g>
+   <g   id="0.3.6.7">
+    <title   id="0.3.6.7.0">element:R2</title>
+    <g   id="0.3.6.7.1">
+     <title   id="0.3.6.7.1.0">package:0402-RES</title>
+    </g>
+   </g>
+   <g   id="0.3.6.8">
+    <title   id="0.3.6.8.0">element:U$2</title>
+    <g   id="0.3.6.8.1">
+     <title   id="0.3.6.8.1.0">package:OSHW-LOGO-M</title>
+    </g>
+   </g>
+  </g>
+  <circle  fill="none" cx="55.926"  cy="6.39" stroke="#9A916C" id="connector8pin" r="2.051" stroke-width="1.224"/>
+  <circle  fill="none" cx="48.726"  cy="6.39" stroke="#9A916C" id="connector9pin" r="2.051" stroke-width="1.224"/>
+  <circle  fill="none" cx="41.527"  cy="6.39" stroke="#9A916C" id="connector10pin" r="2.051" stroke-width="1.224"/>
+  <circle  fill="none" cx="34.328"  cy="6.39" stroke="#9A916C" id="connector11pin" r="2.051" stroke-width="1.224"/>
+  <g   id="0.3.11">
+   <title   id="0.3.11.0">layer 21</title>
+   <g   id="0.3.11.1">
+    <title   id="0.3.11.1.0">element:JP1</title>
+    <g   id="0.3.11.1.1">
+     <title   id="0.3.11.1.1.0">package:1X04</title>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.11.1.1.1" y1="9.99" stroke-width="0.576" x1="64.928" y2="9.99" x2="61.328"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.11.1.1.2" y1="9.99" stroke-width="0.576" x1="61.328" y2="8.189" x2="59.528"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.11.1.1.3" y1="4.59" stroke-width="0.576" x1="59.528" y2="2.792" x2="61.328"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.11.1.1.4" y1="8.189" stroke-width="0.576" x1="73.928" y2="9.99" x2="72.129"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.11.1.1.5" y1="9.99" stroke-width="0.576" x1="72.129" y2="9.99" x2="68.527"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.11.1.1.6" y1="9.99" stroke-width="0.576" x1="68.527" y2="8.189" x2="66.727"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.11.1.1.7" y1="4.59" stroke-width="0.576" x1="66.727" y2="2.792" x2="68.527"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.11.1.1.8" y1="2.792" stroke-width="0.576" x1="68.527" y2="2.792" x2="72.129"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.11.1.1.9" y1="2.792" stroke-width="0.576" x1="72.129" y2="4.59" x2="73.928"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.11.1.1.10" y1="9.99" stroke-width="0.576" x1="64.928" y2="8.189" x2="66.727"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.11.1.1.11" y1="4.59" stroke-width="0.576" x1="66.727" y2="2.792" x2="64.928"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.11.1.1.12" y1="2.792" stroke-width="0.576" x1="61.328" y2="2.792" x2="64.928"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.11.1.1.13" y1="9.99" stroke-width="0.576" x1="86.527" y2="9.99" x2="82.928"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.11.1.1.14" y1="9.99" stroke-width="0.576" x1="82.928" y2="8.189" x2="81.129"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.11.1.1.15" y1="4.59" stroke-width="0.576" x1="81.129" y2="2.792" x2="82.928"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.11.1.1.16" y1="8.189" stroke-width="0.576" x1="81.129" y2="9.99" x2="79.328"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.11.1.1.17" y1="9.99" stroke-width="0.576" x1="79.328" y2="9.99" x2="75.727"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.11.1.1.18" y1="9.99" stroke-width="0.576" x1="75.727" y2="8.189" x2="73.928"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.11.1.1.19" y1="4.59" stroke-width="0.576" x1="73.928" y2="2.792" x2="75.727"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.11.1.1.20" y1="2.792" stroke-width="0.576" x1="75.727" y2="2.792" x2="79.328"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.11.1.1.21" y1="2.792" stroke-width="0.576" x1="79.328" y2="4.59" x2="81.129"/>
+     <path  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.11.1.1.22" stroke-width="0.576" d="M88.328,4.59"/>
+     <path  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.11.1.1.23" stroke-width="0.576" d="M88.328,8.189"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.11.1.1.24" y1="9.99" stroke-width="0.576" x1="86.527" y2="8.189" x2="88.328"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.11.1.1.25" y1="4.59" stroke-width="0.576" x1="88.328" y2="2.792" x2="86.527"/>
+     <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.11.1.1.26" y1="2.792" stroke-width="0.576" x1="82.928" y2="2.792" x2="86.527"/>
+     <path  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.11.1.1.27" stroke-width="0.576" d="M59.528,4.59"/>
+     <path  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.3.11.1.1.28" stroke-width="0.576" d="M59.528,8.189"/>
+    </g>
+   </g>
+   <g   id="0.3.11.2">
+    <title   id="0.3.11.2.0">element:JP2</title>
+    <g   id="0.3.11.2.1">
+     <title   id="0.3.11.2.1.0">package:STAND-OFF</title>
+    </g>
+   </g>
+   <g   id="0.3.11.3">
+    <title   id="0.3.11.3.0">element:JP3</title>
+    <g   id="0.3.11.3.1">
+     <title   id="0.3.11.3.1.0">package:STAND-OFF</title>
+    </g>
+   </g>
+   <g   id="0.3.11.4">
+    <title   id="0.3.11.4.0">element:JP5</title>
+    <g   id="0.3.11.4.1">
+     <title   id="0.3.11.4.1.0">package:FIDUCIAL-1X2.5</title>
+    </g>
+   </g>
+   <g   id="0.3.11.5">
+    <title   id="0.3.11.5.0">element:JP6</title>
+    <g   id="0.3.11.5.1">
+     <title   id="0.3.11.5.1.0">package:FIDUCIAL-1X2.5</title>
+    </g>
+   </g>
+   <g   id="0.3.11.6">
+    <title   id="0.3.11.6.0">element:R1</title>
+    <g   id="0.3.11.6.1">
+     <title   id="0.3.11.6.1.0">package:0402-RES</title>
+    </g>
+   </g>
+   <g   id="0.3.11.7">
+    <title   id="0.3.11.7.0">element:R2</title>
+    <g   id="0.3.11.7.1">
+     <title   id="0.3.11.7.1.0">package:0402-RES</title>
+    </g>
+   </g>
+   <g   id="0.3.11.8">
+    <title   id="0.3.11.8.0">element:U$2</title>
+    <g   id="0.3.11.8.1">
+     <title   id="0.3.11.8.1.0">package:OSHW-LOGO-M</title>
+    </g>
+   </g>
+  </g>
+  <circle  fill="none" cx="84.727"  cy="6.39" stroke="#9A916C" id="connector4pin" r="2.051" stroke-width="1.224"/>
+  <circle  fill="none" cx="77.527"  cy="6.39" stroke="#9A916C" id="connector5pin" r="2.051" stroke-width="1.224"/>
+  <circle  fill="none" cx="70.328"  cy="6.39" stroke="#9A916C" id="connector6pin" r="2.051" stroke-width="1.224"/>
+  <circle  fill="none" cx="63.129"  cy="6.39" stroke="#9A916C" id="connector7pin" r="2.051" stroke-width="1.224"/>
+ </g>
+ <text  fill="#E6E6E6" font-family="DroidSans"  id="0.4" transform="matrix(1 0 0 1 97.3281 22.5908)" font-size="5">GND</text>
+ <text  fill="#E6E6E6" font-family="DroidSans"  id="0.5" transform="matrix(1 0 0 1 97.3281 29.7925)" font-size="5">V</text>
+ <text  fill="#E6E6E6" font-family="DroidSans"  id="0.6" transform="matrix(1 0 0 1 100.0674 29.7925)" font-size="5">C</text>
+ <text  fill="#E6E6E6" font-family="DroidSans"  id="0.7" transform="matrix(1 0 0 1 102.9824 29.7925)" font-size="5">C</text>
+ <text  fill="#E6E6E6" font-family="DroidSans"  id="0.8" transform="matrix(1 0 0 1 97.1289 36.3198)" font-size="5">S</text>
+ <text  fill="#E6E6E6" font-family="DroidSans"  id="0.9" transform="matrix(1 0 0 1 99.7236 36.3198)" font-size="5">D</text>
+ <text  fill="#E6E6E6" font-family="DroidSans"  id="0.10" transform="matrix(1 0 0 1 103.0957 36.3198)" font-size="5">A</text>
+ <text  fill="#E6E6E6" font-family="DroidSans"  id="0.11" transform="matrix(1 0 0 1 97.1289 43.521)" font-size="5">SCL</text>
+ <text  fill="#E6E6E6" font-family="DroidSans"  id="0.12" transform="matrix(1 0 0 1 113.0273 14.9287)" font-size="5">1</text>
+ <text  fill="#E6E6E6" font-family="DroidSans"  id="0.13" transform="matrix(1 0 0 1 2.5273 14.9287)" font-size="5">16</text>
+ <text  fill="#E6E6E6" font-family="DroidSans"  id="0.14" transform="matrix(1 0 0 1 23.8604 50.2612)" font-size="8">L</text>
+ <text  fill="#E6E6E6" font-family="DroidSans"  id="0.15" transform="matrix(1 0 0 1 27.7119 50.2612)" font-size="8">C</text>
+ <text  fill="#E6E6E6" font-family="DroidSans"  id="0.16" transform="matrix(1 0 0 1 32.5361 50.2612)" font-size="8">M</text>
+ <text  fill="#E6E6E6" font-family="DroidSans"  id="0.17" transform="matrix(1 0 0 1 39.4971 50.2612)" font-size="8">1</text>
+ <text  fill="#E6E6E6" font-family="DroidSans"  id="0.18" transform="matrix(1 0 0 1 43.9033 50.2612)" font-size="8">6</text>
+ <text  fill="#E6E6E6" font-family="DroidSans"  id="0.19" transform="matrix(1 0 0 1 48.3096 50.2612)" font-size="8">0</text>
+ <text  fill="#E6E6E6" font-family="DroidSans"  id="0.20" transform="matrix(1 0 0 1 52.7158 50.2612)" font-size="8">2</text>
+ <g   id="0.21" transform="matrix(1 0 0 1 57.1221 50.2612)">
+  <text  fill="#E6E6E6" font-family="DroidSans"  id="0.21.0" font-size="8"/>
+ </g>
+ <text  fill="#E6E6E6" font-family="DroidSans"  id="0.22" transform="matrix(1 0 0 1 59.2002 50.2612)" font-size="8">I</text>
+ <text  fill="#E6E6E6" font-family="DroidSans"  id="0.23" transform="matrix(1 0 0 1 61.9111 50.2612)" font-size="8">I</text>
+ <text  fill="#E6E6E6" font-family="DroidSans"  id="0.24" transform="matrix(1 0 0 1 64.5439 50.2612)" font-size="8">C</text>
+ <rect  width="19.843" x="72.186" y="15.086" fill="#29ABE2"  height="19.843" id="0.25"/>
+ <circle  fill="#FFFFFF" cx="82.107"  cy="25.007" r="4.961" id="0.26"/>
+ <rect  width="18.5" x="37.361" y="14.763"  height="24.333" id="0.27"/>
+ <text  fill="#E6E6E6" font-family="DroidSans"  id="0.28" transform="matrix(1 0 0 1 2.5273 20.5908)" font-size="5">LED</text>
+ <title   id="0.29">package:1X04</title>
+ <title   id="0.30">package:STAND-OFF</title>
+ <title   id="0.31">package:STAND-OFF</title>
+ <title   id="0.32">package:FIDUCIAL-1X2.5</title>
+ <title   id="0.33">package:FIDUCIAL-1X2.5</title>
+ <title   id="0.34">package:0402-RES</title>
+ <title   id="0.35">package:0402-RES</title>
+ <title   id="0.36">package:OSHW-LOGO-M</title>
+ <g   id="0.37">
+  <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.37.0" y1="31.265" stroke-width="0.576" x1="9.125" y2="34.865" x2="9.125"/>
+  <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.37.1" y1="34.865" stroke-width="0.576" x1="9.125" y2="36.666" x2="7.324"/>
+  <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.37.2" y1="36.666" stroke-width="0.576" x1="3.725" y2="34.865" x2="1.926"/>
+  <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.37.3" y1="22.265" stroke-width="0.576" x1="7.324" y2="24.063" x2="9.125"/>
+  <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.37.4" y1="24.063" stroke-width="0.576" x1="9.125" y2="27.666" x2="9.125"/>
+  <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.37.5" y1="27.666" stroke-width="0.576" x1="9.125" y2="29.466" x2="7.324"/>
+  <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.37.6" y1="29.466" stroke-width="0.576" x1="3.725" y2="27.666" x2="1.926"/>
+  <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.37.7" y1="27.666" stroke-width="0.576" x1="1.926" y2="24.063" x2="1.926"/>
+  <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.37.8" y1="24.063" stroke-width="0.576" x1="1.926" y2="22.265" x2="3.725"/>
+  <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.37.9" y1="31.265" stroke-width="0.576" x1="9.125" y2="29.466" x2="7.324"/>
+  <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.37.10" y1="29.466" stroke-width="0.576" x1="3.725" y2="31.265" x2="1.926"/>
+  <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.37.11" y1="34.865" stroke-width="0.576" x1="1.926" y2="31.265" x2="1.926"/>
+  <path  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.37.12" stroke-width="0.576" d="M7.324,22.265"/>
+  <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.37.13" y1="22.265" stroke-width="0.576" x1="3.725" y2="22.265" x2="7.324"/>
+  <path  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.37.14" stroke-width="0.576" d="M7.324,22.265"/>
+  <line  fill="none"  stroke="#FFFFFF" stroke-linecap="round" id="0.37.15" y1="36.666" stroke-width="0.576" x1="7.324" y2="36.666" x2="3.725"/>
+  <circle  fill="none" cx="5.524"  cy="25.864" stroke="#9A916C" id="connector20pin" r="2.052" stroke-width="1.224"/>
+  <circle  fill="none" cx="5.524"  cy="33.064" stroke="#9A916C" id="connector21pin" r="2.052" stroke-width="1.224"/>
+ </g>
+ <rect  width="2.333" x="13.694" y="31.262" fill="#FF0000"  height="5" stroke="#FFFFFF" stroke-linecap="round" id="0.38" stroke-width="0.576"/>
+ <text  fill="#E6E6E6" font-family="DroidSans"  id="0.39" transform="matrix(1 0 0 1 10.8604 41.9292)" font-size="4">Power</text>
+</svg>
