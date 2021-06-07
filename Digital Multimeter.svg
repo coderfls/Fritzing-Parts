@@ -1,0 +1,271 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" id="svg8" gorn="0" width="30.48mm"  height="48.259998mm" viewBox="0 0 30.48 48.259998" version="1.1">
+    <desc >
+        <referenceFile >digital_multimeter.svg</referenceFile>
+    </desc>
+    <g id="breadboard" gorn="0.1" >
+        <defs id="defs2" />
+        <metadata id="metadata5" >
+            <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                <cc:Work xmlns:cc="http://creativecommons.org/ns#" rdf:about="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                    <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+                    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+                </cc:Work>
+            </rdf:RDF>
+        </metadata>
+        <g transform="matrix(1.000000,0.000000,0.000000,1.000000,-38.099998,-34.109997)" >
+            <g >
+                <g >
+                    <rect stroke="none" id="rect7998" gorn="0.1.2.0.0.0" ry="2.5400033" width="30.48" x="38.099998" stroke-width="0.48921457"  fill-opacity="1" height="48.259998" fill="#ff9b1a" style="opacity:1;stroke-linejoin:round;vector-effect:none;fill-rule:evenodd;paint-order:fill markers stroke;stroke-dashoffset:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;" y="34.109997" stroke-opacity="1"/>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(1.000000,0.000000,0.000000,1.000000,-38.099998,-34.109997)" >
+            <g >
+                <g >
+                    <rect stroke="none" id="rect8000" gorn="0.1.3.0.0.0" width="27.940001" ry="0.80227876" x="39.369999" stroke-width="0.39481637"  fill-opacity="1" height="34.289993" fill="#ffcb2a" style="opacity:1;stroke-linejoin:round;vector-effect:none;fill-rule:evenodd;paint-order:fill markers stroke;stroke-dashoffset:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;" y="46.810001" stroke-opacity="1"/>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(1.000000,0.000000,0.000000,1.000000,-38.099998,-34.109997)" >
+            <g >
+                <g >
+                    <rect stroke="#aa4400" id="rect8002" gorn="0.1.4.0.0.0" ry="0.69122058" width="25.400002" x="40.639999" stroke-width="0.2"  fill-opacity="1" height="7.6199985" fill="#b7c8c4" style="opacity:1;stroke-linejoin:round;vector-effect:none;fill-rule:evenodd;paint-order:fill markers stroke;stroke-dashoffset:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;" y="36.650002" stroke-opacity="1"/>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(0.202622,0.000000,0.000000,0.202622,3.755088,2.692881)" >
+            <g >
+                <g >
+                    <polygon id="polygon8024" gorn="0.1.5.0.0.0" points="19.672,15.934 21.329,7.636 23.819,5.148 24.648,6.808 22.989,15.934 21.329,17.591 "  style="fill:#374845"/>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(0.202622,0.000000,0.000000,0.202622,3.755088,2.692881)" >
+            <g >
+                <g >
+                    <polygon id="polygon8026" gorn="0.1.6.0.0.0" points="18.842,30.863 17.183,29.204 18.842,20.911 21.329,18.42 22.16,20.078 20.501,29.204 "  style="fill:#374845"/>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(0.202622,0.000000,0.000000,0.202622,3.755088,2.692881)" >
+            <g >
+                <g >
+                    <polygon id="polygon8038" gorn="0.1.7.0.0.0" points="50.117,6.808 39.333,6.808 37.677,4.319 38.506,3.491 50.948,3.491 51.777,4.319 "  style="fill:#374845"/>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(0.202622,0.000000,0.000000,0.202622,3.755088,2.692881)" >
+            <g >
+                <g >
+                    <polygon id="polygon8040" gorn="0.1.8.0.0.0" points="51.777,15.934 50.117,17.591 48.46,15.934 50.117,7.636 52.607,5.148 53.436,6.808 "  style="fill:#374845"/>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(0.202622,0.000000,0.000000,0.202622,3.755088,2.692881)" >
+            <g >
+                <g >
+                    <polygon id="polygon8042" gorn="0.1.9.0.0.0" points="50.948,20.078 49.289,29.204 47.63,30.863 45.971,29.204 47.63,20.911 50.117,18.42 "  style="fill:#374845"/>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(0.202622,0.000000,0.000000,0.202622,3.755088,2.692881)" >
+            <g >
+                <g >
+                    <polygon id="polygon8044" gorn="0.1.10.0.0.0" points="45.971,32.522 33.528,32.522 32.698,31.69 34.357,29.204 45.142,29.204 46.8,31.692 "  style="fill:#374845"/>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(0.202622,0.000000,0.000000,0.202622,3.755088,2.692881)" >
+            <g >
+                <g >
+                    <polygon id="polygon8046" gorn="0.1.11.0.0.0" points="34.357,28.373 31.868,30.863 31.04,29.204 32.698,20.078 34.357,18.42 36.015,20.078 "  style="fill:#374845"/>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(0.202622,0.000000,0.000000,0.202622,3.755088,2.692881)" >
+            <g >
+                <g >
+                    <polygon id="polygon8048" gorn="0.1.12.0.0.0" points="38.506,6.808 36.845,15.104 34.357,17.591 33.528,15.934 35.188,6.808 36.845,5.148 "  style="fill:#374845"/>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(1.000000,0.000000,0.000000,1.000000,-38.099998,-34.109997)" >
+            <g >
+                <g >
+                    <circle id="circle8052" r="0.35418311" cx="52.274311" gorn="0.1.13.0.0.0" cy="43.055588" stroke-width="0.20262189"  fill="#374845"/>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(0.202622,0.000000,0.000000,0.202622,3.755088,2.692881)" >
+            <g >
+                <g >
+                    <polygon id="polygon8060" gorn="0.1.14.0.0.0" points="79.748,3.491 80.577,4.319 78.917,6.808 68.133,6.808 66.476,4.319 67.305,3.491 "  style="fill:#374845"/>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(0.202622,0.000000,0.000000,0.202622,3.755088,2.692881)" >
+            <g >
+                <g >
+                    <polygon id="polygon8062" gorn="0.1.15.0.0.0" points="81.406,5.148 82.236,6.808 80.577,15.934 78.917,17.591 77.26,15.934 78.917,7.636 "  style="fill:#374845"/>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(0.202622,0.000000,0.000000,0.202622,3.755088,2.692881)" >
+            <g >
+                <g >
+                    <polygon id="polygon8064" gorn="0.1.16.0.0.0" points="76.429,20.911 78.917,18.42 79.748,20.078 78.089,29.204 76.429,30.863 74.771,29.204 "  style="fill:#374845"/>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(0.202622,0.000000,0.000000,0.202622,3.755088,2.692881)" >
+            <g >
+                <g >
+                    <polygon id="polygon8066" gorn="0.1.17.0.0.0" points="73.941,29.204 75.599,31.692 74.771,32.522 62.328,32.522 61.498,31.69 63.157,29.204 "  style="fill:#374845"/>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(0.202622,0.000000,0.000000,0.202622,3.755088,2.692881)" >
+            <g >
+                <g >
+                    <polygon id="polygon8068" gorn="0.1.18.0.0.0" points="63.157,18.42 64.815,20.078 63.157,28.373 60.668,30.863 59.84,29.204 61.498,20.078 "  style="fill:#374845"/>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(0.202622,0.000000,0.000000,0.202622,3.755088,2.692881)" >
+            <g >
+                <g >
+                    <polygon id="polygon8070" gorn="0.1.19.0.0.0" points="63.988,6.808 65.645,5.148 67.305,6.808 65.645,15.104 63.157,17.591 62.328,15.934 "  style="fill:#374845"/>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(0.202622,0.000000,0.000000,0.202622,3.755088,2.692881)" >
+            <g >
+                <g >
+                    <polygon id="polygon8076" gorn="0.1.20.0.0.0" points="95.351,4.319 96.18,3.491 108.623,3.491 109.452,4.319 107.792,6.808 97.008,6.808 "  style="fill:#374845"/>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(0.202622,0.000000,0.000000,0.202622,3.755088,2.692881)" >
+            <g >
+                <g >
+                    <polygon id="polygon8078" gorn="0.1.21.0.0.0" points="106.135,15.934 107.792,7.636 110.281,5.148 111.111,6.808 109.452,15.934 107.792,17.591 "  style="fill:#374845"/>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(0.202622,0.000000,0.000000,0.202622,3.755088,2.692881)" >
+            <g >
+                <g >
+                    <polygon id="polygon8080" gorn="0.1.22.0.0.0" points="105.304,30.863 103.646,29.204 105.304,20.911 107.792,18.42 108.623,20.078 106.964,29.204 "  style="fill:#374845"/>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(0.202622,0.000000,0.000000,0.202622,3.755088,2.692881)" >
+            <g >
+                <g >
+                    <polygon id="polygon8082" gorn="0.1.23.0.0.0" points="90.373,31.69 92.032,29.204 102.816,29.204 104.474,31.692 103.646,32.522 91.203,32.522 "  style="fill:#374845"/>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(0.202622,0.000000,0.000000,0.202622,3.755088,2.692881)" >
+            <g >
+                <g >
+                    <polygon id="polygon8084" gorn="0.1.24.0.0.0" points="88.715,29.204 90.373,20.078 92.032,18.42 93.69,20.078 92.032,28.373 89.543,30.863 "  style="fill:#374845"/>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(0.202622,0.000000,0.000000,0.202622,3.755088,2.692881)" >
+            <g >
+                <g >
+                    <polygon id="polygon8086" gorn="0.1.25.0.0.0" points="92.032,17.591 91.203,15.934 92.863,6.808 94.52,5.148 96.18,6.808 94.52,15.104 "  style="fill:#374845"/>
+                </g>
+            </g>
+        </g>
+        <ellipse stroke="none" cx="6.1966672" id="path8287" gorn="0.1.26" cy="41.91" ry="1.573428" rx="1.5650762" stroke-width="1.99343395"  fill-opacity="1" fill="#483737" style="opacity:1;fill-rule:nonzero;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers stroke fill" stroke-opacity="1"/>
+        <ellipse stroke="none" id="ellipse8559" cx="15.239998" gorn="0.1.27" ry="1.573428" cy="41.91" rx="1.5650762" stroke-width="1.99343395"  fill-opacity="1" fill="#483737" style="opacity:1;fill-rule:nonzero;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers stroke fill" stroke-opacity="1"/>
+        <ellipse stroke="#ff0000" cx="15.239998" id="circle8295" gorn="0.1.28" cy="41.91" ry="1.5737315" rx="1.5570279" stroke-width="0.7"  fill-opacity="1" fill="none" style="opacity:1;fill-rule:nonzero;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers stroke fill" stroke-opacity="1"/>
+        <ellipse stroke="none" cx="24.283333" id="ellipse8561" gorn="0.1.29" cy="41.91" ry="1.573428" rx="1.5650762" stroke-width="1.99343395"  fill-opacity="1" fill="#483737" style="opacity:1;fill-rule:nonzero;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers stroke fill" stroke-opacity="1"/>
+        <g transform="translate(-38.099998,-34.109997)" >
+            <g >
+                <g >
+                    <g stroke="none" id="text8324" gorn="0.1.30.0.0.0" font-size="0.696932" aria-label="COM" stroke-width="0.0746713"  fill-opacity="1" fill="#000000" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;stroke-linecap:butt;stroke-linejoin:miter;" stroke-opacity="1">
+                        <path id="path8540" gorn="0.1.30.0.0.0.0" font-size="0.696932" stroke-width="0.0746713"  style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;" d="m 42.755675,72.823571 0.34606,0.109726 q -0.07958,0.289388 -0.265273,0.430465 -0.184485,0.13987 -0.469049,0.13987 -0.352089,0 -0.578776,-0.23995 -0.226688,-0.241157 -0.226688,-0.658358 0,-0.441317 0.227893,-0.684885 0.227893,-0.244774 0.599275,-0.244774 0.324355,0 0.526927,0.191719 0.120578,0.113344 0.180868,0.325562 l -0.353295,0.0844 q -0.03135,-0.13746 -0.13143,-0.217041 -0.09887,-0.07958 -0.241157,-0.07958 -0.196543,0 -0.319533,0.141077 -0.121784,0.141076 -0.121784,0.456992 0,0.335207 0.120579,0.47749 0.120578,0.142282 0.313503,0.142282 0.142283,0 0.244774,-0.09043 0.102492,-0.09043 0.147106,-0.284565 z"/>
+                        <path id="path8542" gorn="0.1.30.0.0.0.1" font-size="0.696932" stroke-width="0.0746713"  style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;" d="m 43.336862,72.600501 q 0,-0.270096 0.08079,-0.453375 0.06029,-0.135048 0.163987,-0.242362 0.104903,-0.107315 0.229098,-0.159164 0.165193,-0.06994 0.381028,-0.06994 0.390674,0 0.624596,0.242362 0.235128,0.242363 0.235128,0.674033 0,0.428053 -0.232717,0.670416 -0.232716,0.241156 -0.622184,0.241156 -0.394291,0 -0.627007,-0.23995 -0.232717,-0.241157 -0.232717,-0.663181 z m 0.367764,-0.01206 q 0,0.30024 0.138666,0.455786 0.138665,0.15434 0.352088,0.15434 0.213424,0 0.349677,-0.153134 0.13746,-0.154341 0.13746,-0.461815 0,-0.303858 -0.133842,-0.453375 -0.132636,-0.149517 -0.353295,-0.149517 -0.220658,0 -0.355706,0.151929 -0.135048,0.150723 -0.135048,0.455786 z"/>
+                        <path id="path8544" gorn="0.1.30.0.0.0.2" font-size="0.696932" stroke-width="0.0746713"  style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;" d="m 45.323994,73.473488 v -1.767679 h 0.534162 l 0.320738,1.205784 0.317121,-1.205784 h 0.535368 v 1.767679 h -0.33159 v -1.391474 l -0.350883,1.391474 h -0.343649 l -0.349677,-1.391474 v 1.391474 z"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g transform="translate(-38.099998,-34.109997)" >
+            <g >
+                <g >
+                    <g stroke="none" id="text8341" gorn="0.1.31.0.0.0" font-size="0.696932" aria-label="A" stroke-width="0.0746713"  fill-opacity="1" fill="#000000" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;stroke-linecap:butt;stroke-linejoin:miter;" stroke-opacity="1">
+                        <path id="path8537" gorn="0.1.31.0.0.0.0" font-size="0.696932" stroke-width="0.0746713"  style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;" d="m 63.270186,73.507942 h -0.388262 l -0.15434,-0.401526 h -0.706589 l -0.1459,0.401526 h -0.378616 l 0.688502,-1.767678 h 0.377411 z m -0.657151,-0.699354 -0.243569,-0.655946 -0.238745,0.655946 z"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g transform="translate(-38.099998,-34.109997)" >
+            <g >
+                <g >
+                    <g stroke="none" id="text8374" gorn="0.1.32.0.0.0" font-size="0.696932" aria-label="VmAΩ " stroke-width="0.0746713"  fill-opacity="1" fill="#000000" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;" stroke-opacity="1">
+                        <path stroke="none" id="path8528" gorn="0.1.32.0.0.0.0" font-size="0.696932" stroke-width="0.0746713"  fill-opacity="1" fill="#000000" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;" stroke-opacity="1" d="M 50.209181,73.507942 49.57735,71.740264 h 0.387057 l 0.447345,1.308275 0.432877,-1.308275 h 0.378616 l -0.633037,1.767678 z"/>
+                        <path stroke="none" id="path8530" gorn="0.1.32.0.0.0.1" font-size="0.696932" stroke-width="0.0746713"  fill-opacity="1" fill="#000000" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;" stroke-opacity="1" d="m 51.379997,72.2274 h 0.312298 v 0.174839 q 0.167603,-0.203778 0.399114,-0.203778 0.12299,0 0.213423,0.05064 0.09043,0.05064 0.148312,0.153135 0.0844,-0.102492 0.182073,-0.153135 0.09767,-0.05064 0.208601,-0.05064 0.141076,0 0.238745,0.05788 0.09767,0.05667 0.1459,0.167604 0.03497,0.08199 0.03497,0.265272 v 0.818727 h -0.338825 v -0.73191 q 0,-0.190514 -0.03497,-0.24598 -0.04702,-0.07235 -0.144694,-0.07235 -0.07114,0 -0.133842,0.04341 -0.0627,0.04341 -0.09043,0.127813 -0.02773,0.0832 -0.02773,0.264067 v 0.614949 H 52.15411 v -0.701766 q 0,-0.186896 -0.01809,-0.241156 -0.01809,-0.05426 -0.05667,-0.08079 -0.03738,-0.02653 -0.102492,-0.02653 -0.07838,0 -0.141076,0.0422 -0.0627,0.0422 -0.09043,0.121784 -0.02653,0.07958 -0.02653,0.264067 v 0.622184 h -0.338825 z"/>
+                        <path stroke="none" id="path8532" gorn="0.1.32.0.0.0.2" font-size="0.696932" stroke-width="0.0746713"  fill-opacity="1" fill="#000000" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;" stroke-opacity="1" d="m 55.196301,73.507942 h -0.388262 l -0.15434,-0.401526 H 53.94711 l -0.1459,0.401526 h -0.378616 l 0.688502,-1.767678 h 0.37741 z m -0.657152,-0.699354 -0.243568,-0.655946 -0.238745,0.655946 z"/>
+                        <path stroke="none" id="path8534" gorn="0.1.32.0.0.0.3" font-size="0.696932" stroke-width="0.0746713"  fill-opacity="1" fill="#000000" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;" stroke-opacity="1" d="m 55.764225,73.259551 q -0.139871,-0.05908 -0.22307,-0.135048 -0.121784,-0.10852 -0.182073,-0.260449 -0.05908,-0.151929 -0.05908,-0.334002 0,-0.373793 0.230304,-0.604098 0.231511,-0.230304 0.613744,-0.230304 0.280948,0 0.46905,0.09526 0.189308,0.09526 0.301446,0.295417 0.113343,0.198954 0.113343,0.441316 0,0.243569 -0.113343,0.435288 -0.112138,0.190514 -0.347266,0.294211 l 0.397909,-0.02773 h 0.08682 v 0.278536 h -0.774113 v -0.293005 q 0.116961,-0.05667 0.184485,-0.126607 0.09164,-0.09646 0.137459,-0.233922 0.04703,-0.138666 0.04703,-0.2918 0,-0.297829 -0.138665,-0.449757 -0.13746,-0.153135 -0.352089,-0.153135 -0.204983,0 -0.343648,0.156752 -0.13746,0.155546 -0.13746,0.440111 0,0.163987 0.05185,0.305063 0.05305,0.141077 0.150723,0.238745 0.0627,0.0627 0.173633,0.11455 v 0.293005 h -0.777731 v -0.27733 h 0.118167 z"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g transform="translate(-38.099998,-34.109997)" >
+            <g >
+                <g >
+                    <g stroke="none" id="text8415" gorn="0.1.33.0.0.0" font-size="3.18598" aria-label="DMM" stroke-width="0.0746713"  fill-opacity="1" fill="#ffffff" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;stroke-linecap:butt;stroke-linejoin:miter;" stroke-opacity="1">
+                        <path id="path8521" gorn="0.1.33.0.0.0.0" font-size="0.59737" stroke-width="0.0746713"  fill="#ffffff" style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;" d="m 62.246639,46.297577 0.31626,-1.515153 h 0.456819 q 0.164331,0 0.251148,0.02377 0.124023,0.03204 0.211873,0.114722 0.08785,0.08165 0.132292,0.204638 0.04444,0.12299 0.04444,0.275953 0,0.182934 -0.05581,0.333829 -0.05478,0.149862 -0.144694,0.264584 -0.08888,0.113688 -0.187069,0.1788 -0.09715,0.06408 -0.230477,0.09508 -0.101285,0.02377 -0.24908,0.02377 z m 0.238745,-0.171566 h 0.239779 q 0.162264,0 0.288354,-0.02997 0.07855,-0.0186 0.134359,-0.05478 0.07338,-0.04651 0.133325,-0.12299 0.07855,-0.101286 0.125057,-0.230477 0.04754,-0.130225 0.04754,-0.295589 0,-0.183968 -0.06408,-0.282153 -0.06408,-0.09922 -0.163298,-0.131259 -0.07338,-0.02377 -0.22841,-0.02377 h -0.26768 z"/>
+                        <path id="path8523" gorn="0.1.33.0.0.0.1" font-size="0.59737" stroke-width="0.0746713"  fill="#ffffff" style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;" d="m 63.775228,46.297577 0.31626,-1.515153 h 0.24908 l 0.152962,0.981852 q 0.02997,0.19327 0.03927,0.371037 0.06305,-0.152962 0.21084,-0.414445 l 0.531234,-0.938444 h 0.253214 l -0.316259,1.515153 h -0.199471 l 0.158129,-0.736906 q 0.05478,-0.255282 0.157097,-0.572575 -0.06511,0.147795 -0.161231,0.318327 l -0.564306,0.991154 H 64.406714 L 64.254785,45.32606 q -0.02067,-0.133325 -0.02997,-0.311092 -0.02584,0.199471 -0.05064,0.31626 l -0.201538,0.966349 z"/>
+                        <path id="path8525" gorn="0.1.33.0.0.0.2" font-size="0.59737" stroke-width="0.0746713"  fill="#ffffff" style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;" d="m 65.540494,46.297577 0.31626,-1.515153 h 0.249081 l 0.152962,0.981852 q 0.02997,0.19327 0.03927,0.371037 0.06305,-0.152962 0.21084,-0.414445 l 0.531233,-0.938444 h 0.253215 l -0.31626,1.515153 h -0.199471 l 0.15813,-0.736906 q 0.05478,-0.255282 0.157096,-0.572575 -0.06511,0.147795 -0.16123,0.318327 l -0.564307,0.991154 H 66.17198 L 66.020052,45.32606 q -0.02067,-0.133325 -0.02997,-0.311092 -0.02584,0.199471 -0.05064,0.31626 l -0.201538,0.966349 z"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(0.921185,-0.389124,0.389124,0.921185,-76.628528,2.725965)" >
+            <g >
+                <g >
+                    <circle stroke="none" id="path8403" cx="76.199997" r="7.6199999" gorn="0.1.34.0.0.0" cy="55.699997" stroke-width="0.0746713"  fill-opacity="1" fill="#ff9b1a" style="opacity:1;stroke-linejoin:miter;vector-effect:none;fill-rule:nonzero;paint-order:markers stroke fill;stroke-dashoffset:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;" stroke-opacity="1"/>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(0.921185,-0.389124,0.389124,0.921185,-76.628528,2.725965)" >
+            <g >
+                <g >
+                    <rect stroke="none" id="rect8423" gorn="0.1.35.0.0.0" width="10.071173" ry="1.0011654" rx="0" x="74.189163" stroke-width="0.48921457"  fill-opacity="1" height="2.0023308" fill="#aa4400" style="opacity:1;stroke-linejoin:round;vector-effect:none;fill-rule:evenodd;paint-order:fill markers stroke;stroke-dashoffset:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;" y="54.69883" stroke-opacity="1"/>
+                </g>
+            </g>
+        </g>
+        <ellipse stroke="#ff0000" id="ellipse8555" cx="24.283333" gorn="0.1.36" ry="1.5737315" cy="41.91" rx="1.5570279" stroke-width="0.69999999"  fill-opacity="1" fill="none" style="opacity:1;fill-rule:nonzero;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers stroke fill" stroke-opacity="1"/>
+        <ellipse stroke="#1a1a1a" cx="6.1966672" id="ellipse8557" gorn="0.1.37" cy="41.91" ry="1.5737315" rx="1.5570279" stroke-width="0.69999999"  fill-opacity="1" fill="none" style="opacity:1;fill-rule:nonzero;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers stroke fill" stroke-opacity="1"/>
+        <g transform="matrix(1.000000,0.000000,0.000000,1.000000,-38.099998,-34.109997)" >
+            <g >
+                <g >
+                    <circle stroke="none" r="0.63499999" cx="62.383331" id="connector2pin" gorn="0.1.38.0.0.0" cy="76.019997" stroke-width="2"  fill-opacity="1" fill="#241c1c" style="opacity:1;stroke-linejoin:round;fill-rule:nonzero;paint-order:markers stroke fill;stroke-dashoffset:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;" stroke-opacity="1"/>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(1.000000,0.000000,0.000000,1.000000,-38.099998,-34.109997)" >
+            <g >
+                <g >
+                    <circle stroke="none" id="connector1pin" cx="53.339996" r="0.63499999" gorn="0.1.39.0.0.0" cy="76.019997" stroke-width="2"  fill-opacity="1" fill="#241c1c" style="opacity:1;stroke-linejoin:round;fill-rule:nonzero;paint-order:markers stroke fill;stroke-dashoffset:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;" stroke-opacity="1"/>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(1.000000,0.000000,0.000000,1.000000,-38.099998,-34.109997)" >
+            <g >
+                <g >
+                    <circle stroke="none" r="0.63499999" cx="44.296665" id="connector0pin" gorn="0.1.40.0.0.0" cy="76.019997" stroke-width="2"  fill-opacity="1" fill="#241c1c" style="opacity:1;stroke-linejoin:round;fill-rule:nonzero;paint-order:markers stroke fill;stroke-dashoffset:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;" stroke-opacity="1"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
