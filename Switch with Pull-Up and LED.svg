@@ -1,0 +1,983 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 15.24 30.757477" id="svg8" version="1.1" width="15.24mm" height="30.757477mm" gorn="0">
+    <g  id="breadboard" gorn="0.0">
+        <defs  id="defs2"/>
+        <metadata  id="metadata5">
+            <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                <cc:Work rdf:about="" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                    <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+                    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+                </cc:Work>
+            </rdf:RDF>
+        </metadata>
+        <g  transform="translate(-127,-92.205318)">
+            <g >
+                <g  id="layer1" gorn="0.0.2.0.0">
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,153.697260,111.873370)">
+                        <g >
+                            <metadata  id="metadata125">
+                                <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                    <cc:Work rdf:about="" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                        <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                                        <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+                                        <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+                                    </cc:Work>
+                                </rdf:RDF>
+                            </metadata>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,153.697260,111.873370)">
+                        <g >
+                            <defs  id="defs3"/>
+                        </g>
+                    </g>
+                    <rect  stroke-opacity="1" ry="0.38683429" id="rect14825" x="137.78946" fill-opacity="1" width="0.77366859" height="2.5749636" style="opacity:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill" stroke="#4d4d4d" stroke-width="0.001" fill="#d40000" y="95.548599" gorn="0.0.2.0.0.2"/>
+                    <path  stroke-opacity="1" id="rect11299" fill-opacity="1" style="display:inline;opacity:1;stroke-miterlimit:4;stroke-dasharray:none;" stroke="none" d="M 127,100.70013 V 119.2 h 15.24 v -18.49987 z m 2.08589,12.80598 c 0.6019,-3e-5 1.08984,0.48023 1.08981,1.07266 3e-5,0.59243 -0.48791,1.07269 -1.08981,1.07266 -0.6019,3e-5 -1.08985,-0.48023 -1.08982,-1.07266 -3e-5,-0.59243 0.48792,-1.07269 1.08982,-1.07266 z" stroke-width="0.42670321" fill="#0f7391" gorn="0.0.2.0.0.3"/>
+                    <path  stroke-opacity="1" id="path14837" style="fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke="#999999" d="m 134.62,99.034724 v 6.871886" stroke-width="1.00605679" fill="#cccccc" gorn="0.0.2.0.0.4"/>
+                    <path  stroke-opacity="1" id="path14835" style="fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke="#999999" d="m 139.7,99.034731 v 6.871879" stroke-width="1.00605607" fill="#cccccc" gorn="0.0.2.0.0.5"/>
+                    <path  stroke-opacity="1" id="path14833" style="fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke="#999999" d="m 129.54,99.034723 v 6.871887" stroke-width="1.00605679" fill="#cccccc" gorn="0.0.2.0.0.6"/>
+                    <circle  stroke-opacity="1" cx="129.05727" id="path8375-78-6-8-4-5-4" fill-opacity="0" style="display:inline;stroke-miterlimit:4;stroke-dasharray:none;" r="1.223085" stroke="#8c8c8c" cy="114.56844" stroke-width="0.30724165" fill="none" gorn="0.0.2.0.0.7"/>
+                    <g  transform="translate(-0.28493024)">
+                        <g >
+                            <g  id="g14793" gorn="0.0.2.0.0.8.0.0">
+                                <g  transform="translate(-14.95507,-4.164125)">
+                                    <g >
+                                        <g  id="g14689" gorn="0.0.2.0.0.8.0.0.0.0.0">
+                                            <g  transform="matrix(0.351106,0,0,0.351106,88.208672,118.91114)">
+                                                <g >
+                                                    <polygon  id="polygon9525-0" style="display:inline;fill:#404040" points="164.766,6.061 164.766,10.056 166.327,11.588 170.389,11.588 171.949,10.056 171.949,6.061 170.389,4.526 166.327,4.526 " gorn="0.0.2.0.0.8.0.0.0.0.0.0.0.0"/>
+                                                </g>
+                                            </g>
+                                            <path  id="path31" fill-opacity="1" style="fill-rule:nonzero;" stroke="none" d="m 147.15067,121.58125 h 0.3175 v 5.39751 h -0.3175 z" stroke-width="0.32694611" fill="#8c8663" gorn="0.0.2.0.0.8.0.0.0.0.0.1"/>
+                                            <g  id="g14664" gorn="0.0.2.0.0.8.0.0.0.0.0.2">
+                                                <path  id="path33" fill-opacity="1" style="fill-rule:nonzero;" stroke="none" d="m 147.15067,121.89875 v -0.3175 l -0.127,-0.14816 v 0.61382 z" stroke-width="0.26458299" fill="#b8af82" gorn="0.0.2.0.0.8.0.0.0.0.0.2.0"/>
+                                                <path  id="path35" fill-opacity="1" style="fill-rule:nonzero;" stroke="none" d="m 147.02367,121.43309 h 0.5715 l -0.127,0.14816 h -0.3175 z" stroke-width="0.26458299" fill="#80795b" gorn="0.0.2.0.0.8.0.0.0.0.0.2.1"/>
+                                                <path  id="path37" fill-opacity="1" style="fill-rule:nonzero;" stroke="none" d="m 147.46817,121.89875 v -0.3175 l 0.127,-0.14816 v 0.61382 z" stroke-width="0.26458299" fill="#5e5b43" gorn="0.0.2.0.0.8.0.0.0.0.0.2.2"/>
+                                            </g>
+                                            <path  id="path45" fill-opacity="1" style="fill-rule:nonzero;" stroke="none" d="m 147.02367,121.88245 h 0.127 v 4.79511 h -0.127 z" stroke-width="0.28112152" fill="#b8af82" gorn="0.0.2.0.0.8.0.0.0.0.0.3"/>
+                                            <g  transform="matrix(1,0,0,-1,0,248.56001)">
+                                                <g >
+                                                    <g  id="g14672" gorn="0.0.2.0.0.8.0.0.0.0.0.4.0.0">
+                                                        <path  id="path14666" fill-opacity="1" style="fill-rule:nonzero;" stroke="none" d="m 147.15067,121.89875 v -0.3175 l -0.127,-0.14816 v 0.61382 z" stroke-width="0.26458299" fill="#b8af82" gorn="0.0.2.0.0.8.0.0.0.0.0.4.0.0.0"/>
+                                                        <path  id="path14668" fill-opacity="1" style="fill-rule:nonzero;" stroke="none" d="m 147.02367,121.43309 h 0.5715 l -0.127,0.14816 h -0.3175 z" stroke-width="0.26458299" fill="#80795b" gorn="0.0.2.0.0.8.0.0.0.0.0.4.0.0.1"/>
+                                                        <path  id="path14670" fill-opacity="1" style="fill-rule:nonzero;" stroke="none" d="m 147.46817,121.89875 v -0.3175 l 0.127,-0.14816 v 0.61382 z" stroke-width="0.26458299" fill="#5e5b43" gorn="0.0.2.0.0.8.0.0.0.0.0.4.0.0.2"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                            <path  id="path14674" fill-opacity="1" style="fill-rule:nonzero;" stroke="none" d="m 147.46817,121.88245 h 0.127 v 4.79511 h -0.127 z" stroke-width="0.28112152" fill="#5e5b43" gorn="0.0.2.0.0.8.0.0.0.0.0.5"/>
+                                            <path  id="connector2pin" fill-opacity="1" style="fill-rule:nonzero;" stroke="none" d="m 147.15068,126.53427 h 0.31749 v 0.44449 h -0.31749 z" stroke-width="0.26458299" fill="#8c8663" gorn="0.0.2.0.0.8.0.0.0.0.0.6"/>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g  transform="translate(-12.41507,-4.164125)">
+                                    <g >
+                                        <g  id="g14721" gorn="0.0.2.0.0.8.0.0.1.0.0">
+                                            <g  transform="matrix(0.351106,0,0,0.351106,88.208672,118.91114)">
+                                                <g >
+                                                    <polygon  id="polygon14695" style="display:inline;fill:#404040" points="171.949,6.061 170.389,4.526 166.327,4.526 164.766,6.061 164.766,10.056 166.327,11.588 170.389,11.588 171.949,10.056 " gorn="0.0.2.0.0.8.0.0.1.0.0.0.0.0"/>
+                                                </g>
+                                            </g>
+                                            <path  id="path14697" fill-opacity="1" style="fill-rule:nonzero;" stroke="none" d="m 147.15067,121.58125 h 0.3175 v 5.39751 h -0.3175 z" stroke-width="0.32694611" fill="#8c8663" gorn="0.0.2.0.0.8.0.0.1.0.0.1"/>
+                                            <g  id="g14705" gorn="0.0.2.0.0.8.0.0.1.0.0.2">
+                                                <path  id="path14699" fill-opacity="1" style="fill-rule:nonzero;" stroke="none" d="m 147.15067,121.89875 v -0.3175 l -0.127,-0.14816 v 0.61382 z" stroke-width="0.26458299" fill="#b8af82" gorn="0.0.2.0.0.8.0.0.1.0.0.2.0"/>
+                                                <path  id="path14701" fill-opacity="1" style="fill-rule:nonzero;" stroke="none" d="m 147.02367,121.43309 h 0.5715 l -0.127,0.14816 h -0.3175 z" stroke-width="0.26458299" fill="#80795b" gorn="0.0.2.0.0.8.0.0.1.0.0.2.1"/>
+                                                <path  id="path14703" fill-opacity="1" style="fill-rule:nonzero;" stroke="none" d="m 147.46817,121.89875 v -0.3175 l 0.127,-0.14816 v 0.61382 z" stroke-width="0.26458299" fill="#5e5b43" gorn="0.0.2.0.0.8.0.0.1.0.0.2.2"/>
+                                            </g>
+                                            <path  id="path14707" fill-opacity="1" style="fill-rule:nonzero;" stroke="none" d="m 147.02367,121.88245 h 0.127 v 4.79511 h -0.127 z" stroke-width="0.28112152" fill="#b8af82" gorn="0.0.2.0.0.8.0.0.1.0.0.3"/>
+                                            <g  transform="matrix(1,0,0,-1,0,248.56001)">
+                                                <g >
+                                                    <g  id="g14715" gorn="0.0.2.0.0.8.0.0.1.0.0.4.0.0">
+                                                        <path  id="path14709" fill-opacity="1" style="fill-rule:nonzero;" stroke="none" d="m 147.15067,121.89875 v -0.3175 l -0.127,-0.14816 v 0.61382 z" stroke-width="0.26458299" fill="#b8af82" gorn="0.0.2.0.0.8.0.0.1.0.0.4.0.0.0"/>
+                                                        <path  id="path14711" fill-opacity="1" style="fill-rule:nonzero;" stroke="none" d="m 147.02367,121.43309 h 0.5715 l -0.127,0.14816 h -0.3175 z" stroke-width="0.26458299" fill="#80795b" gorn="0.0.2.0.0.8.0.0.1.0.0.4.0.0.1"/>
+                                                        <path  id="path14713" fill-opacity="1" style="fill-rule:nonzero;" stroke="none" d="m 147.46817,121.89875 v -0.3175 l 0.127,-0.14816 v 0.61382 z" stroke-width="0.26458299" fill="#5e5b43" gorn="0.0.2.0.0.8.0.0.1.0.0.4.0.0.2"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                            <path  id="path14717" fill-opacity="1" style="fill-rule:nonzero;" stroke="none" d="m 147.46817,121.88245 h 0.127 v 4.79511 h -0.127 z" stroke-width="0.28112152" fill="#5e5b43" gorn="0.0.2.0.0.8.0.0.1.0.0.5"/>
+                                            <path  id="connector1pin" fill-opacity="1" style="fill-rule:nonzero;" stroke="none" d="m 147.15068,126.53427 h 0.31749 v 0.44449 h -0.31749 z" stroke-width="0.26458299" fill="#8c8663" gorn="0.0.2.0.0.8.0.0.1.0.0.6"/>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g  transform="translate(-9.8750703,-4.164125)">
+                                    <g >
+                                        <g  id="g14749" gorn="0.0.2.0.0.8.0.0.2.0.0">
+                                            <g  transform="matrix(0.351106,0,0,0.351106,88.208672,118.91114)">
+                                                <g >
+                                                    <polygon  id="polygon14723" style="display:inline;fill:#404040" points="164.766,10.056 166.327,11.588 170.389,11.588 171.949,10.056 171.949,6.061 170.389,4.526 166.327,4.526 164.766,6.061 " gorn="0.0.2.0.0.8.0.0.2.0.0.0.0.0"/>
+                                                </g>
+                                            </g>
+                                            <path  id="path14725" fill-opacity="1" style="fill-rule:nonzero;" stroke="none" d="m 147.15067,121.58125 h 0.3175 v 5.39751 h -0.3175 z" stroke-width="0.32694611" fill="#8c8663" gorn="0.0.2.0.0.8.0.0.2.0.0.1"/>
+                                            <g  id="g14733" gorn="0.0.2.0.0.8.0.0.2.0.0.2">
+                                                <path  id="path14727" fill-opacity="1" style="fill-rule:nonzero;" stroke="none" d="m 147.15067,121.89875 v -0.3175 l -0.127,-0.14816 v 0.61382 z" stroke-width="0.26458299" fill="#b8af82" gorn="0.0.2.0.0.8.0.0.2.0.0.2.0"/>
+                                                <path  id="path14729" fill-opacity="1" style="fill-rule:nonzero;" stroke="none" d="m 147.02367,121.43309 h 0.5715 l -0.127,0.14816 h -0.3175 z" stroke-width="0.26458299" fill="#80795b" gorn="0.0.2.0.0.8.0.0.2.0.0.2.1"/>
+                                                <path  id="path14731" fill-opacity="1" style="fill-rule:nonzero;" stroke="none" d="m 147.46817,121.89875 v -0.3175 l 0.127,-0.14816 v 0.61382 z" stroke-width="0.26458299" fill="#5e5b43" gorn="0.0.2.0.0.8.0.0.2.0.0.2.2"/>
+                                            </g>
+                                            <path  id="path14735" fill-opacity="1" style="fill-rule:nonzero;" stroke="none" d="m 147.02367,121.88245 h 0.127 v 4.79511 h -0.127 z" stroke-width="0.28112152" fill="#b8af82" gorn="0.0.2.0.0.8.0.0.2.0.0.3"/>
+                                            <g  transform="matrix(1,0,0,-1,0,248.56001)">
+                                                <g >
+                                                    <g  id="g14743" gorn="0.0.2.0.0.8.0.0.2.0.0.4.0.0">
+                                                        <path  id="path14737" fill-opacity="1" style="fill-rule:nonzero;" stroke="none" d="m 147.15067,121.89875 v -0.3175 l -0.127,-0.14816 v 0.61382 z" stroke-width="0.26458299" fill="#b8af82" gorn="0.0.2.0.0.8.0.0.2.0.0.4.0.0.0"/>
+                                                        <path  id="path14739" fill-opacity="1" style="fill-rule:nonzero;" stroke="none" d="m 147.02367,121.43309 h 0.5715 l -0.127,0.14816 h -0.3175 z" stroke-width="0.26458299" fill="#80795b" gorn="0.0.2.0.0.8.0.0.2.0.0.4.0.0.1"/>
+                                                        <path  id="path14741" fill-opacity="1" style="fill-rule:nonzero;" stroke="none" d="m 147.46817,121.89875 v -0.3175 l 0.127,-0.14816 v 0.61382 z" stroke-width="0.26458299" fill="#5e5b43" gorn="0.0.2.0.0.8.0.0.2.0.0.4.0.0.2"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                            <path  id="path14745" fill-opacity="1" style="fill-rule:nonzero;" stroke="none" d="m 147.46817,121.88245 h 0.127 v 4.79511 h -0.127 z" stroke-width="0.28112152" fill="#5e5b43" gorn="0.0.2.0.0.8.0.0.2.0.0.5"/>
+                                            <path  id="connector3pin" fill-opacity="1" style="fill-rule:nonzero;" stroke="none" d="m 147.15068,126.53427 h 0.31749 v 0.44449 h -0.31749 z" stroke-width="0.26458299" fill="#8c8663" gorn="0.0.2.0.0.8.0.0.2.0.0.6"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <rect  stroke-opacity="1" id="rect14795" x="127.11981" fill-opacity="1" width="14.98665" height="1.7253259" style="opacity:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill" stroke="#4d4d4d" stroke-width="0.00081729" fill="#cccccc" y="98.879906" gorn="0.0.2.0.0.9"/>
+                    <path  stroke-opacity="1" id="path14829" style="fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke="#808080" d="m 127.25371,92.33835 14.56619,4.192861" stroke-width="0.26499999" fill="#008000" gorn="0.0.2.0.0.10"/>
+                    <rect  stroke-opacity="1" id="rect14797" x="127.13947" fill-opacity="1" width="14.966347" height="2.5653803" style="opacity:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill" stroke="#4d4d4d" stroke-width="0.00112699" fill="#1a1a1a" y="96.314056" gorn="0.0.2.0.0.11"/>
+                    <rect  stroke-opacity="1" id="rect14799" x="133.37761" fill-opacity="1" width="2.5041285" height="1.5355645" style="opacity:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill" stroke="#4d4d4d" stroke-width="0.00096364" fill="#1a1a1a" y="98.87458" gorn="0.0.2.0.0.12"/>
+                    <g  transform="scale(-1)">
+                        <g >
+                            <ellipse  stroke-opacity="1" ry="0.73464537" cx="-131.34454" id="path14815" rx="0.73464566" fill-opacity="1" style="opacity:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill" stroke="#4d4d4d" cy="-99.742569" stroke-width="0.00162888" fill="#ffffff" gorn="0.0.2.0.0.13.0.0"/>
+                        </g>
+                    </g>
+                    <g  transform="scale(-1)">
+                        <g >
+                            <ellipse  stroke-opacity="1" ry="0.73464537" id="ellipse14817" cx="-137.89546" rx="0.73464566" fill-opacity="1" style="opacity:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill" stroke="#4d4d4d" cy="-99.742569" stroke-width="0.00162888" fill="#ffffff" gorn="0.0.2.0.0.14.0.0"/>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title14843">layer 21</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title14855">text:TX1</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title14861">text:RX1</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title14867">text:RST</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title14873">text:GND</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title14879">text:D2</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title14885">text:D3</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title14891">text:D4</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title14897">text:D5</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title14903">text:D6</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title14909">text:D7</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title14915">text:D8</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title14921">text:D9</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title14927">text:D10</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title14933">text:D11</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title14939">text:D12</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title14945">text:D13</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title14951">text:3V3</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title14957">text:REF</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title14963">text:A0</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title14969">text:A1</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title14975">text:A2</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title14981">text:A3</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title14987">text:A4</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title14993">text:A5</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title14999">text:NC</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15005">text:NC</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15011">text:5V</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15017">text:RST</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15023">text:GND</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15029">text:VIN</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15035">text:ICSP</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15041">text:TX</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15051">text:RX</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15061">text:L</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15067">text:SS</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15073">text:MOSI</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15079">text:SCK</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15085">text:MISO</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15091">element:C1</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15093">package:C0402</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15099">element:C2</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15101">package:C0402</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15107">element:C3</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15109">package:SMC_B</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15115">element:C4</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15117">package:C0402</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15123">element:C5</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15125">package:C0402</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15131">element:C6</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15133">package:C0402</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15139">element:C7</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15141">package:C0402</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15147">element:C9</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15149">package:C0402</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15155">element:C10</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15157">package:C0402</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15163">element:C11</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15165">package:C0402</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15171">element:C12</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15173">package:C0402</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15179">element:C13</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15181">package:C0402</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15187">element:C14</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15189">package:SMC_B</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15195">element:D2</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15197">package:MINIMELF</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15203">element:F1</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15205">package:L1812</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15211">element:J5</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15213">package:HEAD17-NOSS</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15219">element:J6</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15221">package:HEAD17-NOSS-1</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15227">element:ON</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15229">package:CHIPLED_0805</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15235">element:R1</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15237">package:R0402</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15243">element:R2</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15245">package:R0402</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15251">element:R4</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15253">package:R0402</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15259">element:R5</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15261">package:R0402</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15267">element:R6</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15269">package:R0402</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15275">element:R7</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15277">package:R0402</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15283">element:R8</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15285">package:R0402</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15291">element:R9</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15293">package:R0402</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15299">element:RP3</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15301">package:CAY16</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15307">element:T1</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15309">package:SOT-23</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15315">element:T2</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15317">package:SOT-23</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15323">element:U$37</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15325">package:FIDUCIA-MOUNT</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15331">element:U$53</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15333">package:FIDUCIAL-1X2</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15339">element:U1</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15341">package:QFN44ML7X7</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15347">element:U2</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15349">package:SOT223</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15355">element:U4</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15357">package:SOT23-DBV</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15363">element:Z1</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15365">package:CT/CN0603</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15371">element:Z2</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="title15373">package:CT/CN0603</title>
+                        </g>
+                    </g>
+                    <g  transform="rotate(-90,72.01668,15.923518)">
+                        <g >
+                            <g  id="g34430" gorn="0.0.2.0.0.126.0.0">
+                                <g  transform="matrix(0,0.264583,-0.264583,0,-53.114741,89.867262)">
+                                    <g >
+                                        <line y1="-122.917" x1="-38.299"  id="line15916" style="fill:none" y2="-122.917" x2="-45.535" gorn="0.0.2.0.0.126.0.0.0.0.0"/>
+                                    </g>
+                                </g>
+                                <g  transform="matrix(-0.264583,1e-6,-1e-6,-0.264583,-32.205065,46.747059)">
+                                    <g >
+                                        <rect  id="rect15918" x="-43.889999" width="3.8340001" height="7.349" style="fill:#f2f2f2" y="-124.676" gorn="0.0.2.0.0.126.0.0.1.0.0"/>
+                                    </g>
+                                </g>
+                                <g  transform="matrix(0,0.264583,-0.264583,0,-53.114741,89.867262)">
+                                    <g >
+                                        <path  id="path15920" style="opacity:0.7;fill:#22b573" enable-background="new    " d="m -43.047,-122.919 c 0,0 -0.646,0.467 -0.867,0.426 -0.219,-0.041 -0.541,0.148 -0.676,0 l 0.019,-0.424 z" gorn="0.0.2.0.0.126.0.0.2.0.0"/>
+                                    </g>
+                                </g>
+                                <g  transform="matrix(-0.264583,1e-6,-1e-6,-0.264583,-32.193688,46.773411)">
+                                    <g >
+                                        <rect  id="rect15922" x="-42.382" width="0.96100003" height="0.85399997" style="fill:#ffffff" y="-121.4" gorn="0.0.2.0.0.126.0.0.3.0.0"/>
+                                    </g>
+                                </g>
+                                <g  transform="matrix(-0.264583,1e-6,-1e-6,-0.264583,-32.06645,46.646173)">
+                                    <g >
+                                        <rect  id="rect15924" x="-41.925999" width="0.050000001" height="0.85399997" style="fill:#b3b3b3" y="-121.881" gorn="0.0.2.0.0.126.0.0.4.0.0"/>
+                                    </g>
+                                </g>
+                                <g  transform="matrix(0,0.264583,-0.264583,0,-53.114741,89.867262)">
+                                    <g >
+                                        <polygon  id="polygon15928" style="fill:#d1c690" points="-43.627,-122.495 -44.59,-122.598 -44.59,-121.868 -43.627,-121.971 " gorn="0.0.2.0.0.126.0.0.5.0.0"/>
+                                    </g>
+                                </g>
+                                <g  transform="matrix(0,0.264583,-0.264583,0,-53.114741,89.867262)">
+                                    <g >
+                                        <path  id="path15930" style="fill:#d1c690" d="m -43.688,-122.296 c 0.002,0 0.005,0 0.009,0 0.266,0.035 0.446,0.104 0.598,0.162 0.209,0.08 0.56,0.781 0.828,0.694 0.026,-0.012 0.061,0.013 0.065,0.043 0.009,0.035 -0.01,0.067 -0.039,0.078 -0.305,0.097 -0.674,-0.616 -0.894,-0.7 -0.147,-0.061 -0.317,-0.123 -0.571,-0.154 -0.028,-0.004 -0.056,-0.033 -0.049,-0.068 0.003,-0.03 0.026,-0.055 0.053,-0.055 z" gorn="0.0.2.0.0.126.0.0.6.0.0"/>
+                                    </g>
+                                </g>
+                                <g  transform="matrix(0,0.264583,-0.264583,0,-53.114741,89.867262)">
+                                    <g >
+                                        <polygon  id="polygon15934" style="fill:#d1c690" points="-39.241,-120.234 -40.207,-120.131 -40.207,-119.607 -39.241,-119.504 " gorn="0.0.2.0.0.126.0.0.7.0.0"/>
+                                    </g>
+                                </g>
+                                <g  transform="matrix(0,0.264583,-0.264583,0,-53.114741,89.867262)">
+                                    <g >
+                                        <path  id="path15936" style="fill:#d1c690" d="m -41.86,-121.128 c 0.024,0 0.049,0.02 0.056,0.047 0.063,0.291 1.088,1.152 1.885,1.152 0.033,0 0.058,0.024 0.058,0.063 -0.002,0.033 -0.024,0.063 -0.058,0.063 h -0.002 c -0.749,0 -1.892,-0.771 -1.993,-1.244 -0.008,-0.035 0.013,-0.068 0.041,-0.078 0.003,-0.003 0.008,-0.003 0.013,-0.003 z" gorn="0.0.2.0.0.126.0.0.8.0.0"/>
+                                    </g>
+                                </g>
+                                <g  transform="matrix(0,0.264583,-0.264583,0,-53.114741,89.867262)">
+                                    <g >
+                                        <path  id="path15940" style="fill:#d1c690" d="m -42.33,-121.144 c 0,0 0.356,0.003 0.384,-0.312 -0.069,0 -0.384,0 -0.384,0 z" gorn="0.0.2.0.0.126.0.0.9.0.0"/>
+                                    </g>
+                                </g>
+                                <g  transform="matrix(0,0.264583,-0.264583,0,-53.114741,89.867262)">
+                                    <g >
+                                        <path  id="path15942" style="fill:#d1c690" d="m -41.895,-120.825 c 0,0 -0.157,-0.307 -0.053,-0.352 0.106,-0.047 0.178,-0.053 0.239,0.027 0.062,0.086 -0.186,0.325 -0.186,0.325 z" gorn="0.0.2.0.0.126.0.0.10.0.0"/>
+                                    </g>
+                                </g>
+                                <g  transform="matrix(0,0.264583,-0.264583,0,-53.114741,89.867262)">
+                                    <g >
+                                        <path  id="path15944" style="fill:#9d956c" d="m -42.254,-121.493 c -0.271,0.084 -0.619,-0.618 -0.828,-0.698 -0.146,-0.06 -0.33,-0.127 -0.598,-0.162 v 0.06 c 0.266,0.035 0.446,0.104 0.598,0.162 0.209,0.08 0.56,0.782 0.828,0.695 z" gorn="0.0.2.0.0.126.0.0.11.0.0"/>
+                                    </g>
+                                </g>
+                                <g  transform="matrix(0,0.264583,-0.264583,0,-53.114741,89.867262)">
+                                    <g >
+                                        <polygon  id="polygon15946" style="fill:#9d956c" points="-40.207,-120.131 -40.207,-120.186 -39.241,-120.29 -39.241,-120.234 " gorn="0.0.2.0.0.126.0.0.12.0.0"/>
+                                    </g>
+                                </g>
+                                <g  transform="matrix(0,0.264583,-0.264583,0,-53.114741,89.867262)">
+                                    <g >
+                                        <path  id="path15948" style="fill:#9d956c" d="m -41.803,-121.137 c 0.063,0.291 1.069,1.211 1.885,1.147 v 0.062 c -0.877,0.059 -1.826,-0.861 -1.887,-1.152 z" gorn="0.0.2.0.0.126.0.0.13.0.0"/>
+                                    </g>
+                                </g>
+                                <g  transform="matrix(0,0.264583,-0.264583,0,-53.114741,89.867262)">
+                                    <g >
+                                        <path  id="path15950" style="fill:#9d956c" d="m -41.947,-121.51 c -0.069,0 -0.382,0 -0.382,0 v 0.057 c 0,0 0.313,0 0.382,0 z" gorn="0.0.2.0.0.126.0.0.14.0.0"/>
+                                    </g>
+                                </g>
+                                <g  transform="matrix(0,0.264583,-0.264583,0,-53.114741,89.867262)">
+                                    <g >
+                                        <path  id="path15952" style="fill:#9d956c" d="m -41.707,-121.2 c -0.063,-0.08 -0.131,-0.076 -0.237,-0.031 l -0.002,0.061 c 0.106,-0.049 0.179,-0.051 0.239,0.028 z" gorn="0.0.2.0.0.126.0.0.15.0.0"/>
+                                    </g>
+                                </g>
+                                <g  transform="matrix(-0.264583,1e-6,-1e-6,-0.264583,-32.683193,47.269372)">
+                                    <g >
+                                        <rect  id="rect15956" x="-41.914001" width="0.050999999" height="4.223" style="opacity:0.5;fill:#ffffff" enable-background="new    " y="-121.222" gorn="0.0.2.0.0.126.0.0.16.0.0"/>
+                                    </g>
+                                </g>
+                                <g  transform="matrix(0,0.264583,-0.264583,0,-53.114741,89.867262)">
+                                    <g >
+                                        <path  id="path15958" style="opacity:0.5;fill:#f2f2f2" enable-background="new    " d="m -39.258,-119.087 v -3.83 h -5.316 l -0.005,3.83 z" gorn="0.0.2.0.0.126.0.0.17.0.0"/>
+                                    </g>
+                                </g>
+                                <g  transform="matrix(0,0.264583,-0.264583,0,-53.114741,89.867262)">
+                                    <g >
+                                        <path  id="path15960" style="opacity:0.55;fill:#ffffff" enable-background="new    " d="m -39.308,-119.738 v 0.271 c -0.02,0.15 0.012,0.271 -0.099,0.271 -0.611,0 -4.703,0 -4.854,0 -0.168,0 -0.177,-0.064 0.012,-0.064 0.132,0 3.894,0 4.347,0 0.457,0 0.519,-0.104 0.519,-0.197 l -0.002,-0.271 c -0.001,-0.185 0.077,-0.185 0.077,-0.01 z" gorn="0.0.2.0.0.126.0.0.18.0.0"/>
+                                    </g>
+                                </g>
+                                <g  transform="matrix(0,0.264583,-0.264583,0,-53.114741,89.867262)">
+                                    <g >
+                                        <path  id="path15962" style="opacity:0.02999998" enable-background="new    " d="m -44.436,-122.697 c 0,-0.067 -0.012,-0.138 0.099,-0.138 0.61,0 4.667,0 4.816,0 0.168,0 0.177,0.063 -0.008,0.063 -0.136,0 -3.139,0.003 -3.589,0.003 -0.595,0.003 -1.318,0.072 -1.318,0.072 z" gorn="0.0.2.0.0.126.0.0.19.0.0"/>
+                                    </g>
+                                </g>
+                                <g  transform="matrix(0,0.264583,-0.264583,0,-53.114741,89.867262)">
+                                    <g >
+                                        <path  id="path15964" style="fill:#d1c690" d="m -38.3,-122.919 h -0.771 v 0.521 c 0,0.125 -0.08,0.214 -0.188,0.269 v 3.047 h 1.01 v -3.783 -0.051" gorn="0.0.2.0.0.126.0.0.20.0.0"/>
+                                    </g>
+                                </g>
+                                <g  transform="matrix(-0.264583,1e-6,-1e-6,-0.264583,-31.853276,48.099292)">
+                                    <g >
+                                        <rect  id="rect15966" x="-38.778999" width="0.052999999" height="1.006" style="opacity:0.5;fill:#ffffff" enable-background="new    " y="-119.614" gorn="0.0.2.0.0.126.0.0.21.0.0"/>
+                                    </g>
+                                </g>
+                                <g  transform="matrix(0,0.264583,-0.264583,0,-53.114741,89.867262)">
+                                    <g >
+                                        <path  id="path15968" style="fill:#d1c690" d="m -45.647,-122.919 v 0.049 3.783 h 1.072 v -3.463 c -0.104,-0.058 -0.19,-0.146 -0.19,-0.271 v -0.1 h -0.83" gorn="0.0.2.0.0.126.0.0.22.0.0"/>
+                                    </g>
+                                </g>
+                                <g  transform="matrix(-0.264583,1e-6,-1e-6,-0.264583,-33.53547,46.417362)">
+                                    <g >
+                                        <rect  id="rect15970" x="-45.136002" width="0.052000001" height="1.072" style="opacity:0.5;fill:#ffffff" enable-background="new    " y="-119.647" gorn="0.0.2.0.0.126.0.0.23.0.0"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="0.1.0.2.31.0.0">text:Arduino</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="0.1.0.2.31.1.0">text:TM</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.264583,0.000000,0.000000,0.264583,-49.392718,75.180530)">
+                        <g >
+                            <title  id="0.1.0.1.16.0">text:Arduino</title>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.025400,0.000000,0.000000,0.025400,305.920500,72.345457)">
+                        <g >
+                            <desc  id="desc4137">
+                                <referenceFile >GY-521.svg</referenceFile>
+                            </desc>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.025400,0.000000,0.000000,0.025400,305.920500,72.345457)">
+                        <g >
+                            <defs  id="defs2995"/>
+                        </g>
+                    </g>
+                    <g  transform="matrix(0.025400,0.000000,0.000000,0.025400,305.920500,72.345457)">
+                        <g >
+                            <metadata  id="metadata2998">
+                                <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                    <cc:Work rdf:about="" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                        <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                                        <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+                                        <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+                                    </cc:Work>
+                                </rdf:RDF>
+                            </metadata>
+                        </g>
+                    </g>
+                    <g  transform="translate(-175.58261,19.094737)">
+                        <g >
+                            <g  id="g35878" gorn="0.0.2.0.0.133.0.0">
+                                <g  transform="matrix(0.432485,0,0,0.352573,312.95885,89.545445)">
+                                    <g >
+                                        <rect  id="rect299477-1" x="3.0350001" width="2" height="2.7" style="display:inline;opacity:1;" class="pad-right" stroke-width="0.90289909" fill="#9a916c" gorn="0.0.2.0.0.133.0.0.0.0.0" y="-0.21600001"/>
+                                    </g>
+                                </g>
+                                <g  transform="matrix(0.432485,0,0,0.352573,312.95885,89.545445)">
+                                    <g >
+                                        <rect  id="rect299479-2" x="-0.5" width="2" height="2.7" style="display:inline;opacity:1;" class="pad-left" stroke-width="0.90289909" fill="#9a916c" gorn="0.0.2.0.0.133.0.0.1.0.0" y="-0.21600001"/>
+                                    </g>
+                                </g>
+                                <g  transform="matrix(0.432485,0,0,0.352573,313.0021,89.580702)">
+                                    <g >
+                                        <path  id="path299481-0" style="display:inline;opacity:0.5;" d="M 4.234,0 H 0.299 c -0.166,0 -0.3,0.134 -0.3,0.3 v 1.668 c 0,0.166 0.134,0.3 0.3,0.3 h 3.934 c 0.167,0 0.301,-0.134 0.301,-0.3 V 0.3 C 4.534,0.134 4.401,0 4.234,0 Z" stroke-width="0.90289909" fill="#000000" gorn="0.0.2.0.0.133.0.0.2.0.0"/>
+                                    </g>
+                                </g>
+                                <g  transform="matrix(0.432485,0,0,0.352573,312.95885,89.545445)">
+                                    <g >
+                                        <rect  id="rect299485-5" x="0.51700002" width="3.5" height="2.2679999" style="display:inline;opacity:1;" class="color res" stroke-width="0.90289909" fill="#222222" gorn="0.0.2.0.0.133.0.0.3.0.0" y="0"/>
+                                    </g>
+                                </g>
+                                <g  transform="matrix(0.432485,0,0,0.352573,312.95885,89.545445)">
+                                    <g >
+                                        <path  id="path299487-4" style="display:inline;opacity:1;" d="M 0.995,0 H 0.3 C 0.134,0 0,0.134 0,0.3 v 1.668 c 0,0.166 0.134,0.3 0.3,0.3 H 0.995 C 1.054,1.912 1.092,1.534 1.092,1.134 1.092,0.734 1.054,0.356 0.995,0 Z" stroke-width="0.90289909" fill="#bbbbbb" gorn="0.0.2.0.0.133.0.0.4.0.0"/>
+                                    </g>
+                                </g>
+                                <g  transform="matrix(0.432485,0,0,0.352573,312.95885,89.545445)">
+                                    <g >
+                                        <path  id="path299489-5" style="display:inline;opacity:1;" d="M 4.535,1.968 V 0.3 C 4.535,0.134 4.401,0 4.235,0 H 3.539 C 3.48,0.356 3.442,0.734 3.442,1.134 c 0,0.4 0.038,0.778 0.097,1.134 h 0.695 c 0.167,0 0.301,-0.134 0.301,-0.3 z" stroke-width="0.90289909" fill="#bbbbbb" gorn="0.0.2.0.0.133.0.0.5.0.0"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="translate(-175.58261,20.682238)">
+                        <g >
+                            <g  id="g35892" gorn="0.0.2.0.0.134.0.0">
+                                <g  transform="matrix(0.432485,0,0,0.352573,312.95885,89.545445)">
+                                    <g >
+                                        <rect  id="rect35880" x="3.0350001" width="2" height="2.7" style="display:inline;opacity:1;" class="pad-right" stroke-width="0.90289909" fill="#9a916c" y="-0.21600001" gorn="0.0.2.0.0.134.0.0.0.0.0"/>
+                                    </g>
+                                </g>
+                                <g  transform="matrix(0.432485,0,0,0.352573,312.95885,89.545445)">
+                                    <g >
+                                        <rect  id="rect35882" x="-0.5" width="2" height="2.7" style="display:inline;opacity:1;" class="pad-left" stroke-width="0.90289909" fill="#9a916c" y="-0.21600001" gorn="0.0.2.0.0.134.0.0.1.0.0"/>
+                                    </g>
+                                </g>
+                                <g  transform="matrix(0.432485,0,0,0.352573,313.0021,89.580702)">
+                                    <g >
+                                        <path  id="path35884" style="display:inline;opacity:0.5;" d="M 4.234,0 H 0.299 c -0.166,0 -0.3,0.134 -0.3,0.3 v 1.668 c 0,0.166 0.134,0.3 0.3,0.3 h 3.934 c 0.167,0 0.301,-0.134 0.301,-0.3 V 0.3 C 4.534,0.134 4.401,0 4.234,0 Z" stroke-width="0.90289909" fill="#000000" gorn="0.0.2.0.0.134.0.0.2.0.0"/>
+                                    </g>
+                                </g>
+                                <g  transform="matrix(0.432485,0,0,0.352573,312.95885,89.545445)">
+                                    <g >
+                                        <rect  id="rect35886" x="0.51700002" width="3.5" height="2.2679999" style="display:inline;opacity:1;" class="color res" stroke-width="0.90289909" fill="#222222" y="0" gorn="0.0.2.0.0.134.0.0.3.0.0"/>
+                                    </g>
+                                </g>
+                                <g  transform="matrix(0.432485,0,0,0.352573,312.95885,89.545445)">
+                                    <g >
+                                        <path  id="path35888" style="display:inline;opacity:1;" d="M 0.995,0 H 0.3 C 0.134,0 0,0.134 0,0.3 v 1.668 c 0,0.166 0.134,0.3 0.3,0.3 H 0.995 C 1.054,1.912 1.092,1.534 1.092,1.134 1.092,0.734 1.054,0.356 0.995,0 Z" stroke-width="0.90289909" fill="#bbbbbb" gorn="0.0.2.0.0.134.0.0.4.0.0"/>
+                                    </g>
+                                </g>
+                                <g  transform="matrix(0.432485,0,0,0.352573,312.95885,89.545445)">
+                                    <g >
+                                        <path  id="path35890" style="display:inline;opacity:1;" d="M 4.535,1.968 V 0.3 C 4.535,0.134 4.401,0 4.235,0 H 3.539 C 3.48,0.356 3.442,0.734 3.442,1.134 c 0,0.4 0.038,0.778 0.097,1.134 h 0.695 c 0.167,0 0.301,-0.134 0.301,-0.3 z" stroke-width="0.90289909" fill="#bbbbbb" gorn="0.0.2.0.0.134.0.0.5.0.0"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="rotate(-90)">
+                        <g >
+                            <g  font-size="0.59737" aria-label="OUT" stroke-opacity="1" id="text35896" fill-opacity="1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:'OCR-A BT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;stroke-linecap:butt;stroke-linejoin:miter;" stroke="none" stroke-width="0.0746713" fill="#ffffff" gorn="0.0.2.0.0.135.0.0">
+                                <path  font-size="0.59737" id="path35921" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'OCR-A BT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;" d="m -115.22279,136.68613 q -0.0114,-0.0196 -0.0217,-0.0269 -0.009,-0.007 -0.0248,-0.007 -0.0145,0 -0.0279,0.009 -0.0134,0.009 -0.0207,0.0238 l -0.1912,0.3762 q -0.009,0.0186 -0.0155,0.0455 -0.005,0.0269 -0.005,0.0527 0,0.0269 0.005,0.0537 0.006,0.0269 0.0155,0.0455 l 0.19327,0.37517 q 0.0103,0.0196 0.0207,0.0269 0.0103,0.007 0.0258,0.007 0.0145,0 0.0279,-0.008 0.0134,-0.009 0.0207,-0.0258 l 0.19017,-0.37414 q 0.009,-0.0186 0.0155,-0.0455 0.006,-0.0279 0.006,-0.0548 0,-0.0269 -0.006,-0.0548 -0.006,-0.0279 -0.0155,-0.0444 z m 0.1695,-0.062 0.18397,0.36277 q 0.0176,0.0341 0.0279,0.0796 0.0103,0.0455 0.0103,0.093 0,0.0486 -0.0103,0.094 -0.0103,0.0455 -0.0279,0.0796 l -0.18397,0.36277 q -0.0434,0.0816 -0.093,0.11575 -0.0496,0.0341 -0.12299,0.0341 -0.0744,0 -0.12402,-0.0341 -0.0496,-0.0341 -0.092,-0.11575 l -0.18396,-0.36277 q -0.0186,-0.0362 -0.0289,-0.0806 -0.009,-0.0455 -0.009,-0.093 0,-0.0476 0.009,-0.093 0.0103,-0.0455 0.0289,-0.0796 l 0.18396,-0.36277 q 0.0424,-0.0816 0.092,-0.11576 0.0496,-0.0341 0.12402,-0.0341 0.0734,0 0.12299,0.0341 0.0496,0.0341 0.093,0.11576 z" stroke-width="0.0746713" fill="#ffffff" gorn="0.0.2.0.0.135.0.0.0"/>
+                                <path  font-size="0.59737" id="path35923" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'OCR-A BT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;" d="m -114.21923,136.57348 v 1.00562 q 0,0.0372 0.0258,0.063 0.0269,0.0258 0.063,0.0258 h 0.34106 q 0.0351,0 0.063,-0.0269 0.0279,-0.0269 0.0279,-0.062 v -1.00562 q 0,-0.0455 0.0238,-0.0724 0.0248,-0.0269 0.0651,-0.0269 0.0382,0 0.063,0.0279 0.0258,0.0279 0.0258,0.0713 v 1.00562 q 0,0.10955 -0.0785,0.1881 -0.0786,0.0786 -0.1881,0.0786 h -0.34106 q -0.11162,0 -0.19017,-0.0786 -0.0786,-0.0775 -0.0786,-0.1881 v -1.00562 q 0,-0.0455 0.0238,-0.0724 0.0248,-0.0269 0.0651,-0.0269 0.0382,0 0.0631,0.0279 0.0258,0.0279 0.0258,0.0713 z" stroke-width="0.0746713" fill="#ffffff" gorn="0.0.2.0.0.135.0.0.1"/>
+                                <path  font-size="0.59737" id="path35925" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'OCR-A BT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;" d="m -113.08649,136.47426 h 0.87644 v 0.22841 q 0,0.0444 -0.0248,0.0723 -0.0248,0.0269 -0.0641,0.0269 -0.0393,0 -0.0641,-0.0279 -0.0248,-0.0279 -0.0248,-0.0713 v -0.0507 h -0.17157 v 1.09451 q 0,0.0444 -0.0248,0.0713 -0.0248,0.0279 -0.0641,0.0279 -0.0393,0 -0.0641,-0.0279 -0.0248,-0.0279 -0.0248,-0.0713 v -1.09451 h -0.17157 v 0.0507 q 0,0.0444 -0.0248,0.0723 -0.0248,0.0269 -0.0641,0.0269 -0.0393,0 -0.0641,-0.0279 -0.0248,-0.0279 -0.0248,-0.0713 z" stroke-width="0.0746713" fill="#ffffff" gorn="0.0.2.0.0.135.0.0.2"/>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="rotate(-90)">
+                        <g >
+                            <g  font-size="0.59737" aria-label="GND" stroke-opacity="1" id="text35900" fill-opacity="1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:'OCR-A BT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;stroke-linecap:butt;stroke-linejoin:miter;" stroke="none" stroke-width="0.0746713" fill="#ffffff" gorn="0.0.2.0.0.136.0.0">
+                                <path  font-size="0.59737" id="path35928" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'OCR-A BT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;" d="m -115.18662,133.93425 h 0.25632 q 0.0444,0 0.0713,0.0248 0.0279,0.0248 0.0279,0.0641 0,0.0382 -0.0279,0.0641 -0.0279,0.0248 -0.0713,0.0248 h -0.25425 q -0.0176,0 -0.0372,0.009 -0.0196,0.008 -0.0269,0.0186 l -0.22841,0.29559 q -0.031,0.0413 -0.0424,0.0693 -0.0103,0.0269 -0.0103,0.0579 v 0.47646 q 0,0.0362 0.0269,0.0631 0.0269,0.0258 0.062,0.0258 h 0.34107 q 0.0351,0 0.062,-0.0258 0.0269,-0.0269 0.0269,-0.0631 v -0.17983 h -0.16123 q -0.0455,0 -0.0723,-0.0238 -0.0269,-0.0248 -0.0269,-0.0651 0,-0.0393 0.0279,-0.0641 0.0279,-0.0248 0.0713,-0.0248 h 0.34107 v 0.3576 q 0,0.10956 -0.0786,0.1881 -0.0785,0.0785 -0.1881,0.0785 h -0.34107 q -0.11162,0 -0.19017,-0.0785 -0.0786,-0.0775 -0.0786,-0.1881 v -0.47646 q 0,-0.061 0.0207,-0.11575 0.0207,-0.0548 0.0806,-0.13643 l 0.20567,-0.27285 q 0.0341,-0.0444 0.094,-0.0734 0.06,-0.03 0.11989,-0.03 z" stroke-width="0.0746713" fill="#ffffff" gorn="0.0.2.0.0.136.0.0.0"/>
+                                <path  font-size="0.59737" id="path35930" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'OCR-A BT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;" d="m -114.397,133.93425 h 0.23461 l 0.46405,1.05627 v -0.95705 q 0,-0.0455 0.0238,-0.0724 0.0248,-0.0269 0.0651,-0.0269 0.0382,0 0.063,0.0279 0.0258,0.0279 0.0258,0.0713 v 1.27227 h -0.23564 l -0.46302,-1.05213 v 0.95291 q 0,0.0444 -0.0248,0.0713 -0.0248,0.0279 -0.0641,0.0279 -0.0393,0 -0.0641,-0.0279 -0.0248,-0.0279 -0.0248,-0.0713 z" stroke-width="0.0746713" fill="#ffffff" gorn="0.0.2.0.0.136.0.0.1"/>
+                                <path  font-size="0.59737" id="path35932" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'OCR-A BT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;" d="m -112.67411,134.11202 h -0.0589 v 1.01595 h 0.0589 q 0.0269,0 0.0496,-0.0145 0.0227,-0.0145 0.0351,-0.0403 l 0.1819,-0.36897 q 0.009,-0.0186 0.0134,-0.0393 0.004,-0.0207 0.004,-0.0455 0,-0.0238 -0.004,-0.0444 -0.004,-0.0207 -0.0134,-0.0393 l -0.1819,-0.3669 q -0.0134,-0.0258 -0.0362,-0.0413 -0.0227,-0.0155 -0.0486,-0.0155 z m 0,-0.17777 q 0.0837,0 0.14366,0.0403 0.06,0.0403 0.10439,0.12712 l 0.18397,0.36587 q 0.0155,0.032 0.0238,0.0703 0.008,0.0372 0.008,0.0816 0,0.0444 -0.008,0.0827 -0.008,0.0382 -0.0238,0.0703 l -0.18397,0.36587 q -0.0424,0.0858 -0.10336,0.12609 -0.0599,0.0413 -0.14469,0.0413 h -0.31316 q -0.0444,0 -0.0724,-0.0248 -0.0269,-0.0248 -0.0269,-0.0641 0,-0.0393 0.0279,-0.0641 0.0279,-0.0248 0.0713,-0.0248 h 0.0765 v -1.01595 h -0.0765 q -0.0444,0 -0.0724,-0.0248 -0.0269,-0.0248 -0.0269,-0.0641 0,-0.0393 0.0279,-0.0641 0.0279,-0.0248 0.0713,-0.0248 z" stroke-width="0.0746713" fill="#ffffff" gorn="0.0.2.0.0.136.0.0.2"/>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="rotate(-90)">
+                        <g >
+                            <g  font-size="0.59737" aria-label="VCC" stroke-opacity="1" id="text35904" fill-opacity="1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:'OCR-A BT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;stroke-linecap:butt;stroke-linejoin:miter;" stroke="none" stroke-width="0.0746713" fill="#ffffff" gorn="0.0.2.0.0.137.0.0">
+                                <path  font-size="0.59737" id="path35935" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'OCR-A BT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;" d="m -115.52975,131.49347 v 0.26872 l 0.26045,0.6842 0.26045,-0.6842 v -0.26872 q 0,-0.0434 0.0248,-0.0713 0.0248,-0.0279 0.0641,-0.0279 0.0393,0 0.0641,0.0279 0.0248,0.0269 0.0248,0.0713 v 0.30283 l -0.34934,0.89297 q -0.0165,0.0444 -0.0372,0.0599 -0.0196,0.0165 -0.0517,0.0165 -0.0331,0 -0.0548,-0.0176 -0.0217,-0.0176 -0.0362,-0.0589 l -0.34727,-0.89297 v -0.30283 q 0,-0.0455 0.0238,-0.0723 0.0248,-0.0269 0.0651,-0.0269 0.0382,0 0.063,0.0279 0.0258,0.0279 0.0258,0.0713 z" stroke-width="0.0746713" fill="#ffffff" gorn="0.0.2.0.0.137.0.0.0"/>
+                                <path  font-size="0.59737" id="path35937" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'OCR-A BT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;" d="m -113.93398,132.76575 q -0.0827,0 -0.14366,-0.0403 -0.06,-0.0403 -0.10335,-0.12712 l -0.18397,-0.36587 q -0.0165,-0.032 -0.0248,-0.0693 -0.007,-0.0372 -0.007,-0.0806 0,-0.0455 0.007,-0.0848 0.008,-0.0393 0.0248,-0.0703 l 0.18397,-0.36587 q 0.0413,-0.0858 0.10232,-0.12609 0.061,-0.0413 0.14469,-0.0413 h 0.31419 q 0.0444,0 0.0713,0.0248 0.0279,0.0248 0.0279,0.0641 0,0.0382 -0.0279,0.0641 -0.0279,0.0248 -0.0713,0.0248 h -0.31419 q -0.0258,0 -0.0486,0.0145 -0.0227,0.0145 -0.0362,0.0403 l -0.1819,0.36897 q -0.008,0.0186 -0.0124,0.0393 -0.004,0.0207 -0.004,0.0444 0,0.0248 0.004,0.0455 0.004,0.0207 0.0124,0.0393 l 0.1819,0.36691 q 0.0134,0.0258 0.0362,0.0413 0.0227,0.0155 0.0486,0.0155 h 0.31419 q 0.0444,0 0.0713,0.0248 0.0279,0.0248 0.0279,0.0641 0,0.0393 -0.0279,0.0641 -0.0279,0.0248 -0.0713,0.0248 z" stroke-width="0.0746713" fill="#ffffff" gorn="0.0.2.0.0.137.0.0.1"/>
+                                <path  font-size="0.59737" id="path35939" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'OCR-A BT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;" d="m -112.62347,132.76575 q -0.0827,0 -0.14366,-0.0403 -0.0599,-0.0403 -0.10335,-0.12712 l -0.18397,-0.36587 q -0.0165,-0.032 -0.0248,-0.0693 -0.007,-0.0372 -0.007,-0.0806 0,-0.0455 0.007,-0.0848 0.008,-0.0393 0.0248,-0.0703 l 0.18397,-0.36587 q 0.0413,-0.0858 0.10232,-0.12609 0.061,-0.0413 0.14469,-0.0413 h 0.3142 q 0.0444,0 0.0713,0.0248 0.0279,0.0248 0.0279,0.0641 0,0.0382 -0.0279,0.0641 -0.0279,0.0248 -0.0713,0.0248 h -0.3142 q -0.0258,0 -0.0486,0.0145 -0.0227,0.0145 -0.0362,0.0403 l -0.1819,0.36897 q -0.008,0.0186 -0.0124,0.0393 -0.004,0.0207 -0.004,0.0444 0,0.0248 0.004,0.0455 0.004,0.0207 0.0124,0.0393 l 0.1819,0.36691 q 0.0134,0.0258 0.0362,0.0413 0.0227,0.0155 0.0486,0.0155 h 0.3142 q 0.0444,0 0.0713,0.0248 0.0279,0.0248 0.0279,0.0641 0,0.0393 -0.0279,0.0641 -0.0279,0.0248 -0.0713,0.0248 z" stroke-width="0.0746713" fill="#ffffff" gorn="0.0.2.0.0.137.0.0.2"/>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="rotate(90)">
+                        <g >
+                            <g  font-size="0.398247" aria-label="YL-99" stroke-opacity="1" id="text35908" fill-opacity="1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:'OCR-A BT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;stroke-linecap:butt;stroke-linejoin:miter;" stroke="none" stroke-width="0.0746713" fill="#ffffff" gorn="0.0.2.0.0.138.0.0">
+                                <path  font-size="0.398247" id="path35910" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'OCR-A BT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;" d="m 105.18979,-128.2769 v 0.0737 l 0.17364,0.21704 0.17363,-0.21704 v -0.0737 q 0,-0.0289 0.0165,-0.0475 0.0165,-0.0186 0.0427,-0.0186 0.0262,0 0.0427,0.0186 0.0165,0.0179 0.0165,0.0475 v 0.11438 l -0.23289,0.29352 v 0.37414 q 0,0.0296 -0.0165,0.0475 -0.0165,0.0186 -0.0427,0.0186 -0.0262,0 -0.0427,-0.0186 -0.0165,-0.0186 -0.0165,-0.0475 v -0.37414 l -0.23289,-0.29352 v -0.11438 q 0,-0.0303 0.0159,-0.0482 0.0165,-0.0179 0.0434,-0.0179 0.0255,0 0.042,0.0186 0.0172,0.0186 0.0172,0.0475 z" stroke-width="0.0746713" fill="#ffffff" gorn="0.0.2.0.0.138.0.0.0"/>
+                                <path  font-size="0.398247" id="path35912" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'OCR-A BT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;" d="m 106.06347,-128.2769 v 0.72968 h 0.39963 q 0.0296,0 0.0475,0.0165 0.0186,0.0165 0.0186,0.0427 0,0.0262 -0.0186,0.0427 -0.0186,0.0165 -0.0475,0.0165 h -0.51814 v -0.84819 q 0,-0.0303 0.0159,-0.0482 0.0165,-0.0179 0.0434,-0.0179 0.0255,0 0.042,0.0186 0.0172,0.0186 0.0172,0.0475 z" stroke-width="0.0746713" fill="#ffffff" gorn="0.0.2.0.0.138.0.0.1"/>
+                                <path  font-size="0.398247" id="path35914" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'OCR-A BT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;" d="m 106.88478,-127.94548 h 0.452 q 0.0296,0 0.0475,0.0165 0.0186,0.0165 0.0186,0.0427 v 0.0496 q 0,0.0262 -0.0193,0.0434 -0.0186,0.0172 -0.0468,0.0172 h -0.452 q -0.0296,0 -0.0482,-0.0165 -0.0179,-0.0172 -0.0179,-0.0441 v -0.0496 q 0,-0.0255 0.0186,-0.042 0.0186,-0.0172 0.0475,-0.0172 z" stroke-width="0.0746713" fill="#ffffff" gorn="0.0.2.0.0.138.0.0.2"/>
+                                <path  font-size="0.398247" id="path35916" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'OCR-A BT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;" d="m 107.81082,-128.22453 v 0.17915 h 0.34727 v -0.17915 z m 0.0124,-0.11851 h 0.32178 q 0.0634,0 0.0971,0.0344 0.0345,0.0345 0.0345,0.0978 v 0.71727 q 0,0.0296 -0.0165,0.0469 -0.0165,0.0179 -0.0427,0.0179 h -0.0524 q -0.0296,0 -0.0482,-0.0165 -0.0179,-0.0165 -0.0179,-0.0427 0,-0.0234 0.0159,-0.0393 0.0158,-0.0165 0.0434,-0.0207 v -0.37759 h -0.33487 q -0.0627,0 -0.0971,-0.0345 -0.0338,-0.0344 -0.0338,-0.0978 v -0.15296 q 0,-0.0634 0.0338,-0.0978 0.0344,-0.0344 0.0971,-0.0344 z" stroke-width="0.0746713" fill="#ffffff" gorn="0.0.2.0.0.138.0.0.3"/>
+                                <path  font-size="0.398247" id="path35918" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'OCR-A BT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;" d="m 108.6845,-128.22453 v 0.17915 h 0.34726 v -0.17915 z m 0.0124,-0.11851 h 0.32177 q 0.0634,0 0.0971,0.0344 0.0345,0.0345 0.0345,0.0978 v 0.71727 q 0,0.0296 -0.0165,0.0469 -0.0165,0.0179 -0.0427,0.0179 h -0.0524 q -0.0296,0 -0.0482,-0.0165 -0.0179,-0.0165 -0.0179,-0.0427 0,-0.0234 0.0159,-0.0393 0.0158,-0.0165 0.0434,-0.0207 v -0.37759 h -0.33486 q -0.0627,0 -0.0971,-0.0345 -0.0338,-0.0344 -0.0338,-0.0978 v -0.15296 q 0,-0.0634 0.0338,-0.0978 0.0345,-0.0344 0.0971,-0.0344 z" stroke-width="0.0746713" fill="#ffffff" gorn="0.0.2.0.0.138.0.0.4"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
