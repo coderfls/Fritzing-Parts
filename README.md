@@ -1,3 +1,3 @@
 # Fritzing-Parts
 
-This are a collection of parts created by me or found in the web
+This are a collection of fritzing parts created by me or found in the web.
