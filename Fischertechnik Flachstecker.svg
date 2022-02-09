@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" id="svg5" gorn="0" width="16.03570747mm" height="6.816467285mm" version="1.1" viewBox="0 0 16.03570747 6.816467285" >
+    <desc >
+        <referenceFile >stecker.svg</referenceFile>
+    </desc>
+    <defs id="defs2" >
+        <defs id="defs2-4" />
+    </defs>
+    <g transform="translate(-161.7715152,-139.2335205)" >
+        <g >
+            <g id="breadboard" gorn="0.2.0.0" >
+                <g transform="translate(0.6715090972,-0.1886010464)" >
+                    <g >
+                        <g id="g2220" gorn="0.2.0.0.0.0.0" >
+                            <rect id="rect1458" y="141.4499969" stroke-opacity="1" x="161.1000061" rx="0.5902593136" stroke="none" gorn="0.2.0.0.0.0.0.0" width="5.180504322" fill-opacity="1" height="2" ry="1" stroke-width="0.489" style="font-variation-settings:normal;opacity:1;vector-effect:none;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;-inkscape-paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1" fill="#b3b3b3" />
+                            <path id="path2046" stroke-opacity="1" d="m 161.1075881,142.4499969 h 3.992418" stroke="#808080" gorn="0.2.0.0.0.0.0.1" stroke-width="0.1" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" fill="none" />
+                        </g>
+                    </g>
+                </g>
+                <rect id="connector0pin" y="141.8834839" stroke-opacity="1" x="162.1782532" stroke="none" gorn="0.2.0.0.1" width="0.9186181426" fill-opacity="1" height="0.9023521543" stroke-width="0.489" style="font-variation-settings:normal;vector-effect:none;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;-inkscape-paint-order:fill markers stroke;stop-color:#000000" fill="none" />
+                <rect id="connector1pin" y="139.2564545" stroke-opacity="1" x="169.6833344" stroke="none" gorn="0.2.0.0.2" width="1.003428698" fill-opacity="1" height="0.8814173937" stroke-width="0.489" style="font-variation-settings:normal;vector-effect:none;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;-inkscape-paint-order:fill markers stroke;stop-color:#000000" fill="none" />
+                <rect id="rect876" y="140.5499878" stroke-opacity="1" x="165.1000061" stroke="none" gorn="0.2.0.0.3" width="12" fill-opacity="1" height="5.5" stroke-width="0.489" style="font-variation-settings:normal;opacity:1;vector-effect:none;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;-inkscape-paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1" fill="#808080" />
+                <rect id="rect1230" y="139.2799835" stroke-opacity="1" x="165.1000061" stroke="none" gorn="0.2.0.0.4" width="12.69999981" fill-opacity="1" height="1.2700001" stroke-width="0.489" style="font-variation-settings:normal;opacity:1;vector-effect:none;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;-inkscape-paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1" fill="#666666" />
+                <rect id="rect1256" y="139.2799835" stroke-opacity="1" x="177.1000061" stroke="none" gorn="0.2.0.0.5" width="0.6999969482" fill-opacity="1" height="6.770004272" stroke-width="0.489" style="font-variation-settings:normal;opacity:1;vector-effect:none;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;-inkscape-paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1" fill="#4d4d4d" />
+                <ellipse cy="139.8619232" id="path2580" rx="1.062453985" stroke="#4d4d4d" gorn="0.2.0.0.6" ry="0.4918768108" stroke-width="0.06" style="stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke;stop-color:#000000" fill="#808080"  cx="170.1702728"/>
+                <g transform="rotate(90)" >
+                    <g >
+                        <path id="connector2pin" d="m 145.3898831,-177.8000031 a 0.5998898149,0.5105516911 0 0 1 -0.2999449,0.4421508 0.5998898149,0.5105516911 0 0 1 -0.5998898,0 0.5998898149,0.5105516911 0 0 1 -0.2999449,-0.4421508 h 0.5998898 z" stroke="#4d4d4d" gorn="0.2.0.0.7.0.0" stroke-width="0.0144379" style="stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke;stop-color:#000000" fill="#808080" />
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

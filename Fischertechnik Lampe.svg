@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.00208187 20.00599861"  width="15.00208187mm" gorn="0" height="20.00599861mm" id="svg5" version="1.1">
+    <desc >
+        <referenceFile >leuchte.svg</referenceFile>
+    </desc>
+    <defs  id="defs2">
+        <defs  id="defs2-4"/>
+    </defs>
+    <g transform="translate(-130.8075182,-142.5246498)" >
+        <g >
+            <g  gorn="0.2.0.0" id="breadboard">
+                <rect x="131.0545044" y="142.7691498" stroke-width="0.489" stroke="#fd7e14" fill="#fed1aa"  style="font-variation-settings:normal;opacity:1;vector-effect:none;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;-inkscape-paint-order:normal;stop-color:#000000;stop-opacity:1" width="14.51059532" gorn="0.2.0.0.0" height="11.18550301" stroke-opacity="1" fill-opacity="1" id="rect2284"/>
+                <path stroke-width="0.489001" fill="#ffe9a6"  style="opacity:1;vector-effect:none;fill-rule:evenodd;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1" gorn="0.2.0.0.1" id="rect3846" d="m 136.4022995,148.6958303 c 0.014852,-2.889528 3.8252652,-2.8320377 3.8099928,0 v 6.9849949 h -3.8099928 z"/>
+                <g transform="scale(0.2645833333)" >
+                    <g >
+                        <path stroke-width="0.462607" stroke="none" fill="#333333"  style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill" gorn="0.2.0.0.2.0.0" stroke-opacity="1" fill-opacity="1" id="rect817" d="m 494.4000001,580.8000001 -0.00938,19.6570311 c -1.588e-4,0.3329613 0.2666413,0.6015624 0.5996094,0.6015626 h 20.1875 v 4.5976562 c -0.450669,0.530598 -0.8251501,1.2937084 -1.0859375,2.2128906 -0.5303161,1.875744 -0.5303161,4.186756 0,6.0625 0.035717,0.1218104 0.073483,0.2410276 0.1132812,0.3574219 h 17.0664063 c 0.039133,-0.1164548 0.076273,-0.235672 0.1113281,-0.3574219 0.272262,-0.9636136 0.409427,-2.0616341 0.3964844,-3.1738281 -0.011565,-1.015516 -0.1479026,-2.0088194 -0.3964844,-2.8886719 -0.2613241,-0.9196887 -0.6365062,-1.6828466 -1.0878906,-2.2128906 v -4.5976562 h 20.1875 c 0.3329688,0 0.5996095,-0.268602 0.5996093,-0.6015626 V 580.8000001 Z M 504,585.6757812 c 2.6093755,-1.104e-4 4.7247198,2.1152339 4.7246094,4.7246094 1.104e-4,2.6093755 -2.1152339,4.7247198 -4.7246094,4.7246094 -2.6093755,1.104e-4 -4.7247198,-2.1152339 -4.7246094,-4.7246094 -1.104e-4,-2.6093755 2.1152339,-4.7247198 4.7246094,-4.7246094 z m 38.4003906,0 c 2.6093755,-1.104e-4 4.7247198,2.1152339 4.7246094,4.7246094 1.104e-4,2.6093755 -2.1152339,4.7247198 -4.7246094,4.7246094 -2.6093755,1.104e-4 -4.7247198,-2.1152339 -4.7246094,-4.7246094 -1.104e-4,-2.6093755 2.1152339,-4.7247198 4.7246094,-4.7246094 z"/>
+                    </g>
+                </g>
+                <g transform="rotate(90)" >
+                    <g >
+                        <circle stroke-width="0.15" stroke="#b3b3b3" fill="none" cy="-133.3500061"  cx="156.2100067" style="display:inline;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill" gorn="0.2.0.0.3.0.0" stroke-opacity="1" fill-opacity="0.974277" id="connector0pin" r="1.25"/>
+                    </g>
+                </g>
+                <g transform="rotate(90)" >
+                    <g >
+                        <circle stroke-width="0.15" stroke="#b3b3b3" fill="none" cy="-143.5099945"  cx="156.2100067" style="display:inline;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill" gorn="0.2.0.0.4.0.0" stroke-opacity="1" fill-opacity="0.974277" id="connector1pin" r="1.25"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

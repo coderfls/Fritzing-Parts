@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" id="svg8" gorn="0"  viewBox="0 0 45.472893 19.999811" height="19.999811mm" width="45.472893mm" version="1.1">
+    <desc >
+        <referenceFile >fs_motor_klein_137096.svg</referenceFile>
+    </desc>
+    <g id="breadboard" gorn="0.1" >
+        <defs id="defs2" >
+            <defs id="defs2-3" />
+        </defs>
+        <metadata id="metadata5" >
+            <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" rdf:about="">
+                    <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                    <dc:type xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+                    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+                </cc:Work>
+            </rdf:RDF>
+        </metadata>
+        <g  transform="translate(-38.799999,-99.200146)">
+            <g >
+                <g >
+                    <g >
+                        <g id="layer1" gorn="0.1.2.0.0.0.0" >
+                            <g  transform="scale(0.26458333)">
+                                <g >
+                                    <g >
+                                        <g >
+                                            <path id="rect817" stroke-opacity="1" gorn="0.1.2.0.0.0.0.0.0.0.0.0" style="opacity:1;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill" stroke-width="1.11491406" fill-opacity="1"  fill="#333333" stroke="none" d="m 193.23438,374.92969 c -0.68394,0 -1.23438,0.55044 -1.23438,1.23437 v 8.05664 h -4.37305 a 3.7795276,3.7795276 0 0 0 -3.12304,-1.65039 3.7795276,3.7795276 0 0 0 -3.7793,3.7793 3.7795276,3.7795276 0 0 0 3.7793,3.7793 3.7795276,3.7795276 0 0 0 3.11914,-1.65039 H 192 v 48.49218 h -4.37305 a 3.7795276,3.7795276 0 0 0 -3.12304,-1.65039 3.7795276,3.7795276 0 0 0 -3.7793,3.7793 3.7795276,3.7795276 0 0 0 3.7793,3.7793 3.7795276,3.7795276 0 0 0 3.11914,-1.65039 H 192 v 8.05664 c 0,0.68393 0.55044,1.23437 1.23438,1.23437 h 110.91601 c 0.68393,0 1.23633,-0.55044 1.23633,-1.23437 V 420.2832 h 4.49219 a 6.0624996,2.9687498 0 0 0 2.21289,1.08594 6.0624996,2.9687498 0 0 0 6.0625,0 6.0624996,2.9687498 0 0 0 0.35742,-0.11328 v -17.06641 a 6.0624996,2.9687498 0 0 0 -0.35742,-0.11133 6.0624996,2.9687498 0 0 0 -3.17383,-0.39648 6.0624996,2.9687498 0 0 0 -2.88867,0.39648 6.0624996,2.9687498 0 0 0 -2.21289,1.0879 h -4.49219 v -29.00196 c 0,-0.68393 -0.5524,-1.23437 -1.23633,-1.23437 z m 100.82812,5.50781 a 4.7244094,4.7244094 0 0 1 4.72461,4.72461 4.7244094,4.7244094 0 0 1 -4.72461,4.72461 4.7244094,4.7244094 0 0 1 -4.72461,-4.72461 4.7244094,4.7244094 0 0 1 4.72461,-4.72461 z m 0,55.125 a 4.7244094,4.7244094 0 0 1 4.72461,4.72461 4.7244094,4.7244094 0 0 1 -4.72461,4.72461 4.7244094,4.7244094 0 0 1 -4.72461,-4.72461 4.7244094,4.7244094 0 0 1 4.72461,-4.72461 z"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g  transform="translate(33.28634,-0.505782)">
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g id="layer1-8" gorn="0.1.2.0.0.0.0.1.0.0.0.0" >
+                                                <circle id="connector1pin" stroke-opacity="1" gorn="0.1.2.0.0.0.0.1.0.0.0.0.0" r="1.25" style="display:inline;opacity:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill" stroke-width="0.15000001" fill-opacity="0.97427655"  cx="44.517578" fill="none" stroke="#b3b3b3" cy="102.41325"/>
+                                                <circle id="connector2pin" stroke-opacity="1" gorn="0.1.2.0.0.0.0.1.0.0.0.0.1" r="1.25" style="display:inline;opacity:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill" stroke-width="0.15000001" fill-opacity="0.97427655"  cx="44.517578" fill="none" stroke="#b3b3b3" cy="116.99841"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <rect id="rect1058" stroke-opacity="1" gorn="0.1.2.0.0.0.0.2" style="opacity:1;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill" stroke-width="1" fill-opacity="1"  fill="#ffc60a" x="38.799999" stroke="none" y="107.85005" height="2.7" width="12"/>
+                            <g  transform="rotate(-15.971237)">
+                                <g >
+                                    <g >
+                                        <g >
+                                            <rect id="rect1060" ry="0.1710096" stroke-opacity="1" gorn="0.1.2.0.0.0.0.3.0.0.0.0" style="opacity:1;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill" stroke-width="1" fill-opacity="1"  fill="#dca900" x="16.461546" stroke="none" y="116.11729" height="4.5" width="0.5"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g  transform="rotate(-15.971237)">
+                                <g >
+                                    <g >
+                                        <g >
+                                            <rect id="rect1062" ry="0.1710096" stroke-opacity="1" gorn="0.1.2.0.0.0.0.4.0.0.0.0" style="opacity:1;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill" stroke-width="1" fill-opacity="1"  fill="#dca900" x="15.016768" stroke="none" y="115.7038" height="4.5" width="0.5"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g  transform="rotate(-15.971237)">
+                                <g >
+                                    <g >
+                                        <g >
+                                            <rect id="rect1064" ry="0.1710096" stroke-opacity="1" gorn="0.1.2.0.0.0.0.5.0.0.0.0" style="opacity:1;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill" stroke-width="1" fill-opacity="1"  fill="#dca900" x="13.571985" stroke="none" y="115.29031" height="4.5" width="0.5"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g  transform="rotate(-15.971237)">
+                                <g >
+                                    <g >
+                                        <g >
+                                            <rect id="rect1066" ry="0.1710096" stroke-opacity="1" gorn="0.1.2.0.0.0.0.6.0.0.0.0" style="opacity:1;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill" stroke-width="1" fill-opacity="1"  fill="#dca900" x="12.127209" stroke="none" y="114.8768" height="4.5" width="0.5"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g  transform="rotate(-15.971237)">
+                                <g >
+                                    <g >
+                                        <g >
+                                            <rect id="rect1068" ry="0.1710096" stroke-opacity="1" gorn="0.1.2.0.0.0.0.7.0.0.0.0" style="opacity:1;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill" stroke-width="1" fill-opacity="1"  fill="#dca900" x="10.682432" stroke="none" y="114.4633" height="4.5" width="0.5"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g  transform="rotate(-15.971237)">
+                                <g >
+                                    <g >
+                                        <g >
+                                            <rect id="rect1070" ry="0.1710096" stroke-opacity="1" gorn="0.1.2.0.0.0.0.8.0.0.0.0" style="opacity:1;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill" stroke-width="1" fill-opacity="1"  fill="#dca900" x="9.2376547" stroke="none" y="114.0498" height="4.5" width="0.5"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g  transform="rotate(-15.971237)">
+                                <g >
+                                    <g >
+                                        <g >
+                                            <rect id="rect1076" ry="0.1710096" stroke-opacity="1" gorn="0.1.2.0.0.0.0.9.0.0.0.0" style="opacity:1;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill" stroke-width="1" fill-opacity="1"  fill="#dca900" x="7.7928753" stroke="none" y="113.63631" height="4.5" width="0.5"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g  transform="translate(3.1537761e-7,1.0225503)">
+                                <g >
+                                    <g >
+                                        <g >
+                                            <path id="path1082" stroke-opacity="1" gorn="0.1.2.0.0.0.0.10.0.0.0.0" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="1.5"  fill="#483737" stroke="#241c1c" d="m 50.799999,106.5 c 10.000079,0 20.000157,0 30.000236,0"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g  transform="translate(3.1537761e-7,4.377553)">
+                                <g >
+                                    <g >
+                                        <g >
+                                            <path id="path1086" stroke-opacity="1" gorn="0.1.2.0.0.0.0.11.0.0.0.0" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="1.5"  fill="#483737" stroke="#241c1c" d="m 50.799999,106.5 c 10.000079,0 20.000157,0 30.000236,0"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

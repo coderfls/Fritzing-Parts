@@ -1,0 +1,1496 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg"  gorn="0" viewBox="0 0 35.573899 90.776245" height="90.776245mm" version="1.1" id="svg10024" width="35.573898mm">
+    <desc >
+        <referenceFile >6ED1055-1CB00-0BA2_._02.svg</referenceFile>
+    </desc>
+    <g  gorn="0.1" id="breadboard">
+        <metadata  id="metadata243"/>
+        <defs  id="defs241"/>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <metadata  id="metadata239" style="">
+                        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                            <cc:Work rdf:about="" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+                                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                                <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+                            </cc:Work>
+                        </rdf:RDF>
+                    </metadata>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <defs  id="defs237" style="">
+                        <style  type="text/css" id="style10026-9">
+    .str1 {stroke:black;stroke-width:922560;stroke-linejoin:bevel}
+    .str2 {stroke:black;stroke-width:479349;stroke-linejoin:bevel}
+    .str0 {stroke:black;stroke-width:479703;stroke-linejoin:bevel}
+    .fil0 {fill:none}
+    .fil1 {fill:#2B2A29;fill-rule:nonzero}
+   </style>
+                        <defs  id="defs369">
+                            <style  type="text/css" id="style10026-4">
+    .str1 {stroke:black;stroke-width:922560;stroke-linejoin:bevel}
+    .str2 {stroke:black;stroke-width:479349;stroke-linejoin:bevel}
+    .str0 {stroke:black;stroke-width:479703;stroke-linejoin:bevel}
+    .fil0 {fill:none}
+    .fil1 {fill:#2B2A29;fill-rule:nonzero}
+   </style>
+                        </defs>
+                        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,-0.000003,0.000001)">
+                            <g >
+                                <g >
+                                    <defs  id="defs358"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,-0.000003,0.000001)">
+                            <g >
+                                <g >
+                                    <defs  id="defs391"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,-0.000003,0.000001)">
+                            <g >
+                                <g >
+                                    <defs  id="defs10018">
+                                        <style  type="text/css" id="style10026">
+    .str1 {stroke:black;stroke-width:922560;stroke-linejoin:bevel}
+    .str2 {stroke:black;stroke-width:479349;stroke-linejoin:bevel}
+    .str0 {stroke:black;stroke-width:479703;stroke-linejoin:bevel}
+    .fil0 {fill:none}
+    .fil1 {fill:#2B2A29;fill-rule:nonzero}
+   </style>
+                                    </defs>
+                                </g>
+                            </g>
+                        </g>
+                        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,-187.754963,-27.701781)">
+                            <g >
+                                <g >
+                                    <defs  id="defs358-8"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,-187.754963,-27.701781)">
+                            <g >
+                                <g >
+                                    <defs  id="defs391-5"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,-187.754963,-27.701781)">
+                            <g >
+                                <g >
+                                    <defs  id="defs10018-1">
+                                        <style  type="text/css" id="style1593">
+    .str1 {stroke:black;stroke-width:922560;stroke-linejoin:bevel}
+    .str2 {stroke:black;stroke-width:479349;stroke-linejoin:bevel}
+    .str0 {stroke:black;stroke-width:479703;stroke-linejoin:bevel}
+    .fil0 {fill:none}
+    .fil1 {fill:#2B2A29;fill-rule:nonzero}
+   </style>
+                                    </defs>
+                                </g>
+                            </g>
+                        </g>
+                        <defs  id="defs358-7"/>
+                        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+                            <g >
+                                <g >
+                                    <defs  id="defs391-3"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+                            <g >
+                                <g >
+                                    <defs  id="defs10018-5">
+                                        <style  type="text/css" id="style1430">
+    .str1 {stroke:black;stroke-width:922560;stroke-linejoin:bevel}
+    .str2 {stroke:black;stroke-width:479349;stroke-linejoin:bevel}
+    .str0 {stroke:black;stroke-width:479703;stroke-linejoin:bevel}
+    .fil0 {fill:none}
+    .fil1 {fill:#2B2A29;fill-rule:nonzero}
+   </style>
+                                    </defs>
+                                </g>
+                            </g>
+                        </g>
+                    </defs>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <rect  fill="#617682" x="0.12496413" y="0.48169902" gorn="0.1.4.0.0.0" stroke-width="0.24992827" fill-opacity="1" height="89.760612" id="rect7" stroke="#000000" style="opacity:1;text-rendering:geometricPrecision;fill-rule:evenodd;stroke-miterlimit:4;shape-rendering:geometricPrecision;stroke-dasharray:none;image-rendering:optimizeQuality;clip-rule:evenodd;display:inline;" class="fil0" width="35.323967"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <line  x2="9.3639698" fill="#483e37" gorn="0.1.5.0.0.0" stroke-width="0.81722844" y2="80.523727" x1="11.604357" id="line742" y1="83.778885" stroke="#b3b3b3" style="text-rendering:geometricPrecision;fill-rule:evenodd;stroke-miterlimit:4;shape-rendering:geometricPrecision;stroke-dasharray:none;image-rendering:optimizeQuality;clip-rule:evenodd;display:inline;" class="fil2 str6"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <line  x2="24.563456" fill="#483e37" gorn="0.1.6.0.0.0" stroke-width="0.81722844" y2="80.523727" x1="26.803843" id="line746" y1="83.778885" stroke="#b3b3b3" style="text-rendering:geometricPrecision;fill-rule:evenodd;stroke-miterlimit:4;shape-rendering:geometricPrecision;stroke-dasharray:none;image-rendering:optimizeQuality;clip-rule:evenodd;display:inline;" class="fil2 str6"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <line  x2="29.629938" fill="#483e37" gorn="0.1.7.0.0.0" stroke-width="0.81722844" y2="80.523727" x1="31.87034" id="line748" y1="83.778885" stroke="#b3b3b3" style="text-rendering:geometricPrecision;fill-rule:evenodd;stroke-miterlimit:4;shape-rendering:geometricPrecision;stroke-dasharray:none;image-rendering:optimizeQuality;clip-rule:evenodd;display:inline;" class="fil2 str6"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <rect  fill="none" x="10.084703" y="81.751968" gorn="0.1.8.0.0.0" stroke-width="0.00000027" height="0.79797333" id="rect1264" style="text-rendering:geometricPrecision;fill-rule:evenodd;shape-rendering:geometricPrecision;clip-rule:evenodd;image-rendering:optimizeQuality;display:inline;" class="fil2" width="0.79797333"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <circle  fill="#e6e6e6" stroke-opacity="1" cx="10.483667" gorn="0.1.9.0.0.0" stroke-width="0.2" fill-opacity="0.97427655" r="1.9475747" cy="82.15094" id="circle1266" stroke="#000000" style="opacity:1;stroke-linejoin:round;paint-order:stroke markers fill;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <line  x2="9.3634968" fill="#483e37" gorn="0.1.10.0.0.0" stroke-width="0.81722844" x1="11.603884" y2="80.523361" y1="83.778534" id="line1268" stroke="#b3b3b3" style="text-rendering:geometricPrecision;fill-rule:evenodd;stroke-miterlimit:4;shape-rendering:geometricPrecision;stroke-dasharray:none;image-rendering:optimizeQuality;clip-rule:evenodd;display:inline;" class="fil2 str6"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <circle  fill="none" stroke-opacity="1" cx="10.483667" gorn="0.1.11.0.0.0" stroke-width="0.2" fill-opacity="0.97427655" r="1.9475747" cy="82.15094" id="circle1270" stroke="#000000" style="opacity:1;stroke-linejoin:round;paint-order:stroke markers fill;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <rect  fill="none" x="25.284678" y="81.752335" gorn="0.1.12.0.0.0" stroke-width="0.00000027" height="0.79797333" id="rect1288" style="text-rendering:geometricPrecision;fill-rule:evenodd;shape-rendering:geometricPrecision;clip-rule:evenodd;image-rendering:optimizeQuality;display:inline;" width="0.79797333" class="fil2"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <circle  fill="#e6e6e6" stroke-opacity="1" cx="25.683649" gorn="0.1.13.0.0.0" stroke-width="0.2" fill-opacity="0.97427655" r="1.9475747" cy="82.151306" id="circle1290" stroke="#000000" style="opacity:1;stroke-linejoin:round;paint-order:stroke markers fill;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <line  x2="24.563471" fill="#483e37" gorn="0.1.14.0.0.0" stroke-width="0.81722844" y2="80.523727" x1="26.803858" id="line1292" y1="83.7789" stroke="#b3b3b3" style="text-rendering:geometricPrecision;fill-rule:evenodd;stroke-miterlimit:4;shape-rendering:geometricPrecision;stroke-dasharray:none;image-rendering:optimizeQuality;clip-rule:evenodd;display:inline;" class="fil2 str6"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <circle  fill="none" stroke-opacity="1" cx="25.683649" gorn="0.1.15.0.0.0" stroke-width="0.2" fill-opacity="0.97427655" r="1.9475747" cy="82.151306" id="circle1294" stroke="#000000" style="opacity:1;stroke-linejoin:round;paint-order:stroke markers fill;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <rect  fill="none" x="30.351175" y="81.752335" gorn="0.1.16.0.0.0" stroke-width="0.00000027" height="0.79797333" id="rect1296" style="text-rendering:geometricPrecision;fill-rule:evenodd;shape-rendering:geometricPrecision;clip-rule:evenodd;image-rendering:optimizeQuality;display:inline;" class="fil2" width="0.79797333"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <circle  fill="#e6e6e6" stroke-opacity="1" cx="30.750147" gorn="0.1.17.0.0.0" stroke-width="0.2" fill-opacity="0.97427655" r="1.9475747" cy="82.151306" id="circle1298" stroke="#000000" style="opacity:1;stroke-linejoin:round;paint-order:stroke markers fill;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <line  x2="29.629969" fill="#483e37" gorn="0.1.18.0.0.0" stroke-width="0.81722844" x1="31.870356" y2="80.523727" y1="83.7789" id="line1300" stroke="#b3b3b3" style="text-rendering:geometricPrecision;fill-rule:evenodd;stroke-miterlimit:4;shape-rendering:geometricPrecision;stroke-dasharray:none;image-rendering:optimizeQuality;clip-rule:evenodd;display:inline;" class="fil2 str6"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <circle  fill="none" stroke-opacity="1" cx="30.750147" gorn="0.1.19.0.0.0" stroke-width="0.2" fill-opacity="0.97427655" r="1.9475747" cy="82.151306" id="circle1302" stroke="#000000" style="opacity:1;stroke-linejoin:round;paint-order:stroke markers fill;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <rect  fill="none" x="10.07448" y="89.510544" gorn="0.1.20.0.0.0" stroke-width="0.30000001" height="1.2656947" id="connector17pin" stroke="none" style="text-rendering:geometricPrecision;fill-rule:evenodd;stroke-miterlimit:4;shape-rendering:geometricPrecision;stroke-dasharray:none;image-rendering:optimizeQuality;clip-rule:evenodd;display:inline;" class="fil2" width="0.79797333"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <rect  fill="none" x="25.306131" y="89.510544" gorn="0.1.21.0.0.0" stroke-width="0.30000001" height="1.2656947" id="connector18pin" stroke="none" style="text-rendering:geometricPrecision;fill-rule:evenodd;stroke-miterlimit:4;shape-rendering:geometricPrecision;stroke-dasharray:none;image-rendering:optimizeQuality;clip-rule:evenodd;display:inline;" class="fil2" width="0.79797333"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <rect  fill="none" x="30.383341" y="89.510544" gorn="0.1.22.0.0.0" stroke-width="0.30000001" height="1.2656947" id="connector19pin" stroke="none" style="text-rendering:geometricPrecision;fill-rule:evenodd;stroke-miterlimit:4;shape-rendering:geometricPrecision;stroke-dasharray:none;image-rendering:optimizeQuality;clip-rule:evenodd;display:inline;" class="fil2" width="0.79797333"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="none" d="m 10.473471,89.923468 v 0.439907" stroke-opacity="1" gorn="0.1.23.0.0.0" stroke-width="0.3000001" fill-opacity="1" id="path1465" stroke="#2b2a29" style="stroke-linejoin:miter;fill-rule:evenodd;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="none" d="m 25.655116,89.923468 v 0.439907" stroke-opacity="1" gorn="0.1.24.0.0.0" stroke-width="0.3000001" fill-opacity="1" id="path1483" stroke="#2b2a29" style="stroke-linejoin:miter;fill-rule:evenodd;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="none" d="m 30.782325,89.923468 v 0.439907" stroke-opacity="1" gorn="0.1.25.0.0.0" stroke-width="0.3000001" fill-opacity="1" id="path1489" stroke="#2b2a29" style="stroke-linejoin:miter;fill-rule:evenodd;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="none" d="M 0.1616205,79.27192 H 35.536946" stroke-opacity="1" gorn="0.1.26.0.0.0" stroke-width="0.26458332" id="path1672" stroke="#000000" style="stroke-linejoin:miter;fill-rule:evenodd;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="none" d="M 0.1619405,11.47533 H 35.536946" stroke-opacity="1" gorn="0.1.27.0.0.0" stroke-width="0.26458332" id="path1678" stroke="#000000" style="stroke-linejoin:miter;fill-rule:evenodd;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <rect  fill="none" x="23.826021" y="15.115822" stroke-opacity="1" gorn="0.1.28.0.0.0" stroke-width="0.16492474" fill-opacity="1" height="5.3311343" id="rect1687" stroke="#ffffff" style="opacity:1;stroke-linejoin:miter;paint-order:stroke markers fill;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;display:inline;" width="10.426013"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <circle  fill="#e6e6e6" stroke-opacity="1" cx="30.458529" gorn="0.1.29.0.0.0" stroke-width="0.2" fill-opacity="0.97427655" r="1.9475747" cy="8.6473618" id="circle1230" stroke="#000000" style="opacity:1;stroke-linejoin:round;paint-order:stroke markers fill;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <circle  fill="#e6e6e6" stroke-opacity="1" cx="25.391863" gorn="0.1.30.0.0.0" stroke-width="0.2" fill-opacity="0.97427655" r="1.9475747" cy="8.6469574" id="circle1228" stroke="#000000" style="opacity:1;stroke-linejoin:round;paint-order:stroke markers fill;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <circle  fill="#e6e6e6" stroke-opacity="1" cx="20.347033" gorn="0.1.31.0.0.0" stroke-width="0.2" fill-opacity="0.97427655" r="1.9475747" cy="8.6785049" id="circle1226" stroke="#000000" style="opacity:1;stroke-linejoin:round;paint-order:stroke markers fill;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <circle  fill="#e6e6e6" stroke-opacity="1" cx="15.306186" gorn="0.1.32.0.0.0" stroke-width="0.2" fill-opacity="0.97427655" r="1.9475747" cy="8.6473999" id="circle1224" stroke="#000000" style="opacity:1;stroke-linejoin:round;paint-order:stroke markers fill;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <circle  fill="#e6e6e6" stroke-opacity="1" cx="10.239687" gorn="0.1.33.0.0.0" stroke-width="0.2" fill-opacity="0.97427655" r="1.9475747" cy="8.6473999" id="circle1222" stroke="#000000" style="opacity:1;stroke-linejoin:round;paint-order:stroke markers fill;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <circle  fill="#e6e6e6" stroke-opacity="1" cx="5.1153674" gorn="0.1.34.0.0.0" stroke-width="0.2" fill-opacity="0.97427655" r="1.9475747" cy="8.6317825" id="circle1220" stroke="#000000" style="opacity:1;stroke-linejoin:round;paint-order:stroke markers fill;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <line  x2="3.9951816" fill="#483e37" gorn="0.1.35.0.0.0" stroke-width="0.81722844" y2="7.0042038" x1="6.2355685" id="line796" y1="10.259369" stroke="#b3b3b3" style="text-rendering:geometricPrecision;fill-rule:evenodd;stroke-miterlimit:4;shape-rendering:geometricPrecision;stroke-dasharray:none;image-rendering:optimizeQuality;clip-rule:evenodd;display:inline;" class="fil2 str6"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <line  x2="29.338335" fill="#483e37" gorn="0.1.36.0.0.0" stroke-width="0.81722844" y2="7.019783" x1="31.578722" id="line730" y1="10.27494" stroke="#b3b3b3" style="text-rendering:geometricPrecision;fill-rule:evenodd;stroke-miterlimit:4;shape-rendering:geometricPrecision;stroke-dasharray:none;image-rendering:optimizeQuality;clip-rule:evenodd;display:inline;" class="fil2 str6"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <line  x2="24.304049" fill="#483e37" gorn="0.1.37.0.0.0" stroke-width="0.81722844" y2="7.0665131" x1="26.544436" id="line728" y1="10.321671" stroke="#b3b3b3" style="text-rendering:geometricPrecision;fill-rule:evenodd;stroke-miterlimit:4;shape-rendering:geometricPrecision;stroke-dasharray:none;image-rendering:optimizeQuality;clip-rule:evenodd;display:inline;" class="fil2 str6"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <line  x2="19.226839" fill="#483e37" gorn="0.1.38.0.0.0" stroke-width="0.81722844" y2="7.0509338" x1="21.467226" id="line726" y1="10.306091" stroke="#b3b3b3" style="text-rendering:geometricPrecision;fill-rule:evenodd;stroke-miterlimit:4;shape-rendering:geometricPrecision;stroke-dasharray:none;image-rendering:optimizeQuality;clip-rule:evenodd;display:inline;" class="fil2 str6"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <line  x2="14.138888" fill="#483e37" gorn="0.1.39.0.0.0" stroke-width="0.81722844" y2="7.019783" x1="16.37929" id="line724" y1="10.27494" stroke="#b3b3b3" style="text-rendering:geometricPrecision;fill-rule:evenodd;stroke-miterlimit:4;shape-rendering:geometricPrecision;stroke-dasharray:none;image-rendering:optimizeQuality;clip-rule:evenodd;display:inline;" class="fil2 str6"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <line  x2="9.0723982" fill="#483e37" gorn="0.1.40.0.0.0" stroke-width="0.81722844" y2="7.019783" x1="11.312793" id="line722" y1="10.27494" stroke="#b3b3b3" style="text-rendering:geometricPrecision;fill-rule:evenodd;stroke-miterlimit:4;shape-rendering:geometricPrecision;stroke-dasharray:none;image-rendering:optimizeQuality;clip-rule:evenodd;display:inline;" class="fil2 str6"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <circle  fill="none" stroke-opacity="1" cx="5.1153674" gorn="0.1.41.0.0.0" stroke-width="0.2" fill-opacity="0.97427655" r="1.9475747" cy="8.6317825" id="path1198" stroke="#000000" style="opacity:1;stroke-linejoin:round;paint-order:stroke markers fill;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <circle  fill="none" stroke-opacity="1" cx="10.239687" gorn="0.1.42.0.0.0" stroke-width="0.2" fill-opacity="0.97427655" r="1.9475747" cy="8.6473999" id="circle1200" stroke="#000000" style="opacity:1;stroke-linejoin:round;paint-order:stroke markers fill;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <circle  fill="none" stroke-opacity="1" cx="15.306186" gorn="0.1.43.0.0.0" stroke-width="0.2" fill-opacity="0.97427655" r="1.9475747" cy="8.6473999" id="circle1202" stroke="#000000" style="opacity:1;stroke-linejoin:round;paint-order:stroke markers fill;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <circle  fill="none" stroke-opacity="1" cx="20.347033" gorn="0.1.44.0.0.0" stroke-width="0.2" fill-opacity="0.97427655" r="1.9475747" cy="8.6785049" id="circle1204" stroke="#000000" style="opacity:1;stroke-linejoin:round;paint-order:stroke markers fill;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <circle  fill="none" stroke-opacity="1" cx="25.391863" gorn="0.1.45.0.0.0" stroke-width="0.2" fill-opacity="0.97427655" r="1.9475747" cy="8.6469574" id="circle1206" stroke="#000000" style="opacity:1;stroke-linejoin:round;paint-order:stroke markers fill;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <circle  fill="none" stroke-opacity="1" cx="30.458529" gorn="0.1.46.0.0.0" stroke-width="0.2" fill-opacity="0.97427655" r="1.9475747" cy="8.6473618" id="circle1208" stroke="#000000" style="opacity:1;stroke-linejoin:round;paint-order:stroke markers fill;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <rect  fill="none" x="4.6735187" y="0" gorn="0.1.47.0.0.0" stroke-width="0.30000001" height="1.2656947" id="connector0pin" stroke="none" style="text-rendering:geometricPrecision;fill-rule:evenodd;stroke-miterlimit:4;shape-rendering:geometricPrecision;stroke-dasharray:none;image-rendering:optimizeQuality;clip-rule:evenodd;display:inline;" width="0.79797333" class="fil2"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <rect  fill="none" x="9.7507353" y="0" gorn="0.1.48.0.0.0" stroke-width="0.30000001" height="1.2656947" id="connector1pin" stroke="none" style="text-rendering:geometricPrecision;fill-rule:evenodd;stroke-miterlimit:4;shape-rendering:geometricPrecision;stroke-dasharray:none;image-rendering:optimizeQuality;clip-rule:evenodd;display:inline;" width="0.79797333" class="fil2"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <rect  fill="none" x="14.827945" y="0" gorn="0.1.49.0.0.0" stroke-width="0.30000001" height="1.2656947" id="connector2pin" stroke="none" style="text-rendering:geometricPrecision;fill-rule:evenodd;stroke-miterlimit:4;shape-rendering:geometricPrecision;stroke-dasharray:none;image-rendering:optimizeQuality;clip-rule:evenodd;display:inline;" width="0.79797333" class="fil2"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <rect  fill="none" x="19.905169" y="0" gorn="0.1.50.0.0.0" stroke-width="0.30000001" height="1.2656947" id="connector3pin" stroke="none" style="text-rendering:geometricPrecision;fill-rule:evenodd;stroke-miterlimit:4;shape-rendering:geometricPrecision;stroke-dasharray:none;image-rendering:optimizeQuality;clip-rule:evenodd;display:inline;" width="0.79797333" class="fil2"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <rect  fill="none" x="24.982378" y="0" gorn="0.1.51.0.0.0" stroke-width="0.30000001" height="1.2656947" id="connector4pin" stroke="none" style="text-rendering:geometricPrecision;fill-rule:evenodd;stroke-miterlimit:4;shape-rendering:geometricPrecision;stroke-dasharray:none;image-rendering:optimizeQuality;clip-rule:evenodd;display:inline;" width="0.79797333" class="fil2"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <rect  fill="none" x="30.059603" y="0" gorn="0.1.52.0.0.0" stroke-width="0.30000001" height="1.2656947" id="connector5pin" stroke="none" style="text-rendering:geometricPrecision;fill-rule:evenodd;stroke-miterlimit:4;shape-rendering:geometricPrecision;stroke-dasharray:none;image-rendering:optimizeQuality;clip-rule:evenodd;display:inline;" width="0.79797333" class="fil2"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="none" d="M 5.0725005,0.41293303 V 0.85283974" stroke-opacity="1" gorn="0.1.53.0.0.0" stroke-width="0.3000001" fill-opacity="1" id="path1383" stroke="#2b2a29" style="stroke-linejoin:miter;fill-rule:evenodd;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="none" d="M 10.149721,0.41293303 V 0.85283974" stroke-opacity="1" gorn="0.1.54.0.0.0" stroke-width="0.3000001" fill-opacity="1" id="path1389" stroke="#2b2a29" style="stroke-linejoin:miter;fill-rule:evenodd;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="none" d="M 15.226931,0.41293303 V 0.85283974" stroke-opacity="1" gorn="0.1.55.0.0.0" stroke-width="0.3000001" fill-opacity="1" id="path1395" stroke="#2b2a29" style="stroke-linejoin:miter;fill-rule:evenodd;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="none" d="M 20.254151,0.41293303 V 0.85283974" stroke-opacity="1" gorn="0.1.56.0.0.0" stroke-width="0.3000001" fill-opacity="1" id="path1401" stroke="#2b2a29" style="stroke-linejoin:miter;fill-rule:evenodd;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="none" d="M 25.381358,0.41293303 V 0.85283974" stroke-opacity="1" gorn="0.1.57.0.0.0" stroke-width="0.3000001" fill-opacity="1" id="path1407" stroke="#2b2a29" style="stroke-linejoin:miter;fill-rule:evenodd;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="none" d="M 30.458583,0.41293303 V 0.85283974" stroke-opacity="1" gorn="0.1.58.0.0.0" stroke-width="0.3000001" fill-opacity="1" id="path1413" stroke="#2b2a29" style="stroke-linejoin:miter;fill-rule:evenodd;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="M 4.8387356,4.8188012 H 4.056299 V 3.0897073 h 0.1766765 v 1.5458154 h 0.6057601 z" font-size="0.65087" stroke-opacity="1" gorn="0.1.59.0.0.0" stroke-width="0.069736" fill-opacity="1" id="path1882" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;display:inline;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="M 6.1049361,4.1797362 H 5.6800644 V 4.665667 H 5.5401932 V 4.1797362 H 5.1163768 V 4.0181611 H 5.5401932 V 3.5322302 h 0.1398712 v 0.4859309 h 0.4248717 z" font-size="0.65087" stroke-opacity="1" gorn="0.1.60.0.0.0" stroke-width="0.069736" fill-opacity="1" id="path1884" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;display:inline;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 10.939231,4.8188012 h -0.17563 V 3.6588371 q 0,-0.1374591 0.01476,-0.3364137 h -0.0047 q -0.02522,0.1169613 -0.0452,0.1676045 l -0.515296,1.3287733 h -0.0862 L 9.6127095,3.4996734 q -0.02204,-0.057875 -0.045201,-0.17725 h -0.00467 q 0.00841,0.1036934 0.00841,0.3388251 V 4.8188012 H 9.4008713 V 3.0897073 h 0.2334674 l 0.4627323,1.2057835 q 0.05361,0.1386659 0.06939,0.2073955 h 0.0065 q 0.0452,-0.142283 0.07257,-0.2122183 l 0.472202,-1.2009607 h 0.22085 z" font-size="0.65087" stroke-opacity="1" gorn="0.1.61.0.0.0" stroke-width="0.069736" fill-opacity="1" id="path1879" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;display:inline;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 15.121108,3.0897073 v 0.1736331 h -0.14723 v 1.3818278 h 0.14723 v 0.173633 h -0.471147 v -0.173633 h 0.14724 V 3.2633404 h -0.14724 V 3.0897073 Z" font-size="0.65087" stroke-opacity="1" gorn="0.1.62.0.0.0" stroke-width="0.069736" fill-opacity="1" id="path1874" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;display:inline;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="M 15.932991,4.8188012 H 15.760517 V 3.3248347 q -0.01999,0.022915 -0.05893,0.053057 -0.03782,0.028943 -0.0862,0.057875 -0.04735,0.028943 -0.100955,0.054256 -0.05258,0.025324 -0.103066,0.03979 V 3.3296521 q 0.05678,-0.018085 0.119895,-0.048228 0.06416,-0.031352 0.125143,-0.068733 0.06201,-0.03858 0.116738,-0.07958 0.05463,-0.042199 0.09465,-0.081989 h 0.06519 z" font-size="0.65087" stroke-opacity="1" gorn="0.1.63.0.0.0" stroke-width="0.069736" fill-opacity="1" id="path1876" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;display:inline;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 20.048887,3.0897073 v 0.1736331 h -0.14723 v 1.3818278 h 0.14723 v 0.173633 H 19.57774 v -0.173633 h 0.14724 V 3.2633404 H 19.57774 V 3.0897073 Z" font-size="0.65087" stroke-opacity="1" gorn="0.1.64.0.0.0" stroke-width="0.069736" fill-opacity="1" id="path1869" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;display:inline;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 20.911257,3.5430825 q 0,-0.07958 -0.02213,-0.1386659 -0.02101,-0.059085 -0.05893,-0.097665 -0.0368,-0.03979 -0.08732,-0.059085 -0.05043,-0.019295 -0.109369,-0.019295 -0.05043,0 -0.09885,0.015676 -0.04838,0.015676 -0.09465,0.043409 -0.0452,0.027733 -0.08835,0.066323 -0.04212,0.03858 -0.07892,0.085608 V 3.2271697 q 0.07257,-0.08079 0.161959,-0.1229898 0.0904,-0.043409 0.219795,-0.043409 0.09255,0 0.171418,0.031352 0.07891,0.030142 0.136715,0.089227 0.05781,0.059085 0.0904,0.1459001 0.03362,0.086818 0.03362,0.1989535 0,0.1024942 -0.02101,0.185691 -0.01999,0.083199 -0.06201,0.1567523 -0.041,0.073551 -0.104112,0.1410762 -0.06313,0.067523 -0.148285,0.1374592 -0.106223,0.086818 -0.175631,0.1483114 -0.06836,0.061494 -0.10937,0.1157557 -0.03997,0.053057 -0.05678,0.1073148 -0.01578,0.053057 -0.01578,0.1229898 h 0.750889 V 4.818804 H 20.213834 V 4.733196 q 0,-0.1109319 0.02101,-0.1953376 0.02101,-0.084409 0.06939,-0.1603693 0.04838,-0.075961 0.126199,-0.1519285 0.07891,-0.07596 0.192459,-0.1712217 0.082,-0.067523 0.136715,-0.1290182 0.05575,-0.061494 0.08938,-0.1229899 0.03362,-0.061494 0.04735,-0.1241955 0.01476,-0.063904 0.01476,-0.1350478 z" font-size="0.65087" stroke-opacity="1" gorn="0.1.65.0.0.0" stroke-width="0.069736" fill-opacity="1" id="path1871" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;display:inline;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 25.143714,3.059563 v 0.1736319 h -0.14724 v 1.3818289 h 0.14724 V 4.7886569 H 24.672567 V 4.6150238 h 0.147231 V 3.2331949 H 24.672567 V 3.059563 Z" font-size="0.65087" stroke-opacity="1" gorn="0.1.66.0.0.0" stroke-width="0.069736" fill-opacity="1" id="path1864" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;display:inline;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 26.196423,4.2991079 q 0,0.1169613 -0.03894,0.2134239 -0.03782,0.095256 -0.108323,0.1639864 -0.06939,0.067523 -0.167216,0.1049035 -0.09781,0.037381 -0.215593,0.037381 -0.215592,0 -0.342837,-0.094046 V 4.5125382 q 0.152488,0.1374592 0.34915,0.1374592 0.07891,0 0.141973,-0.022904 0.06416,-0.022914 0.10937,-0.066324 0.04632,-0.043409 0.07042,-0.1049034 0.02522,-0.061494 0.02522,-0.1386649 0,-0.3388251 -0.420669,-0.3388251 H 25.473822 V 3.810772 h 0.11884 q 0.372283,0 0.372283,-0.3183263 0,-0.2942114 -0.283945,-0.2942114 -0.159857,0 -0.299728,0.1229898 V 3.1295047 q 0.144083,-0.098875 0.342847,-0.098875 0.09464,0 0.171418,0.030142 0.07677,0.030142 0.131457,0.084409 0.05473,0.054256 0.08414,0.130225 0.03054,0.07596 0.03054,0.1676035 0,0.3412365 -0.300774,0.4389048 v 0.00482 q 0.07677,0.00964 0.141972,0.043409 0.06519,0.032551 0.112536,0.085608 0.04735,0.053057 0.07359,0.1254023 0.02736,0.071142 0.02736,0.1579569 z" font-size="0.65087" stroke-opacity="1" gorn="0.1.67.0.0.0" stroke-width="0.069736" fill-opacity="1" id="path1866" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;display:inline;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="M 30.088201,3.0897073 V 3.2633404 H 29.94097 v 1.3818278 h 0.147231 v 0.173633 h -0.471138 v -0.173633 h 0.147231 V 3.2633404 H 29.617063 V 3.0897073 Z" font-size="0.65087" stroke-opacity="1" gorn="0.1.68.0.0.0" stroke-width="0.069736" fill-opacity="1" id="path1859" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;display:inline;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="M 31.032595,3.0897073 V 4.231585 h 0.193506 v 0.1808672 h -0.193506 v 0.406349 H 30.862232 V 4.4124522 H 30.153406 V 4.2412305 q 0.09885,-0.1278125 0.199819,-0.2725069 0.100955,-0.1459 0.19245,-0.2954172 0.09255,-0.1495171 0.170373,-0.2978285 0.07891,-0.1495171 0.132512,-0.2857706 z M 30.347967,4.231585 h 0.514265 V 3.3851245 q -0.07891,0.157958 -0.149341,0.2821535 -0.07042,0.1241955 -0.134613,0.2254819 -0.06313,0.1012842 -0.120941,0.1832785 -0.05781,0.081989 -0.10937,0.1555466 z" font-size="0.65087" stroke-opacity="1" gorn="0.1.69.0.0.0" stroke-width="0.069736" fill-opacity="1" id="path1861" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;display:inline;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 2.5581355,9.6353833 q 0,0.2114245 -0.034705,0.3746917 -0.033654,0.163266 -0.098856,0.276026 -0.064152,0.111585 -0.158801,0.170314 -0.093598,0.05755 -0.2134876,0.05755 -0.1135796,0 -0.2029709,-0.05521 -0.08834,-0.05638 -0.1493361,-0.163266 -0.060996,-0.106887 -0.092546,-0.261932 -0.03155,-0.156219 -0.03155,-0.3570723 0,-0.2208212 0.032601,-0.3899608 0.033653,-0.1691397 0.097805,-0.283074 0.064152,-0.1151089 0.158801,-0.1726634 0.095701,-0.058729 0.2187459,-0.058729 0.4742999,0 0.4743001,0.8633166 z m -0.1766794,0.018793 q 0,-0.7188433 -0.3060339,-0.7188433 -0.3228603,0 -0.3228603,0.7317638 0,0.6824312 0.3165504,0.6824312 0.3123438,0 0.3123438,-0.6953517 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.70.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3631" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="M 2.1669169,8.4569333 H 1.9513261 L 1.6042774,7.8120885 q -0.015775,-0.029365 -0.034705,-0.083395 h -0.00421 q -0.010516,0.027016 -0.035757,0.083395 L 1.172044,8.4569333 H 0.95540141 L 1.4601996,7.6100606 0.99536459,6.7725845 H 1.2120071 l 0.3081372,0.5919887 q 0.030498,0.058729 0.053635,0.1174581 h 0.00421 q 0.033654,-0.077522 0.058894,-0.1221564 L 1.957636,6.7725845 h 0.202971 l -0.4743,0.8351269 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.71.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3626" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <rect  fill="#b0cb1f" x="4.8179708" y="35.396591" gorn="0.1.72.0.0.0" stroke-width="0.0000003" height="1.6761785" id="rect668" style="text-rendering:geometricPrecision;fill-rule:evenodd;shape-rendering:geometricPrecision;clip-rule:evenodd;image-rendering:optimizeQuality;display:inline;" class="fil10" width="1.8930619"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <line  x2="0.16249794" fill="none" gorn="0.1.73.0.0.0" stroke-width="0.26458332" y2="22.941633" x1="35.536945" id="line2955" y1="22.941633" stroke="#000000" style="text-rendering:geometricPrecision;fill-rule:evenodd;stroke-miterlimit:4;shape-rendering:geometricPrecision;stroke-dasharray:none;image-rendering:optimizeQuality;clip-rule:evenodd;display:inline;" class="fil2 str5"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <rect  fill="#6f8a91" x="7.7647448" y="15.792017" stroke-opacity="1" gorn="0.1.74.0.0.0" stroke-width="0.15875" fill-opacity="1" height="7.1917014" id="rect2991" stroke="#000000" style="opacity:1;stroke-linejoin:miter;fill-rule:nonzero;paint-order:fill markers stroke;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;display:inline;" width="14.538698"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <line  x2="35.495716" fill="none" gorn="0.1.75.0.0.0" stroke-width="0.26458332" y2="68.117928" x1="0.12471455" id="line2957" y1="67.782951" stroke="#000000" style="text-rendering:geometricPrecision;fill-rule:evenodd;stroke-miterlimit:4;shape-rendering:geometricPrecision;stroke-dasharray:none;image-rendering:optimizeQuality;clip-rule:evenodd;display:inline;" class="fil2 str5"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,0.987632,0.566107,0.255782)">
+            <g >
+                <g >
+                    <path  fill="#916f6f" d="m 13.874917,15.814524 c 0,2.369165 0,4.73833 0,7.107495" stroke-opacity="1" gorn="0.1.76.0.0.0" stroke-width="0.79870439" id="path2997" stroke="#93a7ac" style="stroke-linejoin:miter;fill-rule:evenodd;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <rect  fill="#53676c" x="18.5453" y="16.119143" stroke-opacity="1" gorn="0.1.77.0.0.0" stroke-width="0.53551668" fill-opacity="1" height="6.5045619" id="rect3001" stroke="#93a7ac" style="opacity:1;stroke-linejoin:miter;fill-rule:nonzero;paint-order:fill markers stroke;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;" width="3.441958"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#53676c" d="M 22.59367,15.342598 H 8.3270329 l 4.0622551,-1.645045 v 1.606789" stroke-opacity="1" gorn="0.1.78.0.0.0" stroke-width="0.52764595" fill-opacity="1" id="path3033" stroke="#53676c" style="stroke-linejoin:miter;fill-rule:evenodd;paint-order:markers fill stroke;stroke-linecap:square;stroke-miterlimit:6.5;stroke-dasharray:none;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 14.688101,14.15912 v -1.684348 h 0.416459 q 0.79716,0 0.79716,0.821031 0,0.389961 -0.221901,0.627227 -0.220849,0.23609 -0.592086,0.23609 z m 0.176679,-1.505812 v 1.327276 h 0.225057 q 0.296569,0 0.461679,-0.177362 0.165112,-0.177362 0.165112,-0.50272 0,-0.647194 -0.616275,-0.647194 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.79.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3597" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 17.224712,14.088646 q -0.167215,0.09867 -0.416458,0.09867 -0.321809,0 -0.515315,-0.231392 -0.193506,-0.231393 -0.193506,-0.607259 0,-0.404056 0.217694,-0.653066 0.217695,-0.249011 0.552123,-0.249011 0.214539,0 0.355462,0.0693 v 0.21025 q -0.161956,-0.101011 -0.357565,-0.101011 -0.259761,0 -0.421717,0.193806 -0.160904,0.193805 -0.160904,0.51799 0,0.30774 0.150387,0.490974 0.151439,0.182061 0.396477,0.182061 0.227159,0 0.393322,-0.112761 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.80.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3599" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 18.7349,12.916414 q 0,-0.07752 -0.02209,-0.135076 -0.02103,-0.05756 -0.05889,-0.09515 -0.03681,-0.03877 -0.08729,-0.05756 -0.05048,-0.01879 -0.109373,-0.01879 -0.05048,0 -0.09886,0.01527 -0.04837,0.01527 -0.09465,0.04228 -0.04522,0.02701 -0.08834,0.0646 -0.04207,0.03759 -0.07888,0.08339 v -0.206725 q 0.07257,-0.0787 0.161957,-0.119807 0.09044,-0.04228 0.219797,-0.04228 0.09255,0 0.171421,0.03054 0.07888,0.02936 0.136717,0.08692 0.05784,0.05756 0.09044,0.142124 0.03366,0.08457 0.03366,0.193806 0,0.09984 -0.02104,0.180886 -0.01998,0.08105 -0.06204,0.152695 -0.04102,0.07165 -0.104115,0.137426 -0.06309,0.06578 -0.148284,0.133903 -0.106217,0.08457 -0.175627,0.144473 -0.06836,0.0599 -0.109374,0.11276 -0.03996,0.05168 -0.05679,0.104541 -0.01577,0.05168 -0.01577,0.119808 h 0.750887 v 0.172663 h -0.930721 v -0.08339 q 0,-0.108061 0.02104,-0.190282 0.02103,-0.08222 0.0694,-0.156219 0.04838,-0.074 0.1262,-0.147998 0.07888,-0.074 0.192455,-0.16679 0.08203,-0.06578 0.136716,-0.12568 0.05573,-0.0599 0.08939,-0.119808 0.03365,-0.0599 0.04732,-0.120981 0.01472,-0.06226 0.01472,-0.131554 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.81.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3601" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 19.977965,12.474772 v 1.112327 h 0.193506 v 0.176188 h -0.193506 v 0.395833 h -0.170369 v -0.395833 h -0.708821 v -0.166791 q 0.09886,-0.124505 0.199816,-0.265455 0.10096,-0.142124 0.192454,-0.287772 0.09255,-0.145648 0.170369,-0.290122 0.07888,-0.145648 0.13251,-0.278375 z m -0.684632,1.112327 h 0.514263 v -0.824555 q -0.07888,0.15387 -0.149336,0.274852 -0.07047,0.120982 -0.134613,0.219646 -0.0631,0.09867 -0.120941,0.178537 -0.05784,0.07988 -0.109373,0.15152 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.82.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3603" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 21.563872,12.474772 -0.558433,1.684348 h -0.194557 l -0.546865,-1.684348 h 0.196661 l 0.417511,1.335498 q 0.01998,0.0646 0.0305,0.149172 h 0.0042 q 0.0084,-0.07048 0.03471,-0.151521 l 0.425923,-1.333149 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.83.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3605" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 22.693359,12.474772 v 0.169139 h -0.147233 v 1.34607 h 0.147233 v 0.169139 h -0.471145 v -0.169139 h 0.147233 v -1.34607 h -0.147233 v -0.169139 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.84.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3607" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 24.157273,14.15912 h -0.216642 l -0.776127,-1.342546 q -0.02945,-0.0505 -0.04838,-0.105712 h -0.0063 q 0.0084,0.05404 0.0084,0.231393 v 1.216865 h -0.176679 v -1.684348 h 0.229262 l 0.755095,1.321403 q 0.04732,0.08222 0.06099,0.11276 h 0.0042 q -0.01051,-0.07283 -0.01051,-0.247837 v -1.186326 h 0.176679 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.85.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3609" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 24.729378,13.522497 v 0.636623 h -0.176679 v -1.684348 h 0.414355 q 0.241882,0 0.374392,0.131552 0.13356,0.131554 0.13356,0.371168 0,0.239615 -0.148284,0.39231 -0.147233,0.152695 -0.39858,0.152695 z m 0,-0.869189 v 0.690654 h 0.185092 q 0.182989,0 0.278691,-0.09279 0.09675,-0.09396 0.09675,-0.26428 0,-0.333581 -0.353359,-0.333581 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.86.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3611" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 26.863202,13.477864 q 0,0.709446 -0.573157,0.709446 -0.548968,0 -0.548968,-0.682431 v -1.030107 h 0.17668 v 1.017186 q 0,0.517991 0.391218,0.517991 0.377547,0 0.377547,-0.500372 v -1.034805 h 0.17668 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.87.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3613" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="M 28.132558,12.653308 H 27.69717 v 1.505812 h -0.176679 v -1.505812 h -0.434337 v -0.178536 h 1.046404 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.88.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3615" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 29.653263,12.474772 v 1.112327 h 0.193505 v 0.176188 h -0.193505 v 0.395833 h -0.170369 v -0.395833 h -0.708821 v -0.166791 q 0.09886,-0.124505 0.199815,-0.265455 0.10096,-0.142124 0.192455,-0.287772 0.09254,-0.145648 0.17037,-0.290122 0.07888,-0.145648 0.132509,-0.278375 z m -0.684633,1.112327 h 0.514264 v -0.824555 q -0.07888,0.15387 -0.149337,0.274852 -0.07047,0.120982 -0.134613,0.219646 -0.0631,0.09867 -0.120941,0.178537 -0.05784,0.07988 -0.109373,0.15152 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.89.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3617" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 30.881605,12.95635 -0.361772,0.608432 0.355463,0.594338 h -0.200868 l -0.211385,-0.389961 q -0.01998,-0.03641 -0.04732,-0.09162 h -0.0042 q -0.0053,0.01057 -0.04943,0.09162 l -0.215591,0.389961 h -0.198765 l 0.36703,-0.589639 -0.351255,-0.613131 h 0.200868 l 0.208229,0.411103 q 0.02314,0.04581 0.04522,0.09396 h 0.0042 l 0.269225,-0.505069 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.90.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3619" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 31.695591,14.15912 v -1.684348 h 0.416459 q 0.797161,0 0.797161,0.821031 0,0.389961 -0.221902,0.627227 -0.220849,0.23609 -0.592085,0.23609 z m 0.17668,-1.505812 v 1.327276 h 0.225055 q 0.29657,0 0.461681,-0.177362 0.165111,-0.177362 0.165111,-0.50272 0,-0.647194 -0.616274,-0.647194 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.91.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3621" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 34.232204,14.088646 q -0.167215,0.09867 -0.416459,0.09867 -0.321809,0 -0.515315,-0.231392 -0.193506,-0.231393 -0.193506,-0.607259 0,-0.404056 0.217695,-0.653066 0.217694,-0.249011 0.552122,-0.249011 0.21454,0 0.355463,0.0693 v 0.21025 q -0.161957,-0.101011 -0.357565,-0.101011 -0.259761,0 -0.421718,0.193806 -0.160904,0.193805 -0.160904,0.51799 0,0.30774 0.150388,0.490974 0.151439,0.182061 0.396477,0.182061 0.227159,0 0.393322,-0.112761 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.92.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3623" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="M 9.0273017,37.076839 H 8.816969 L 8.56457,36.604657 q -0.034705,-0.06578 -0.067306,-0.111585 -0.032601,-0.04699 -0.067306,-0.07635 -0.033654,-0.02937 -0.073617,-0.04228 -0.038912,-0.0141 -0.08834,-0.0141 H 8.122872 v 0.716495 H 7.9461923 v -1.684346 h 0.4501116 q 0.098856,0 0.1819377,0.02819 0.084133,0.02701 0.1451295,0.08339 0.062048,0.05638 0.096753,0.14095 0.034705,0.08339 0.034705,0.196155 0,0.0881 -0.024188,0.162091 -0.023136,0.07283 -0.067306,0.130379 -0.043118,0.05755 -0.1051663,0.09866 -0.060997,0.03994 -0.1377678,0.06226 v 0.0046 q 0.03786,0.01879 0.065203,0.04346 0.028395,0.02349 0.053635,0.05638 0.02524,0.03289 0.049428,0.07517 0.02524,0.04111 0.055738,0.09632 z m -0.90443,-1.505813 v 0.610782 h 0.2397791 q 0.066255,0 0.1219928,-0.02232 0.05679,-0.02232 0.097805,-0.06343 0.041014,-0.04228 0.064151,-0.102185 0.023136,-0.06107 0.023136,-0.136251 0,-0.135077 -0.078875,-0.21025 -0.077823,-0.07634 -0.2261075,-0.07634 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.93.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3580" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 10.336622,36.395582 q 0,0.709446 -0.5731562,0.709446 -0.5489682,0 -0.5489682,-0.682431 V 35.39249 H 9.391177 v 1.017187 q 0,0.51799 0.3912181,0.51799 0.3775479,0 0.3775479,-0.500372 V 35.39249 h 0.176679 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.94.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3582" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 11.929891,37.076839 h -0.216642 l -0.776127,-1.342546 q -0.02945,-0.05051 -0.04838,-0.105712 h -0.0063 q 0.0084,0.05403 0.0084,0.231392 v 1.216866 H 10.714163 V 35.39249 h 0.229263 l 0.755093,1.321403 q 0.04732,0.08222 0.06099,0.11276 h 0.0042 q -0.01051,-0.07283 -0.01051,-0.247837 V 35.39249 h 0.176679 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.95.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3584" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 12.982606,35.39249 -0.723544,1.963899 h -0.160905 l 0.721441,-1.963899 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.96.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3586" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 13.096186,37.008713 v -0.232567 q 0.03576,0.03523 0.08519,0.06343 0.05048,0.02819 0.105166,0.04816 0.05574,0.01879 0.111476,0.02937 0.05574,0.01057 0.103063,0.01057 0.163008,0 0.242935,-0.06695 0.08098,-0.06812 0.08098,-0.194981 0,-0.06812 -0.02735,-0.118632 -0.02629,-0.05051 -0.07362,-0.09162 -0.04732,-0.04228 -0.112528,-0.07987 -0.06415,-0.03876 -0.13882,-0.08105 -0.07888,-0.04463 -0.147232,-0.09044 -0.06836,-0.04581 -0.118838,-0.101011 -0.05048,-0.05521 -0.07993,-0.124505 -0.0284,-0.07047 -0.0284,-0.164441 0,-0.11511 0.04522,-0.199679 0.04522,-0.08574 0.118838,-0.14095 0.07362,-0.05521 0.167214,-0.08222 0.09465,-0.02701 0.192454,-0.02701 0.222952,0 0.324964,0.0599 v 0.221995 q -0.133561,-0.103368 -0.342843,-0.103368 -0.05784,0 -0.115682,0.0141 -0.05784,0.01293 -0.103063,0.04346 -0.04522,0.03054 -0.07362,0.0787 -0.0284,0.04816 -0.0284,0.117458 0,0.0646 0.02103,0.111585 0.02209,0.04699 0.06415,0.08574 0.04207,0.03876 0.102011,0.07517 0.06099,0.03641 0.139872,0.07988 0.08098,0.04463 0.153542,0.09396 0.07257,0.04933 0.127251,0.109236 0.05468,0.0599 0.08624,0.132728 0.0326,0.07283 0.0326,0.16679 0,0.124506 -0.04417,0.211425 -0.04312,0.08574 -0.117785,0.139775 -0.07362,0.05403 -0.17037,0.07752 -0.09675,0.02467 -0.204022,0.02467 -0.03576,0 -0.08834,-0.0071 -0.05258,-0.0059 -0.10727,-0.01879 -0.05468,-0.01175 -0.104114,-0.02937 -0.04838,-0.01879 -0.07783,-0.04111 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.97.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3588" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 15.202666,35.571026 h -0.435389 v 1.505813 H 14.590598 V 35.571026 H 14.156261 V 35.39249 h 1.046405 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.98.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3590" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 16.046099,37.105028 q -0.320756,0 -0.514262,-0.23609 -0.192455,-0.23609 -0.192455,-0.614306 0,-0.406405 0.196662,-0.648368 0.19666,-0.241964 0.535295,-0.241964 0.312344,0 0.502695,0.234916 0.191403,0.234916 0.191403,0.614306 0,0.412278 -0.19561,0.651893 -0.195608,0.239613 -0.523728,0.239613 z m 0.01262,-1.562192 q -0.237675,0 -0.385959,0.191457 -0.148285,0.191456 -0.148285,0.502721 0,0.311263 0.144078,0.501546 0.145129,0.189107 0.377546,0.189107 0.248193,0 0.391219,-0.180885 0.143027,-0.180886 0.143027,-0.506245 0,-0.33358 -0.13882,-0.515641 -0.138819,-0.18206 -0.382806,-0.18206 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.99.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3592" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 17.238685,36.440216 v 0.636623 h -0.17668 V 35.39249 h 0.414355 q 0.241883,0 0.374392,0.131553 0.133561,0.131553 0.133561,0.371167 0,0.239615 -0.148283,0.39231 -0.147234,0.152696 -0.398581,0.152696 z m 0,-0.86919 v 0.690654 h 0.185092 q 0.18299,0 0.278691,-0.09279 0.09675,-0.09396 0.09675,-0.26428 0,-0.333582 -0.353359,-0.333582 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.100.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3594" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 27.188809,37.203104 v -1.684349 h 0.416459 q 0.797161,0 0.797161,0.821033 0,0.38996 -0.221902,0.627225 -0.220849,0.236091 -0.592086,0.236091 z m 0.176679,-1.505812 v 1.327276 h 0.225057 q 0.296569,0 0.461679,-0.177362 0.165112,-0.177361 0.165112,-0.502721 0,-0.647193 -0.616275,-0.647193 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.101.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3569" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="M 30.236528,37.203104 H 30.0609 v -1.129947 q 0,-0.133902 0.01472,-0.327707 h -0.0042 q -0.02524,0.113934 -0.04522,0.163266 l -0.515314,1.294388 h -0.08624 l -0.514263,-1.284991 q -0.02209,-0.05638 -0.04522,-0.172663 h -0.0042 q 0.0084,0.101011 0.0084,0.330057 v 1.127597 h -0.170272 v -1.684349 h 0.233469 l 0.462732,1.174581 q 0.05363,0.135077 0.06941,0.202028 h 0.0063 q 0.04522,-0.138601 0.07257,-0.206727 l 0.472196,-1.169882 h 0.220849 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.102.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3571" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 30.530994,36.733272 q 0,-0.06695 0.01893,-0.133903 0.01893,-0.06812 0.05363,-0.126855 0.03576,-0.05873 0.08729,-0.106886 0.05258,-0.04816 0.118838,-0.07635 -0.0978,-0.06107 -0.155645,-0.156219 -0.05784,-0.09632 -0.05784,-0.212599 0,-0.09279 0.03155,-0.171489 0.0326,-0.07869 0.08939,-0.136251 0.05679,-0.05756 0.134613,-0.08927 0.07783,-0.03289 0.168266,-0.03289 0.09149,0 0.169317,0.03289 0.07783,0.03289 0.134614,0.09044 0.05679,0.05756 0.08834,0.136252 0.03155,0.0787 0.03155,0.170314 0,0.116283 -0.05784,0.212599 -0.05784,0.09514 -0.153543,0.156219 0.0652,0.02819 0.116735,0.07634 0.05153,0.04816 0.08624,0.106886 0.03576,0.05873 0.05468,0.126855 0.01892,0.06695 0.01892,0.133903 0,0.11041 -0.03576,0.202028 -0.03576,0.09162 -0.10096,0.157393 -0.06415,0.0646 -0.154594,0.101011 -0.08939,0.03641 -0.197713,0.03641 -0.10727,0 -0.196661,-0.03641 -0.08939,-0.03641 -0.154594,-0.101011 -0.0652,-0.06578 -0.102012,-0.157393 -0.03576,-0.09162 -0.03576,-0.202028 z m 0.187195,-0.01644 q 0,0.0787 0.02104,0.142124 0.02209,0.06343 0.06099,0.108061 0.03996,0.04463 0.0957,0.0693 0.05679,0.02349 0.125148,0.02349 0.06626,0 0.121993,-0.02467 0.05574,-0.02467 0.0957,-0.0693 0.04102,-0.04464 0.0631,-0.108061 0.02313,-0.06343 0.02313,-0.14095 0,-0.07048 -0.02209,-0.131553 -0.02103,-0.06225 -0.06099,-0.109236 -0.03996,-0.04699 -0.0957,-0.074 -0.05574,-0.02701 -0.125147,-0.02701 -0.0652,0 -0.120941,0.02584 -0.05468,0.02467 -0.0957,0.07047 -0.03996,0.04463 -0.06309,0.108062 -0.02314,0.06225 -0.02314,0.137426 z m 0.05363,-0.781096 q 0,0.0599 0.01893,0.111585 0.01998,0.05051 0.05363,0.08927 0.03471,0.03759 0.07993,0.0599 0.04522,0.02114 0.09675,0.02114 0.05153,0 0.09675,-0.02232 0.04627,-0.02232 0.07993,-0.0599 0.03365,-0.03876 0.05363,-0.08927 0.01998,-0.05168 0.01998,-0.11041 0,-0.06107 -0.01998,-0.11276 -0.01893,-0.05168 -0.05258,-0.08927 -0.03365,-0.03759 -0.07993,-0.05873 -0.04522,-0.02232 -0.0978,-0.02232 -0.05574,0 -0.102012,0.02232 -0.04522,0.02232 -0.07888,0.06107 -0.03261,0.03758 -0.05048,0.08927 -0.01787,0.05168 -0.01787,0.11041 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.103.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3573" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 32.998195,35.960398 q 0,-0.07752 -0.02208,-0.135077 -0.02104,-0.05756 -0.05889,-0.09515 -0.03681,-0.03876 -0.08729,-0.05755 -0.05048,-0.01879 -0.109373,-0.01879 -0.05048,0 -0.09886,0.01527 -0.04837,0.01527 -0.09465,0.04228 -0.04522,0.02701 -0.08834,0.0646 -0.04207,0.03759 -0.07888,0.08339 v -0.206727 q 0.07257,-0.0787 0.161956,-0.119807 0.09044,-0.04228 0.219798,-0.04228 0.09255,0 0.171421,0.03054 0.07888,0.02937 0.136716,0.08692 0.05784,0.05755 0.09044,0.142125 0.03366,0.08457 0.03366,0.193805 0,0.09984 -0.02103,0.180886 -0.01998,0.08105 -0.06204,0.152695 -0.04102,0.07165 -0.104115,0.137426 -0.06309,0.06578 -0.148283,0.133902 -0.106218,0.08457 -0.175628,0.144473 -0.06836,0.0599 -0.109373,0.11276 -0.03996,0.05168 -0.05679,0.104542 -0.01577,0.05168 -0.01577,0.119807 h 0.750887 v 0.172663 h -0.93074 v -0.08339 q 0,-0.108062 0.02104,-0.190283 0.02103,-0.08222 0.06941,-0.156219 0.04838,-0.074 0.126199,-0.147996 0.07888,-0.074 0.192455,-0.166792 0.08203,-0.06578 0.136716,-0.125679 0.05573,-0.0599 0.08939,-0.119807 0.03366,-0.0599 0.04732,-0.120983 0.01472,-0.06226 0.01472,-0.131552 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.104.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3575" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 34.24126,35.518755 v 1.112329 h 0.193506 V 36.80727 H 34.24126 v 0.395834 H 34.070891 V 36.80727 h -0.70882 v -0.16679 q 0.09886,-0.124506 0.199815,-0.265456 0.10096,-0.142123 0.192455,-0.287772 0.09255,-0.145647 0.170369,-0.290121 0.07888,-0.145648 0.132509,-0.278376 z m -0.684632,1.112329 h 0.514263 v -0.824556 q -0.07888,0.15387 -0.149336,0.274851 -0.07047,0.120982 -0.134613,0.219648 -0.06309,0.09866 -0.120941,0.178535 -0.05784,0.07988 -0.109373,0.151522 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.105.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3577" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <line  x2="4.2969985" fill="#483e37" gorn="0.1.106.0.0.0" stroke-width="0.81722844" x1="6.5373864" y2="80.523361" y1="83.778519" id="line3065" stroke="#b3b3b3" style="text-rendering:geometricPrecision;fill-rule:evenodd;stroke-miterlimit:4;shape-rendering:geometricPrecision;stroke-dasharray:none;image-rendering:optimizeQuality;clip-rule:evenodd;display:inline;" class="fil2 str6"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <rect  fill="none" x="5.0178695" y="81.752075" gorn="0.1.107.0.0.0" stroke-width="0.00000027" height="0.79797333" id="rect3077" style="text-rendering:geometricPrecision;fill-rule:evenodd;shape-rendering:geometricPrecision;clip-rule:evenodd;image-rendering:optimizeQuality;display:inline;" width="0.79797333" class="fil2"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <circle  fill="#e6e6e6" stroke-opacity="1" cx="5.416841" gorn="0.1.108.0.0.0" stroke-width="0.2" fill-opacity="0.97427655" r="1.9475747" cy="82.151047" id="circle3079" stroke="#000000" style="opacity:1;stroke-linejoin:round;paint-order:stroke markers fill;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <line  x2="4.2966628" fill="#483e37" gorn="0.1.109.0.0.0" stroke-width="0.81722844" y2="80.523468" x1="6.5370507" id="line3081" y1="83.778641" stroke="#b3b3b3" style="text-rendering:geometricPrecision;fill-rule:evenodd;stroke-miterlimit:4;shape-rendering:geometricPrecision;stroke-dasharray:none;image-rendering:optimizeQuality;clip-rule:evenodd;display:inline;" class="fil2 str6"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <circle  fill="none" stroke-opacity="1" cx="5.416841" gorn="0.1.110.0.0.0" stroke-width="0.2" fill-opacity="0.97427655" r="1.9475747" cy="82.151047" id="circle3083" stroke="#000000" style="opacity:1;stroke-linejoin:round;paint-order:stroke markers fill;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <rect  fill="none" x="5.1040826" y="89.51017" gorn="0.1.111.0.0.0" stroke-width="0.30000001" height="1.2656947" id="connector16pin" stroke="none" style="text-rendering:geometricPrecision;fill-rule:evenodd;stroke-miterlimit:4;shape-rendering:geometricPrecision;stroke-dasharray:none;image-rendering:optimizeQuality;clip-rule:evenodd;display:inline;" width="0.79797333" class="fil2"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="none" d="m 5.503065,89.923091 v 0.43991" stroke-opacity="1" gorn="0.1.112.0.0.0" stroke-width="0.3000001" fill-opacity="1" id="path3087" stroke="#2b2a29" style="stroke-linejoin:miter;fill-rule:evenodd;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="M 1.3528239,84.076988 H 1.1803512 v -1.455306 q -0.019982,0.02232 -0.058893,0.05168 -0.03786,0.02819 -0.086236,0.05638 -0.0473248,0.02818 -0.10095962,0.05285 -0.0525831,0.02467 -0.10306295,0.03876 v -0.19498 q 0.0567898,-0.01762 0.11988956,-0.04699 0.0641515,-0.03054 0.12514781,-0.06695 0.062048,-0.03759 0.1167346,-0.07752 0.054686,-0.04111 0.09465,-0.07987 h 0.065203 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.113.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3564" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 2.5643394,82.834282 q 0,-0.07752 -0.022085,-0.135077 -0.021034,-0.05755 -0.058893,-0.09514 -0.036808,-0.03876 -0.087288,-0.05755 -0.050479,-0.01879 -0.1093729,-0.01879 -0.050479,0 -0.098856,0.01527 -0.048376,0.01527 -0.09465,0.04228 -0.045221,0.02701 -0.08834,0.0646 -0.042067,0.03758 -0.078875,0.08339 v -0.206727 q 0.072565,-0.07869 0.1619561,-0.119807 0.090443,-0.04228 0.2197976,-0.04228 0.092546,0 0.171421,0.03054 0.078875,0.02937 0.1367161,0.08692 0.057841,0.05755 0.090443,0.142124 0.033654,0.08457 0.033654,0.193805 0,0.09984 -0.021033,0.180886 -0.019982,0.08105 -0.062048,0.152696 -0.041015,0.07165 -0.1041145,0.137425 -0.0631,0.06578 -0.1482845,0.133903 -0.106218,0.08457 -0.1756277,0.144473 -0.068358,0.0599 -0.1093729,0.112759 -0.039963,0.05168 -0.05679,0.104542 -0.015775,0.05168 -0.015775,0.119806 H 2.797809 v 0.172665 H 1.867087 v -0.0834 q 0,-0.108061 0.021033,-0.190282 0.021033,-0.08222 0.06941,-0.156219 0.048377,-0.074 0.1261995,-0.147998 0.078875,-0.074 0.1924543,-0.16679 0.08203,-0.06578 0.1367162,-0.125679 0.055738,-0.0599 0.089391,-0.119809 0.033654,-0.0599 0.047325,-0.120981 0.014723,-0.06226 0.014723,-0.131553 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.114.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3566" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="M 2.4339332,82.049313 H 2.2183423 L 1.8712937,81.404468 q -0.015775,-0.02937 -0.034705,-0.08339 h -0.00421 q -0.010516,0.02701 -0.035756,0.08339 L 1.4390602,82.049313 H 1.2224177 L 1.7272158,81.20244 1.2623808,80.364965 h 0.2166426 l 0.3081372,0.591989 q 0.030498,0.05873 0.053635,0.117457 h 0.00421 q 0.033653,-0.07752 0.058893,-0.122156 l 0.3207571,-0.58729 h 0.202971 l -0.4743,0.835126 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.115.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3561" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <circle  fill="#333333" stroke-opacity="1" cx="15.550665" gorn="0.1.116.0.0.0" stroke-width="0.2" fill-opacity="0.97427655" r="1.9475747" cy="82.151306" id="circle3105" stroke="#000000" style="opacity:1;stroke-linejoin:round;paint-order:stroke markers fill;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <circle  fill="#333333" stroke-opacity="1" cx="20.616678" gorn="0.1.117.0.0.0" stroke-width="0.2" fill-opacity="0.97427655" r="1.9475747" cy="82.151375" id="circle3107" stroke="#000000" style="opacity:1;stroke-linejoin:round;paint-order:stroke markers fill;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 4.849469,86.98521 q -0.067306,0 -0.1367162,-0.01527 -0.06941,-0.0141 -0.1346128,-0.04346 -0.065203,-0.03054 -0.1251479,-0.074 -0.058893,-0.04463 -0.1072696,-0.103358 -0.1924543,-0.234916 -0.1924543,-0.614306 0,-0.407579 0.1956093,-0.648368 0.1977126,-0.241965 0.5405547,-0.241965 0.3070855,0 0.4984882,0.234917 0.1914026,0.234916 0.1914026,0.614306 0,0.159743 -0.032601,0.301867 -0.03155,0.14095 -0.096753,0.254884 -0.065203,0.113934 -0.1640593,0.193806 -0.098856,0.0787 -0.2334692,0.11276 0.054686,0.06578 0.1020113,0.116283 0.048377,0.05051 0.095701,0.08457 0.048377,0.03524 0.099908,0.05285 0.051532,0.01762 0.1135795,0.01762 0.016827,0 0.036808,-0.0023 0.019982,-0.0012 0.039963,-0.0059 0.021033,-0.0035 0.039963,-0.0094 0.01893,-0.0047 0.034705,-0.01174 v 0.190283 q -0.016827,0.0059 -0.03786,0.0094 -0.021033,0.0046 -0.043118,0.0071 -0.021033,0.0035 -0.042066,0.0046 -0.021033,0.0023 -0.038912,0.0023 -0.1009596,0 -0.1819377,-0.03406 -0.079926,-0.03289 -0.1503877,-0.09162 -0.06941,-0.05755 -0.1346129,-0.135077 -0.065203,-0.07752 -0.1367161,-0.16679 z m 0.023136,-1.562192 q -0.2376758,0 -0.3859602,0.191456 -0.1482845,0.191457 -0.1482845,0.50272 0,0.31009 0.1440778,0.501547 0.1451295,0.189108 0.3775469,0.189108 0.2481925,0 0.3912186,-0.180886 0.1430261,-0.180886 0.1430261,-0.506244 0,-0.334756 -0.1388194,-0.515641 -0.1388192,-0.18206 -0.3828053,-0.18206 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.118.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3556" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 6.6804139,86.480141 q 0,0.113934 -0.038912,0.207901 -0.03786,0.09279 -0.1083212,0.159742 -0.06941,0.06578 -0.1672144,0.102184 -0.097805,0.03641 -0.2155908,0.03641 -0.215591,0 -0.3428422,-0.09162 v -0.206726 q 0.1524911,0.133902 0.3491521,0.133902 0.078875,0 0.1419745,-0.02232 0.064152,-0.02232 0.1093729,-0.0646 0.046274,-0.04228 0.070461,-0.102184 0.02524,-0.0599 0.02524,-0.135077 0,-0.330057 -0.4206652,-0.330057 h -0.125147 v -0.163267 h 0.1188378 q 0.3722886,0 0.3722886,-0.310089 0,-0.286599 -0.2839489,-0.286599 -0.1598527,0 -0.2997239,0.119808 v -0.18675 q 0.1440778,-0.09632 0.3428421,-0.09632 0.09465,0 0.171421,0.02937 0.076771,0.02937 0.1314578,0.08222 0.054686,0.05285 0.084133,0.126855 0.030498,0.074 0.030498,0.163266 0,0.332406 -0.3007756,0.427548 v 0.0046 q 0.076771,0.0094 0.1419744,0.04228 0.065203,0.03172 0.112528,0.08339 0.047325,0.05168 0.073617,0.122157 0.027343,0.0693 0.027343,0.15387 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.119.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3558" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 25.073685,86.98521 q -0.06731,0 -0.136716,-0.01527 -0.06941,-0.0141 -0.134612,-0.04346 -0.0652,-0.03054 -0.125149,-0.074 -0.05889,-0.04463 -0.107269,-0.103358 -0.192454,-0.234916 -0.192454,-0.614306 0,-0.407579 0.195609,-0.648368 0.197713,-0.241965 0.540554,-0.241965 0.307086,0 0.498489,0.234917 0.191403,0.234916 0.191403,0.614306 0,0.159743 -0.03261,0.301867 -0.03155,0.14095 -0.09675,0.254884 -0.0652,0.113934 -0.164059,0.193806 -0.09886,0.0787 -0.233469,0.11276 0.05468,0.06578 0.102011,0.116283 0.04838,0.05051 0.0957,0.08457 0.04837,0.03524 0.09991,0.05285 0.05153,0.01762 0.11358,0.01762 0.01682,0 0.03681,-0.0023 0.01999,-0.0012 0.03996,-0.0059 0.02103,-0.0035 0.03996,-0.0094 0.01893,-0.0047 0.03471,-0.01174 v 0.190283 q -0.01682,0.0059 -0.03786,0.0094 -0.02104,0.0046 -0.04312,0.0071 -0.02103,0.0035 -0.04207,0.0046 -0.02104,0.0023 -0.03891,0.0023 -0.10096,0 -0.181938,-0.03406 -0.07993,-0.03289 -0.150388,-0.09162 -0.06941,-0.05755 -0.134613,-0.135077 -0.06521,-0.07752 -0.136716,-0.16679 z m 0.02314,-1.562192 q -0.237676,0 -0.385961,0.191456 -0.148285,0.191457 -0.148285,0.50272 0,0.31009 0.144078,0.501547 0.14513,0.189108 0.377548,0.189108 0.248192,0 0.391218,-0.180886 0.143026,-0.180886 0.143026,-0.506244 0,-0.334756 -0.138819,-0.515641 -0.13882,-0.18206 -0.382805,-0.18206 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.120.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3551" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 26.796309,85.272672 v 1.112327 h 0.193506 v 0.176188 H 26.796309 V 86.95702 H 26.62594 v -0.395833 h -0.708821 v -0.166791 q 0.09886,-0.124505 0.199816,-0.265455 0.10096,-0.142125 0.192455,-0.287772 0.09255,-0.145649 0.170368,-0.290122 0.07888,-0.145648 0.132511,-0.278375 z m -0.684632,1.112327 h 0.514263 v -0.824556 q -0.07888,0.153871 -0.149336,0.274853 -0.07047,0.120981 -0.134613,0.219646 -0.0631,0.09866 -0.120941,0.178536 -0.05784,0.07988 -0.109373,0.151521 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.121.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3553" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 11.252433,87.170793 h -0.175628 v -1.129947 q 0,-0.133902 0.01472,-0.327708 h -0.0042 q -0.02524,0.113935 -0.04522,0.163267 L 10.52679,87.170793 H 10.44055 L 9.9262855,85.885801 q -0.022085,-0.05638 -0.04522,-0.172663 h -0.00416 q 0.00842,0.101012 0.00842,0.330057 v 1.127598 h -0.170372 v -1.684349 h 0.233469 l 0.4627325,1.174581 q 0.05363,0.135077 0.06941,0.202028 h 0.0063 q 0.04522,-0.138601 0.07257,-0.206727 l 0.472197,-1.169882 h 0.220849 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.122.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3548" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 31.518913,87.170793 h -0.175628 v -1.129947 q 0,-0.133902 0.01472,-0.327708 h -0.0042 q -0.02524,0.113935 -0.04522,0.163267 l -0.515315,1.294388 h -0.08624 l -0.514264,-1.284992 q -0.02208,-0.05638 -0.04522,-0.172663 h -0.0042 q 0.0084,0.101012 0.0084,0.330057 v 1.127598 h -0.170369 v -1.684349 h 0.233469 l 0.462731,1.174581 q 0.05363,0.135077 0.06941,0.202028 h 0.0063 q 0.04522,-0.138601 0.07257,-0.206727 l 0.472197,-1.169882 h 0.220849 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.123.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3545" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <line  x2="11.658352" fill="#483e37" gorn="0.1.124.0.0.0" stroke-width="0.81722844" x1="13.898739" y2="69.538383" y1="72.793541" id="line3125" stroke="#b3b3b3" style="text-rendering:geometricPrecision;fill-rule:evenodd;stroke-miterlimit:4;shape-rendering:geometricPrecision;stroke-dasharray:none;image-rendering:optimizeQuality;clip-rule:evenodd;display:inline;" class="fil2 str6"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <line  x2="21.791821" fill="#483e37" gorn="0.1.125.0.0.0" stroke-width="0.81722844" x1="24.032207" y2="69.538315" y1="72.793472" id="line3127" stroke="#b3b3b3" style="text-rendering:geometricPrecision;fill-rule:evenodd;stroke-miterlimit:4;shape-rendering:geometricPrecision;stroke-dasharray:none;image-rendering:optimizeQuality;clip-rule:evenodd;display:inline;" class="fil2 str6"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <line  x2="26.858303" fill="#483e37" gorn="0.1.126.0.0.0" stroke-width="0.81722844" x1="29.098709" y2="69.538315" y1="72.793472" id="line3129" stroke="#b3b3b3" style="text-rendering:geometricPrecision;fill-rule:evenodd;stroke-miterlimit:4;shape-rendering:geometricPrecision;stroke-dasharray:none;image-rendering:optimizeQuality;clip-rule:evenodd;display:inline;" class="fil2 str6"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <rect  fill="none" x="12.379086" y="70.766624" gorn="0.1.127.0.0.0" stroke-width="0.00000027" height="0.79797333" id="rect3131" style="text-rendering:geometricPrecision;fill-rule:evenodd;shape-rendering:geometricPrecision;clip-rule:evenodd;image-rendering:optimizeQuality;display:inline;" width="0.79797333" class="fil2"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <circle  fill="#e6e6e6" stroke-opacity="1" cx="12.778049" gorn="0.1.128.0.0.0" stroke-width="0.2" fill-opacity="0.97427655" r="1.9475747" cy="71.165596" id="circle3133" stroke="#000000" style="opacity:1;stroke-linejoin:round;paint-order:stroke markers fill;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <line  x2="11.657879" fill="#483e37" gorn="0.1.129.0.0.0" stroke-width="0.81722844" y2="69.538017" x1="13.898266" id="line3135" y1="72.79319" stroke="#b3b3b3" style="text-rendering:geometricPrecision;fill-rule:evenodd;stroke-miterlimit:4;shape-rendering:geometricPrecision;stroke-dasharray:none;image-rendering:optimizeQuality;clip-rule:evenodd;display:inline;" class="fil2 str6"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <circle  fill="none" stroke-opacity="1" cx="12.778049" gorn="0.1.130.0.0.0" stroke-width="0.2" fill-opacity="0.97427655" r="1.9475747" cy="71.165596" id="circle3137" stroke="#000000" style="opacity:1;stroke-linejoin:round;paint-order:stroke markers fill;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <rect  fill="none" x="22.513042" y="70.766922" gorn="0.1.131.0.0.0" stroke-width="0.00000027" height="0.79797333" id="rect3139" style="text-rendering:geometricPrecision;fill-rule:evenodd;shape-rendering:geometricPrecision;clip-rule:evenodd;image-rendering:optimizeQuality;display:inline;" class="fil2" width="0.79797333"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <circle  fill="#e6e6e6" stroke-opacity="1" cx="22.912014" gorn="0.1.132.0.0.0" stroke-width="0.2" fill-opacity="0.97427655" r="1.9475747" cy="71.165894" id="circle3141" stroke="#000000" style="opacity:1;stroke-linejoin:round;paint-order:stroke markers fill;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <line  x2="21.791836" fill="#483e37" gorn="0.1.133.0.0.0" stroke-width="0.81722844" x1="24.032223" y2="69.538315" y1="72.793488" id="line3143" stroke="#b3b3b3" style="text-rendering:geometricPrecision;fill-rule:evenodd;stroke-miterlimit:4;shape-rendering:geometricPrecision;stroke-dasharray:none;image-rendering:optimizeQuality;clip-rule:evenodd;display:inline;" class="fil2 str6"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <circle  fill="none" stroke-opacity="1" cx="22.912014" gorn="0.1.134.0.0.0" stroke-width="0.2" fill-opacity="0.97427655" r="1.9475747" cy="71.165894" id="circle3145" stroke="#000000" style="opacity:1;stroke-linejoin:round;paint-order:stroke markers fill;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <rect  fill="none" x="27.579544" y="70.766922" gorn="0.1.135.0.0.0" stroke-width="0.00000027" height="0.79797333" id="rect3147" style="text-rendering:geometricPrecision;fill-rule:evenodd;shape-rendering:geometricPrecision;clip-rule:evenodd;image-rendering:optimizeQuality;display:inline;" width="0.79797333" class="fil2"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <circle  fill="#e6e6e6" stroke-opacity="1" cx="27.978516" gorn="0.1.136.0.0.0" stroke-width="0.2" fill-opacity="0.97427655" r="1.9475747" cy="71.165894" id="circle3149" stroke="#000000" style="opacity:1;stroke-linejoin:round;paint-order:stroke markers fill;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <line  x2="26.858334" fill="#483e37" gorn="0.1.137.0.0.0" stroke-width="0.81722844" y2="69.538315" x1="29.098724" id="line3151" y1="72.793488" stroke="#b3b3b3" style="text-rendering:geometricPrecision;fill-rule:evenodd;stroke-miterlimit:4;shape-rendering:geometricPrecision;stroke-dasharray:none;image-rendering:optimizeQuality;clip-rule:evenodd;display:inline;" class="fil2 str6"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <circle  fill="none" stroke-opacity="1" cx="27.978516" gorn="0.1.138.0.0.0" stroke-width="0.2" fill-opacity="0.97427655" r="1.9475747" cy="71.165894" id="circle3153" stroke="#000000" style="opacity:1;stroke-linejoin:round;paint-order:stroke markers fill;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <rect  fill="none" x="12.368862" y="78.549248" gorn="0.1.139.0.0.0" stroke-width="0.30000001" height="1.2656947" id="connector13pin" stroke="none" style="text-rendering:geometricPrecision;fill-rule:evenodd;stroke-miterlimit:4;shape-rendering:geometricPrecision;stroke-dasharray:none;image-rendering:optimizeQuality;clip-rule:evenodd;display:inline;" width="0.79797333" class="fil2"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <rect  fill="none" x="22.534496" y="78.549179" gorn="0.1.140.0.0.0" stroke-width="0.30000001" height="1.2656947" id="connector14pin" stroke="none" style="text-rendering:geometricPrecision;fill-rule:evenodd;stroke-miterlimit:4;shape-rendering:geometricPrecision;stroke-dasharray:none;image-rendering:optimizeQuality;clip-rule:evenodd;display:inline;" width="0.79797333" class="fil2"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <rect  fill="none" x="27.61171" y="78.549179" gorn="0.1.141.0.0.0" stroke-width="0.30000001" height="1.2656947" id="connector15pin" stroke="none" style="text-rendering:geometricPrecision;fill-rule:evenodd;stroke-miterlimit:4;shape-rendering:geometricPrecision;stroke-dasharray:none;image-rendering:optimizeQuality;clip-rule:evenodd;display:inline;" width="0.79797333" class="fil2"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="none" d="m 12.767853,78.962169 v 0.439907" stroke-opacity="1" gorn="0.1.142.0.0.0" stroke-width="0.3000001" fill-opacity="1" id="path3161" stroke="#2b2a29" style="stroke-linejoin:miter;fill-rule:evenodd;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="none" d="m 22.883483,78.9621 v 0.439907" stroke-opacity="1" gorn="0.1.143.0.0.0" stroke-width="0.3000001" fill-opacity="1" id="path3163" stroke="#2b2a29" style="stroke-linejoin:miter;fill-rule:evenodd;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="none" d="m 28.010692,78.9621 v 0.439907" stroke-opacity="1" gorn="0.1.144.0.0.0" stroke-width="0.3000001" fill-opacity="1" id="path3165" stroke="#2b2a29" style="stroke-linejoin:miter;fill-rule:evenodd;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <line  x2="6.5913801" fill="#483e37" gorn="0.1.145.0.0.0" stroke-width="0.81722844" y2="69.538017" x1="8.831768" id="line3167" y1="72.793175" stroke="#b3b3b3" style="text-rendering:geometricPrecision;fill-rule:evenodd;stroke-miterlimit:4;shape-rendering:geometricPrecision;stroke-dasharray:none;image-rendering:optimizeQuality;clip-rule:evenodd;display:inline;" class="fil2 str6"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <rect  fill="none" x="7.3122511" y="70.766731" gorn="0.1.146.0.0.0" stroke-width="0.00000027" height="0.79797333" id="rect3169" style="text-rendering:geometricPrecision;fill-rule:evenodd;shape-rendering:geometricPrecision;clip-rule:evenodd;image-rendering:optimizeQuality;display:inline;" class="fil2" width="0.79797333"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <circle  fill="#e6e6e6" stroke-opacity="1" cx="7.7112226" gorn="0.1.147.0.0.0" stroke-width="0.2" fill-opacity="0.97427655" r="1.9475747" cy="71.165703" id="circle3171" stroke="#000000" style="opacity:1;stroke-linejoin:round;paint-order:stroke markers fill;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <line  x2="6.5910444" fill="#483e37" gorn="0.1.148.0.0.0" stroke-width="0.81722844" x1="8.8314323" y2="69.538124" y1="72.793297" id="line3173" stroke="#b3b3b3" style="text-rendering:geometricPrecision;fill-rule:evenodd;stroke-miterlimit:4;shape-rendering:geometricPrecision;stroke-dasharray:none;image-rendering:optimizeQuality;clip-rule:evenodd;display:inline;" class="fil2 str6"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <circle  fill="none" stroke-opacity="1" cx="7.7112226" gorn="0.1.149.0.0.0" stroke-width="0.2" fill-opacity="0.97427655" r="1.9475747" cy="71.165703" id="circle3175" stroke="#000000" style="opacity:1;stroke-linejoin:round;paint-order:stroke markers fill;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <rect  fill="none" x="7.3984642" y="78.548874" gorn="0.1.150.0.0.0" stroke-width="0.30000001" height="1.2656947" id="connector12pin" stroke="none" style="text-rendering:geometricPrecision;fill-rule:evenodd;stroke-miterlimit:4;shape-rendering:geometricPrecision;stroke-dasharray:none;image-rendering:optimizeQuality;clip-rule:evenodd;display:inline;" class="fil2" width="0.79797333"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="none" d="m 7.7974468,78.961792 v 0.43991" stroke-opacity="1" gorn="0.1.151.0.0.0" stroke-width="0.3000001" fill-opacity="1" id="path3179" stroke="#2b2a29" style="stroke-linejoin:miter;fill-rule:evenodd;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="M 2.8045804,72.026633 H 2.5889894 L 2.2419407,71.381789 q -0.015775,-0.02937 -0.034705,-0.08339 h -0.00421 q -0.010516,0.02701 -0.035756,0.08339 L 1.8097073,72.026633 H 1.5930648 L 2.0978629,71.179761 1.633028,70.342285 h 0.2166425 l 0.3081372,0.591989 q 0.030498,0.05873 0.053635,0.117457 h 0.00421 q 0.033654,-0.07752 0.058893,-0.122156 l 0.3207538,-0.58729 h 0.2029708 l -0.4742998,0.835127 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.152.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3538" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="M 3.5975341,72.026633 H 3.4250613 v -1.455305 q -0.019982,0.02232 -0.058893,0.05168 -0.03786,0.02818 -0.086237,0.05638 -0.047325,0.02818 -0.1009596,0.05285 -0.052583,0.02467 -0.103063,0.03876 v -0.19498 q 0.05679,-0.01762 0.1198896,-0.04699 0.064152,-0.03054 0.1251478,-0.06695 0.062048,-0.03759 0.1167346,-0.07752 0.054686,-0.04111 0.09465,-0.07988 h 0.065203 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.153.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3540" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="M 4.7585698,72.026633 H 4.5860972 v -1.455305 q -0.019982,0.02232 -0.058893,0.05168 -0.03786,0.02818 -0.086237,0.05638 -0.047325,0.02818 -0.1009596,0.05285 -0.052583,0.02467 -0.103063,0.03876 v -0.19498 q 0.05679,-0.01762 0.1198896,-0.04699 0.064152,-0.03054 0.1251479,-0.06695 0.062048,-0.03759 0.1167346,-0.07752 0.054686,-0.04111 0.09465,-0.07988 h 0.065203 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.154.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3542" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <circle  fill="#333333" stroke-opacity="1" cx="17.845045" gorn="0.1.155.0.0.0" stroke-width="0.2" fill-opacity="0.97427655" r="1.9475747" cy="71.165962" id="circle3189" stroke="#000000" style="opacity:1;stroke-linejoin:round;paint-order:stroke markers fill;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;display:inline;"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 7.1438504,75.999864 q -0.067306,0 -0.1367161,-0.01527 -0.06941,-0.0141 -0.1346129,-0.04346 -0.065203,-0.03054 -0.1251479,-0.074 Q 6.6884805,75.822504 6.640104,75.763766 6.4476497,75.52885 6.4476497,75.14946 q 0,-0.407579 0.1956092,-0.648368 0.1977127,-0.241963 0.5405547,-0.241963 0.3070855,0 0.4984882,0.234916 0.1914026,0.234915 0.1914026,0.614305 0,0.159743 -0.032601,0.301867 -0.03155,0.14095 -0.096753,0.254884 -0.065203,0.113935 -0.1640593,0.193806 -0.098856,0.0787 -0.2334692,0.11276 0.054686,0.06578 0.1020114,0.116284 0.048377,0.05051 0.095701,0.08457 0.048376,0.03523 0.099908,0.05285 0.051532,0.01762 0.1135795,0.01762 0.016827,0 0.036808,-0.0023 0.019981,-0.0012 0.039963,-0.0059 0.021034,-0.0035 0.039963,-0.0094 0.01893,-0.0046 0.034705,-0.01175 v 0.190282 q -0.016827,0.0059 -0.03786,0.0094 -0.021033,0.0046 -0.043118,0.0071 -0.021033,0.0035 -0.042066,0.0046 -0.021034,0.0023 -0.038912,0.0023 -0.1009596,0 -0.1819376,-0.03406 -0.079926,-0.03289 -0.1503878,-0.09162 -0.06941,-0.05755 -0.1346128,-0.135076 -0.065203,-0.07752 -0.1367162,-0.166791 z m 0.023137,-1.562192 q -0.2376758,0 -0.3859602,0.191456 -0.1482845,0.191458 -0.1482845,0.502721 0,0.31009 0.1440778,0.501546 0.1451295,0.189107 0.3775469,0.189107 0.2481925,0 0.3912186,-0.180885 0.1430261,-0.180885 0.1430261,-0.506244 0,-0.334756 -0.1388194,-0.515641 -0.1388195,-0.18206 -0.3828053,-0.18206 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.156.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3533" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="M 8.7339645,75.971674 H 8.5614918 v -1.455305 q -0.019981,0.02232 -0.058893,0.05168 -0.03786,0.02819 -0.086237,0.05638 -0.047325,0.02818 -0.1009597,0.05285 -0.052583,0.02467 -0.1030629,0.03876 v -0.194981 q 0.05679,-0.01762 0.1198895,-0.04699 0.064152,-0.03054 0.1251479,-0.06695 0.062048,-0.03759 0.1167346,-0.07752 0.054686,-0.04111 0.09465,-0.07988 h 0.065203 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.157.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3535" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 22.302055,75.999792 q -0.06731,0 -0.136716,-0.01527 -0.06941,-0.0141 -0.134614,-0.04346 -0.0652,-0.03054 -0.125147,-0.074 -0.05889,-0.04463 -0.10727,-0.103368 -0.192454,-0.234916 -0.192454,-0.614305 0,-0.407581 0.195609,-0.648369 0.197713,-0.241964 0.540555,-0.241964 0.307085,0 0.498488,0.234916 0.191402,0.234917 0.191402,0.614306 0,0.159742 -0.0326,0.301867 -0.03155,0.14095 -0.09675,0.254884 -0.0652,0.113935 -0.16406,0.193806 -0.09886,0.0787 -0.233469,0.112759 0.05468,0.06578 0.102012,0.116284 0.04838,0.05051 0.0957,0.08457 0.04838,0.03523 0.09991,0.05285 0.05153,0.01762 0.113579,0.01762 0.01682,0 0.03681,-0.0023 0.01998,-0.0012 0.03996,-0.0059 0.02103,-0.0035 0.03996,-0.0094 0.01893,-0.0046 0.03471,-0.01174 v 0.190282 q -0.01682,0.0059 -0.03786,0.0094 -0.02103,0.0047 -0.04312,0.0071 -0.02104,0.0035 -0.04207,0.0047 -0.02104,0.0023 -0.03891,0.0023 -0.10096,0 -0.181938,-0.03406 -0.07993,-0.03289 -0.150388,-0.09162 -0.06941,-0.05755 -0.134612,-0.135077 -0.0652,-0.07752 -0.136716,-0.16679 z m 0.02313,-1.562192 q -0.237676,0 -0.385961,0.191456 -0.148283,0.191457 -0.148283,0.50272 0,0.31009 0.144077,0.501546 0.145129,0.189109 0.377547,0.189109 0.248192,0 0.391219,-0.180887 0.143025,-0.180885 0.143025,-0.506243 0,-0.334756 -0.138819,-0.515642 Q 22.56917,74.4376 22.325185,74.4376 Z" font-size="0.642393" stroke-opacity="1" gorn="0.1.158.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3528" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 23.942648,74.728896 q 0,-0.07752 -0.02209,-0.135077 -0.02104,-0.05755 -0.05889,-0.09514 -0.03681,-0.03876 -0.08729,-0.05755 -0.05048,-0.01879 -0.109373,-0.01879 -0.05048,0 -0.09886,0.01527 -0.04837,0.01527 -0.09465,0.04228 -0.04522,0.02701 -0.08834,0.0646 -0.04207,0.03759 -0.07888,0.08339 v -0.206726 q 0.07257,-0.0787 0.161956,-0.119808 0.09044,-0.04228 0.219798,-0.04228 0.09255,0 0.171421,0.03054 0.07888,0.02937 0.136716,0.08692 0.05784,0.05755 0.09044,0.142124 0.03366,0.08457 0.03366,0.193805 0,0.09984 -0.02104,0.180886 -0.01998,0.08105 -0.06204,0.152695 -0.04102,0.07165 -0.104114,0.137426 -0.06311,0.06578 -0.148285,0.133902 -0.106218,0.08457 -0.175628,0.144473 -0.06836,0.0599 -0.109373,0.11276 -0.03996,0.05168 -0.05679,0.104542 -0.01577,0.05168 -0.01577,0.119807 h 0.750886 v 0.172663 h -0.930721 v -0.08339 q 0,-0.108062 0.02104,-0.190282 0.02103,-0.08222 0.06941,-0.15622 0.04837,-0.074 0.126198,-0.147996 0.07888,-0.074 0.192455,-0.166791 0.08203,-0.06578 0.136716,-0.12568 0.05574,-0.0599 0.08939,-0.119807 0.03366,-0.0599 0.04732,-0.120983 0.01472,-0.06225 0.01472,-0.131552 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.159.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3530" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="M 13.546815,76.185447 H 13.371187 V 75.0555 q 0,-0.133902 0.01472,-0.327708 h -0.0042 q -0.02524,0.113935 -0.04522,0.163267 l -0.515315,1.294388 h -0.08624 l -0.514263,-1.284992 q -0.02208,-0.05638 -0.04522,-0.172663 h -0.0042 q 0.0084,0.101012 0.0084,0.330057 v 1.127598 H 12.00928 v -1.684349 h 0.233469 l 0.462731,1.174581 q 0.05363,0.135077 0.06941,0.202028 h 0.0063 q 0.04522,-0.138601 0.07257,-0.206726 l 0.472198,-1.169883 h 0.220849 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.160.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3525" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 28.747283,76.185375 h -0.175628 v -1.129947 q 0,-0.133903 0.01472,-0.327709 h -0.0042 q -0.02524,0.113935 -0.04522,0.163267 L 28.02164,76.185375 H 27.9354 l -0.514264,-1.284991 q -0.02209,-0.05638 -0.04522,-0.172665 h -0.0042 q 0.0084,0.101012 0.0084,0.330057 v 1.127599 h -0.17037 v -1.68435 h 0.233469 l 0.462732,1.174582 q 0.05363,0.135076 0.06941,0.202027 h 0.0063 q 0.04522,-0.138601 0.07257,-0.206726 l 0.472196,-1.169883 h 0.220849 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.161.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3522" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 11.256119,65.941587 q -0.320756,0 -0.514262,-0.23609 -0.192455,-0.236092 -0.192455,-0.614306 0,-0.406406 0.196661,-0.648369 0.196661,-0.241964 0.535296,-0.241964 0.312344,0 0.502695,0.234916 0.191403,0.234917 0.191403,0.614306 0,0.412278 -0.19561,0.651892 -0.195609,0.239615 -0.523728,0.239615 z m 0.01262,-1.562192 q -0.237676,0 -0.38596,0.191456 -0.148284,0.191457 -0.148284,0.50272 0,0.311265 0.144078,0.501547 0.145129,0.189107 0.377546,0.189107 0.248193,0 0.391219,-0.180885 0.143026,-0.180886 0.143026,-0.506244 0,-0.333582 -0.13882,-0.515641 -0.138819,-0.18206 -0.382805,-0.18206 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.162.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3483" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 13.37522,65.23214 q 0,0.709447 -0.573157,0.709447 -0.548967,0 -0.548967,-0.682432 v -1.030106 h 0.176679 v 1.017186 q 0,0.51799 0.391219,0.51799 0.377546,0 0.377546,-0.500371 v -1.034805 h 0.17668 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.163.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3485" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 14.644577,64.407584 h -0.435388 v 1.505813 h -0.17668 v -1.505813 h -0.434337 v -0.178535 h 1.046405 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.164.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3487" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 15.056828,65.276774 v 0.636623 h -0.176679 v -1.684348 h 0.414355 q 0.241883,0 0.374392,0.131552 0.133562,0.131554 0.133562,0.371168 0,0.239615 -0.148285,0.39231 -0.147233,0.152695 -0.398581,0.152695 z m 0,-0.86919 v 0.690654 h 0.185093 q 0.18299,0 0.278691,-0.09279 0.09675,-0.09396 0.09675,-0.264281 0,-0.33358 -0.353359,-0.33358 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.165.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3489" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 17.190653,65.23214 q 0,0.709447 -0.573156,0.709447 -0.548969,0 -0.548969,-0.682432 v -1.030106 h 0.17668 v 1.017186 q 0,0.51799 0.391218,0.51799 0.377548,0 0.377548,-0.500371 v -1.034805 h 0.176679 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.166.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3491" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 18.46001,64.407584 h -0.435389 v 1.505813 h -0.176679 v -1.505813 h -0.434337 v -0.178535 h 1.046405 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.167.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3493" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 20.569645,64.229049 v 1.112327 h 0.193506 v 0.176188 h -0.193506 v 0.395833 h -0.17037 v -0.395833 h -0.70882 v -0.166791 q 0.09886,-0.124505 0.199815,-0.265455 0.10096,-0.142125 0.192455,-0.287772 0.09255,-0.145649 0.170369,-0.290122 0.07888,-0.145648 0.13251,-0.278375 z m -0.684633,1.112327 h 0.514263 V 64.51682 q -0.07888,0.153871 -0.149336,0.274853 -0.07047,0.120981 -0.134612,0.219646 -0.06311,0.09866 -0.120942,0.178536 -0.05784,0.07988 -0.109373,0.151521 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.168.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3495" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 21.797987,64.710626 -0.361772,0.608433 0.355462,0.594338 h -0.200868 l -0.211384,-0.389961 q -0.01998,-0.03641 -0.04732,-0.09162 h -0.0042 q -0.0053,0.01057 -0.04943,0.09162 l -0.215591,0.389961 H 20.86412 l 0.36703,-0.589639 -0.351254,-0.613132 h 0.200867 l 0.208229,0.411104 q 0.02314,0.04581 0.04522,0.09396 h 0.0042 l 0.269225,-0.50507 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.169.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3497" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 23.503785,64.407584 h -0.435389 v 1.505813 H 22.891717 V 64.407584 H 22.45738 v -0.178535 h 1.046405 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.170.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3499" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 24.820466,65.913397 h -0.210332 l -0.252399,-0.472182 q -0.03471,-0.06578 -0.06731,-0.111585 -0.0326,-0.04699 -0.06731,-0.07635 -0.03366,-0.02937 -0.07362,-0.04228 -0.03891,-0.0141 -0.08834,-0.0141 h -0.145129 v 0.716494 h -0.176679 v -1.684348 h 0.450111 q 0.09886,0 0.181938,0.02818 0.08413,0.02701 0.14513,0.08339 0.06204,0.05638 0.09675,0.14095 0.03471,0.08339 0.03471,0.196155 0,0.0881 -0.02418,0.162092 -0.02314,0.07283 -0.06731,0.130378 -0.04312,0.05756 -0.105166,0.09866 -0.06099,0.03994 -0.137768,0.06225 v 0.0047 q 0.03786,0.01879 0.0652,0.04346 0.0284,0.02349 0.05363,0.05638 0.02524,0.03289 0.04943,0.07517 0.02524,0.04111 0.05574,0.09632 z m -0.90443,-1.505813 v 0.610783 h 0.239779 q 0.06625,0 0.121993,-0.02232 0.05679,-0.02232 0.09781,-0.06343 0.04102,-0.04228 0.06415,-0.102184 0.02313,-0.06107 0.02313,-0.136251 0,-0.135077 -0.07888,-0.21025 -0.07783,-0.07635 -0.226108,-0.07635 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.171.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3501" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 26.193937,65.913397 h -0.195609 l -0.159852,-0.472182 h -0.639411 l -0.150389,0.472182 h -0.19666 l 0.578414,-1.684348 h 0.18299 z M 25.780635,65.263854 25.54401,64.546185 q -0.01157,-0.03524 -0.02313,-0.11276 h -0.0042 q -0.01051,0.07165 -0.02419,0.11276 l -0.23452,0.717669 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.172.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3503" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="M 27.630509,65.913397 H 27.413867 L 26.63774,64.570851 q -0.02945,-0.0505 -0.04838,-0.105712 h -0.0063 q 0.0084,0.05403 0.0084,0.231392 v 1.216866 h -0.176679 v -1.684348 h 0.229262 l 0.755094,1.321403 q 0.04732,0.08222 0.06099,0.112759 h 0.0042 q -0.01051,-0.07283 -0.01051,-0.247836 v -1.186326 h 0.176679 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.173.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3505" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 27.955473,65.845271 v -0.232567 q 0.03576,0.03524 0.08519,0.06343 0.05048,0.02818 0.105167,0.04816 0.05573,0.01879 0.111476,0.02937 0.05573,0.01057 0.103063,0.01057 0.163008,0 0.242934,-0.06695 0.08098,-0.06812 0.08098,-0.194981 0,-0.06812 -0.02735,-0.118633 -0.0263,-0.05051 -0.07362,-0.09162 -0.04732,-0.04228 -0.112528,-0.07988 -0.06415,-0.03876 -0.138819,-0.08105 -0.07888,-0.04463 -0.147234,-0.09044 -0.06836,-0.04581 -0.118838,-0.101011 -0.05048,-0.05521 -0.07993,-0.124506 -0.0284,-0.07047 -0.0284,-0.164441 0,-0.115109 0.04522,-0.199678 0.04522,-0.08574 0.118838,-0.14095 0.07362,-0.05521 0.167214,-0.08222 0.09465,-0.02701 0.192455,-0.02701 0.222952,0 0.324964,0.0599 v 0.221996 q -0.133562,-0.103368 -0.342842,-0.103368 -0.05784,0 -0.115684,0.0141 -0.05784,0.01293 -0.103063,0.04346 -0.04522,0.03054 -0.07362,0.07869 -0.0284,0.04816 -0.0284,0.117457 0,0.0646 0.02104,0.111586 0.02209,0.04699 0.06415,0.08574 0.04207,0.03876 0.102011,0.07517 0.06099,0.03641 0.139871,0.07988 0.08098,0.04463 0.153543,0.09396 0.07257,0.04933 0.127251,0.109235 0.05468,0.0599 0.08624,0.132728 0.0326,0.07283 0.0326,0.16679 0,0.124506 -0.04417,0.211425 -0.04312,0.08574 -0.117787,0.139775 -0.07362,0.05403 -0.17037,0.07752 -0.09675,0.02467 -0.204022,0.02467 -0.03576,0 -0.08834,-0.0071 -0.05258,-0.0059 -0.107269,-0.01879 -0.05468,-0.01174 -0.104115,-0.02937 -0.04838,-0.01879 -0.07783,-0.04111 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.174.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3507" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 29.206951,65.939238 q -0.04838,0 -0.08308,-0.03877 -0.03365,-0.03876 -0.03365,-0.09279 0,-0.05403 0.03365,-0.09279 0.03471,-0.03994 0.08308,-0.03994 0.04943,0 0.08413,0.03994 0.03471,0.03876 0.03471,0.09279 0,0.05402 -0.03471,0.09279 -0.03471,0.03877 -0.08413,0.03877 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.175.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3509" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 30.294371,64.229049 -0.723544,1.963899 h -0.160905 l 0.721441,-1.963899 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.176.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3511" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 31.353396,65.064175 q 0,0.211424 -0.03471,0.374691 -0.03366,0.163267 -0.09886,0.276027 -0.06415,0.111585 -0.158801,0.170315 -0.0936,0.05755 -0.213487,0.05755 -0.11358,0 -0.202971,-0.05521 -0.08834,-0.05638 -0.149336,-0.163267 -0.06099,-0.106886 -0.09255,-0.261931 -0.03155,-0.15622 -0.03155,-0.357073 0,-0.220821 0.0326,-0.389961 0.03365,-0.169139 0.0978,-0.283073 0.06415,-0.11511 0.158801,-0.172663 0.0957,-0.05873 0.218746,-0.05873 0.4743,0 0.4743,0.863317 z m -0.17668,0.01879 q 0,-0.718843 -0.306034,-0.718843 -0.32286,0 -0.32286,0.731764 0,0.682431 0.316551,0.682431 0.312343,0 0.312343,-0.695352 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.177.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3513" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 31.676256,65.939238 q -0.04837,0 -0.08308,-0.03877 -0.03366,-0.03876 -0.03366,-0.09279 0,-0.05403 0.03366,-0.09279 0.03471,-0.03994 0.08308,-0.03994 0.04943,0 0.08413,0.03994 0.03471,0.03876 0.03471,0.09279 0,0.05402 -0.03471,0.09279 -0.03471,0.03877 -0.08413,0.03877 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.178.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3515" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 32.910907,65.436518 q 0,0.113934 -0.03891,0.2079 -0.03786,0.09279 -0.10832,0.159743 -0.06941,0.06578 -0.167215,0.102184 -0.09781,0.03641 -0.215591,0.03641 -0.21559,0 -0.342842,-0.09162 v -0.206724 q 0.152491,0.133902 0.349152,0.133902 0.07888,0 0.141974,-0.02232 0.06416,-0.02232 0.109373,-0.0646 0.04627,-0.04228 0.07047,-0.102184 0.02524,-0.0599 0.02524,-0.135077 0,-0.330057 -0.420666,-0.330057 h -0.125147 v -0.163267 h 0.118838 q 0.372288,0 0.372288,-0.31009 0,-0.286598 -0.283949,-0.286598 -0.159852,0 -0.299723,0.119808 v -0.186759 q 0.144078,-0.09632 0.342842,-0.09632 0.09465,0 0.171421,0.02937 0.07677,0.02937 0.131458,0.08222 0.05468,0.05285 0.08413,0.126854 0.0305,0.074 0.0305,0.163267 0,0.332406 -0.300775,0.427548 v 0.0047 q 0.07677,0.0094 0.141974,0.04228 0.0652,0.03171 0.112527,0.08339 0.04733,0.05168 0.07362,0.122156 0.02735,0.0693 0.02735,0.153871 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.179.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3517" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 34.434767,65.913397 h -0.195609 l -0.159853,-0.472182 h -0.639411 l -0.150388,0.472182 h -0.196661 l 0.578415,-1.684348 h 0.182989 z M 34.021463,65.263854 33.78484,64.546185 q -0.01157,-0.03524 -0.02314,-0.11276 h -0.0042 q -0.01051,0.07165 -0.02419,0.11276 l -0.23452,0.717669 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.180.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3519" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 13.906308,62.397177 q 0,0.12333 -0.03576,0.226694 -0.03576,0.103368 -0.09886,0.178536 -0.0631,0.07517 -0.150387,0.117459 -0.08729,0.04111 -0.1893,0.04111 -0.11358,0 -0.204023,-0.05285 -0.08939,-0.05285 -0.152491,-0.15152 -0.06204,-0.09984 -0.09465,-0.243138 -0.0326,-0.1433 -0.0326,-0.323011 0,-0.219646 0.04312,-0.398183 0.04417,-0.17971 0.124096,-0.306565 0.08098,-0.128029 0.194558,-0.197329 0.113579,-0.0693 0.25345,-0.0693 0.155646,0 0.250296,0.04816 v 0.18206 q -0.116735,-0.06695 -0.246089,-0.06695 -0.10096,0 -0.181937,0.05051 -0.08098,0.05051 -0.13882,0.143298 -0.05784,0.09162 -0.08939,0.221997 -0.0305,0.130378 -0.0305,0.29012 h 0.0042 q 0.104115,-0.21025 0.343894,-0.21025 0.09886,0 0.177731,0.03759 0.07993,0.03759 0.135665,0.106888 0.05679,0.06812 0.08729,0.163266 0.0305,0.09514 0.0305,0.211425 z m -0.176679,0.02467 q 0,-0.0881 -0.01998,-0.158569 -0.01999,-0.07047 -0.05784,-0.119807 -0.03681,-0.04933 -0.09149,-0.07517 -0.05468,-0.02701 -0.124097,-0.02701 -0.06415,0 -0.118837,0.02701 -0.05468,0.02701 -0.09465,0.074 -0.03996,0.04581 -0.0631,0.108061 -0.02208,0.06107 -0.02208,0.130379 0,0.08692 0.02208,0.163266 0.02209,0.07517 0.06204,0.131553 0.03996,0.05638 0.09465,0.08927 0.05574,0.03171 0.123044,0.03171 0.0652,0 0.118838,-0.02701 0.05363,-0.02819 0.09149,-0.07752 0.03786,-0.04933 0.05889,-0.117458 0.02103,-0.0693 0.02103,-0.152695 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.181.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3446" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 14.989521,62.931611 h -0.799263 v -1.684349 h 0.76561 v 0.178536 h -0.588931 v 0.560275 h 0.544761 v 0.177362 h -0.544761 v 0.589639 h 0.622584 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.182.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3448" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 15.27978,62.931611 v -1.684349 h 0.416458 q 0.797161,0 0.797161,0.821032 0,0.389961 -0.221901,0.627227 -0.220849,0.23609 -0.592085,0.23609 z m 0.17668,-1.505813 v 1.327276 h 0.225055 q 0.296569,0 0.461681,-0.177361 0.16511,-0.177362 0.16511,-0.50272 0,-0.647195 -0.616274,-0.647195 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.183.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3450" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 17.35366,62.931611 h -0.172473 v -1.455306 q -0.01999,0.02232 -0.05889,0.05168 -0.03786,0.02819 -0.08624,0.05638 -0.04733,0.0282 -0.10096,0.05285 -0.05258,0.02467 -0.103063,0.03876 v -0.194974 q 0.05679,-0.01762 0.11989,-0.04699 0.06415,-0.03054 0.125147,-0.06695 0.06204,-0.03759 0.116735,-0.07752 0.05468,-0.04111 0.09465,-0.07988 h 0.06521 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.184.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3452" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 19.414919,62.082389 q 0,0.211425 -0.03471,0.374691 -0.03366,0.163267 -0.09886,0.276027 -0.06415,0.111584 -0.158801,0.170314 -0.0936,0.05756 -0.213487,0.05756 -0.11358,0 -0.202971,-0.05521 -0.08834,-0.05638 -0.149336,-0.163265 -0.06099,-0.106888 -0.09255,-0.261932 -0.03155,-0.156219 -0.03155,-0.357073 0,-0.220821 0.0326,-0.389961 0.03366,-0.169139 0.0978,-0.283074 0.06415,-0.115109 0.158801,-0.172663 0.0957,-0.05873 0.218745,-0.05873 0.474301,0 0.474301,0.863316 z m -0.17668,0.01879 q 0,-0.718844 -0.306034,-0.718844 -0.32286,0 -0.32286,0.731765 0,0.682431 0.316551,0.682431 0.312343,0 0.312343,-0.695352 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.185.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3454" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 20.522319,62.417144 q 0,0.123332 -0.03786,0.223171 -0.03786,0.09984 -0.108321,0.171489 -0.06941,0.07165 -0.168266,0.11041 -0.09886,0.03876 -0.219797,0.03876 -0.210333,0 -0.312344,-0.07047 v -0.204377 q 0.153543,0.11041 0.314447,0.11041 0.08203,0 0.147233,-0.02701 0.06625,-0.02701 0.112527,-0.07517 0.04627,-0.04816 0.07047,-0.116283 0.02524,-0.06812 0.02524,-0.149172 0,-0.164441 -0.09886,-0.257234 -0.09886,-0.09396 -0.287104,-0.09396 -0.0305,0 -0.06415,0.0012 -0.03366,0.0012 -0.06731,0.0035 -0.03366,0.0012 -0.06626,0.0035 -0.03155,0.0023 -0.05784,0.0059 l 0.05153,-0.844524 h 0.697252 v 0.173837 H 19.90499 l -0.0305,0.494499 q 0.03366,-0.0023 0.07152,-0.0035 0.03786,-0.0023 0.06731,-0.0023 0.11989,0 0.21454,0.03523 0.09465,0.03524 0.159852,0.101012 0.06625,0.0646 0.09991,0.159743 0.03471,0.09396 0.03471,0.211424 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.186.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3456" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 21.683355,62.417144 q 0,0.123332 -0.03786,0.223171 -0.03786,0.09984 -0.108322,0.171489 -0.06941,0.07165 -0.168265,0.11041 -0.09886,0.03876 -0.219798,0.03876 -0.210333,0 -0.312344,-0.07047 v -0.204377 q 0.153543,0.11041 0.314448,0.11041 0.08203,0 0.147232,-0.02701 0.06626,-0.02701 0.112529,-0.07517 0.04627,-0.04816 0.07046,-0.116283 0.02524,-0.06812 0.02524,-0.149172 0,-0.164441 -0.09886,-0.257234 -0.09886,-0.09396 -0.287103,-0.09396 -0.0305,0 -0.06415,0.0012 -0.03366,0.0012 -0.06731,0.0035 -0.03366,0.0012 -0.06625,0.0035 -0.03155,0.0023 -0.05784,0.0059 l 0.05153,-0.844524 h 0.697252 v 0.173837 h -0.547917 l -0.0305,0.494499 q 0.03366,-0.0023 0.07152,-0.0035 0.03786,-0.0023 0.0673,-0.0023 0.11989,0 0.21454,0.03523 0.09465,0.03524 0.159852,0.101012 0.06626,0.0646 0.09991,0.159743 0.03471,0.09396 0.03471,0.211424 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.187.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3458" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 22.550977,62.337273 h -0.574208 v -0.15152 h 0.574208 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.188.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3460" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 23.449097,62.931611 h -0.172473 v -1.455306 q -0.01998,0.02232 -0.05889,0.05168 -0.03786,0.02819 -0.08624,0.05638 -0.04732,0.0282 -0.100959,0.05285 -0.05258,0.02467 -0.103064,0.03876 v -0.194974 q 0.05679,-0.01762 0.11989,-0.04699 0.06415,-0.03054 0.125148,-0.06695 0.06204,-0.03759 0.116734,-0.07752 0.05468,-0.04111 0.09465,-0.07988 h 0.0652 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.189.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3462" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 25.072864,62.861136 q -0.167215,0.09867 -0.416459,0.09867 -0.321809,0 -0.515315,-0.231393 -0.193505,-0.231392 -0.193505,-0.607258 0,-0.404056 0.217694,-0.653067 0.217694,-0.24901 0.552123,-0.24901 0.214539,0 0.355462,0.0693 v 0.210249 q -0.161956,-0.101012 -0.357565,-0.101012 -0.259761,0 -0.421717,0.193806 -0.160904,0.193806 -0.160904,0.51799 0,0.30774 0.150387,0.490975 0.151439,0.18206 0.396477,0.18206 0.227159,0 0.393322,-0.11276 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.190.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3464" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 25.37995,62.931611 v -1.684349 h 0.429078 q 0.195609,0 0.310241,0.106887 0.114631,0.106887 0.114631,0.278376 0,0.143299 -0.06941,0.249011 -0.06941,0.105712 -0.191403,0.150346 v 0.0046 q 0.152491,0.01996 0.243985,0.129203 0.09149,0.108062 0.09149,0.2819 0,0.216123 -0.138819,0.350025 -0.13882,0.133902 -0.350204,0.133902 z m 0.17668,-1.505813 v 0.543831 h 0.180886 q 0.145129,0 0.228211,-0.07752 0.08308,-0.07869 0.08308,-0.220821 0,-0.245488 -0.289207,-0.245488 z m 0,0.721193 v 0.606083 h 0.239778 q 0.155647,0 0.240831,-0.08222 0.08624,-0.08222 0.08624,-0.22552 0,-0.298343 -0.363874,-0.298343 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.191.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3466" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 27.491689,62.082389 q 0,0.211425 -0.03471,0.374691 -0.03366,0.163267 -0.09886,0.276027 -0.06415,0.111584 -0.158801,0.170314 -0.0936,0.05756 -0.213488,0.05756 -0.113579,0 -0.202971,-0.05521 -0.08834,-0.05638 -0.149336,-0.163265 -0.06099,-0.106888 -0.09255,-0.261932 -0.03155,-0.156219 -0.03155,-0.357073 0,-0.220821 0.0326,-0.389961 0.03365,-0.169139 0.0978,-0.283074 0.06415,-0.115109 0.158801,-0.172663 0.0957,-0.05873 0.218747,-0.05873 0.474299,0 0.474299,0.863316 z m -0.176679,0.01879 q 0,-0.718844 -0.306035,-0.718844 -0.32286,0 -0.32286,0.731765 0,0.682431 0.316551,0.682431 0.312344,0 0.312344,-0.695352 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.192.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3468" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 28.652724,62.082389 q 0,0.211425 -0.03471,0.374691 -0.03366,0.163267 -0.09886,0.276027 -0.06415,0.111584 -0.158801,0.170314 -0.0936,0.05756 -0.213488,0.05756 -0.113579,0 -0.20297,-0.05521 -0.08834,-0.05638 -0.149337,-0.163265 -0.06099,-0.106888 -0.09255,-0.261932 -0.03155,-0.156219 -0.03155,-0.357073 0,-0.220821 0.0326,-0.389961 0.03366,-0.169139 0.0978,-0.283074 0.06415,-0.115109 0.158801,-0.172663 0.0957,-0.05873 0.218745,-0.05873 0.4743,0 0.4743,0.863316 z m -0.176679,0.01879 q 0,-0.718844 -0.306034,-0.718844 -0.32286,0 -0.32286,0.731765 0,0.682431 0.31655,0.682431 0.312344,0 0.312344,-0.695352 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.193.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3470" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 29.466711,62.337273 h -0.574207 v -0.15152 h 0.574207 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.194.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3472" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 30.676123,62.082389 q 0,0.211425 -0.03471,0.374691 -0.03366,0.163267 -0.09886,0.276027 -0.06415,0.111584 -0.158801,0.170314 -0.0936,0.05756 -0.213488,0.05756 -0.113579,0 -0.202971,-0.05521 -0.08834,-0.05638 -0.149337,-0.163265 -0.06099,-0.106888 -0.09254,-0.261932 -0.03155,-0.156219 -0.03155,-0.357073 0,-0.220821 0.03261,-0.389961 0.03365,-0.169139 0.0978,-0.283074 0.06415,-0.115109 0.158801,-0.172663 0.0957,-0.05873 0.218746,-0.05873 0.474299,0 0.474299,0.863316 z m -0.176679,0.01879 q 0,-0.718844 -0.306034,-0.718844 -0.32286,0 -0.32286,0.731765 0,0.682431 0.31655,0.682431 0.312344,0 0.312344,-0.695352 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.195.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3474" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 30.962176,62.931611 v -1.684349 h 0.429078 q 0.19561,0 0.310241,0.106887 0.114632,0.106887 0.114632,0.278376 0,0.143299 -0.06941,0.249011 -0.06941,0.105712 -0.191404,0.150346 v 0.0046 q 0.152492,0.01996 0.243987,0.129203 0.09149,0.108062 0.09149,0.2819 0,0.216123 -0.13882,0.350025 -0.138819,0.133902 -0.350203,0.133902 z m 0.17668,-1.505813 v 0.543831 h 0.180885 q 0.14513,0 0.228212,-0.07752 0.08308,-0.07869 0.08308,-0.220821 0,-0.245488 -0.289208,-0.245488 z m 0,0.721193 v 0.606083 h 0.239778 q 0.155647,0 0.240831,-0.08222 0.08624,-0.08222 0.08624,-0.22552 0,-0.298343 -0.363875,-0.298343 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.196.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3476" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 33.366277,62.931611 h -0.19561 l -0.159853,-0.472182 h -0.639411 l -0.150387,0.472182 h -0.196662 l 0.578415,-1.684349 h 0.182989 z m -0.413304,-0.649544 -0.236625,-0.717668 q -0.01157,-0.03524 -0.02313,-0.11276 h -0.0042 q -0.01051,0.07165 -0.02419,0.11276 l -0.234521,0.717668 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.197.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3478" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <g >
+                    <path  fill="#ffffff" d="m 34.201298,61.688904 q 0,-0.07752 -0.02208,-0.135077 -0.02103,-0.05755 -0.05889,-0.09513 -0.03681,-0.03876 -0.08729,-0.05756 -0.05048,-0.01879 -0.109373,-0.01879 -0.05048,0 -0.09886,0.01527 -0.04838,0.01527 -0.09465,0.04228 -0.04522,0.02701 -0.08834,0.0646 -0.04207,0.03758 -0.07888,0.08339 v -0.206726 q 0.07257,-0.07869 0.161956,-0.119807 0.09044,-0.04228 0.219798,-0.04228 0.09255,0 0.171421,0.03054 0.07888,0.02937 0.136716,0.08692 0.05784,0.05755 0.09044,0.142124 0.03365,0.08457 0.03365,0.193806 0,0.09984 -0.02103,0.180885 -0.01998,0.08105 -0.06204,0.152697 -0.04102,0.07165 -0.104115,0.137425 -0.0631,0.06578 -0.148285,0.133903 -0.106218,0.08457 -0.175627,0.144473 -0.06836,0.0599 -0.109373,0.112759 -0.03996,0.05168 -0.05679,0.104541 -0.01577,0.05168 -0.01577,0.119807 h 0.750888 v 0.172664 h -0.930722 v -0.08339 q 0,-0.108061 0.02103,-0.190282 0.02103,-0.08222 0.06941,-0.156219 0.04837,-0.074 0.1262,-0.147998 0.07888,-0.074 0.192454,-0.16679 0.08203,-0.06578 0.136717,-0.12568 0.05573,-0.0599 0.08939,-0.119808 0.03365,-0.0599 0.04732,-0.120981 0.01472,-0.06226 0.01472,-0.131554 z" font-size="0.642393" stroke-opacity="1" gorn="0.1.198.0.0.0" stroke-width="0.0481795" fill-opacity="1" id="path3480" stroke="none" style="stroke-linejoin:miter;-inkscape-font-specification:'Droid Sans, Normal';font-variant-numeric:normal;font-variant:normal;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;font-variant-caps:normal;text-align:start;font-style:normal;font-variant-ligatures:normal;font-family:Droid Sans;writing-mode:lr-tb;text-anchor:start;font-stretch:normal;font-feature-settings:normal;font-weight:normal;line-height:125%"/>
+                </g>
+            </g>
+        </g>
+        <path  fill="#ffffff" d="M 1.1891624,10.526851 H 1.0166884 V 9.0328845 q -0.01999,0.022915 -0.05893,0.053057 -0.03782,0.028943 -0.0862,0.057875 -0.04735,0.028943 -0.100955,0.054256 -0.05258,0.025324 -0.103066,0.03979 V 9.0377019 q 0.05678,-0.018085 0.119895,-0.048228 0.06416,-0.031352 0.125143,-0.068733 0.06201,-0.03858 0.11673804,-0.07958 0.05463,-0.042199 0.09465,-0.081989 h 0.06519 z" font-size="0.65087" stroke-opacity="1" gorn="0.1.199" stroke-width="0.069736" fill-opacity="1" id="path1524" stroke="none" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;stroke-linecap:butt;stroke-linejoin:miter;"/>
+    </g>
+</svg>

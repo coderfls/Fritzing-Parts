@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" id="svg8" gorn="0"  viewBox="0 0 78.120003 30" height="30mm" width="78.120003mm" version="1.1">
+    <desc >
+        <referenceFile >fs-motor_135484.svg</referenceFile>
+    </desc>
+    <g id="breadboard" gorn="0.1" >
+        <metadata id="metadata27" />
+        <defs id="defs25" >
+            <defs id="defs2" />
+        </defs>
+        <g  transform="translate(-26.019999,-109.04)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g id="layer1" gorn="0.1.2.0.0.0.0.0.0" >
+                                    <rect id="rect829" ry="0.16243325" stroke-opacity="1" gorn="0.1.2.0.0.0.0.0.0.0" style="opacity:1;fill-rule:nonzero;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill" stroke-width="3.10862756" fill-opacity="1"  fill="#aa0000" x="91.440002" stroke="none" y="109.04" height="30" width="12.7"/>
+                                    <rect id="rect817" ry="0.19713956" stroke-opacity="1" gorn="0.1.2.0.0.0.0.0.0.1" style="opacity:1;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill" stroke-width="0.40000001" fill-opacity="1"  fill="#d40000" x="33.02" stroke="none" y="109.04" height="30" width="60"/>
+                                    <rect id="rect819" ry="0" stroke-opacity="1" gorn="0.1.2.0.0.0.0.0.0.2" style="opacity:1;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill" stroke-width="0.35067472" fill-opacity="1"  fill="#b3b3b3" x="26.019999" stroke="none" y="122.04" height="4" width="7"/>
+                                    <g  transform="matrix(1.0282748,0,0,1,-1.0054532,10.04)">
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <path id="path821" stroke-opacity="1" gorn="0.1.2.0.0.0.0.0.0.3.0.0.0.0.0.0" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="3"  fill="#aa0000" stroke="#800000" d="m 35.56,106.5 c 18.626666,0 37.253333,0 55.879999,0"/>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g  transform="matrix(1.0282749,0,0,1,-1.0054555,25.04)">
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <path id="path825" stroke-opacity="1" gorn="0.1.2.0.0.0.0.0.0.4.0.0.0.0.0.0" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="3"  fill="#aa0000" stroke="#800000" d="m 35.56,106.5 c 18.626666,0 37.253333,0 55.879999,0"/>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <circle id="connector6pin" stroke-opacity="1" gorn="0.1.2.0.0.0.0.0.0.5" r="1.25" style="opacity:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke" stroke-width="0.15000001" fill-opacity="0.97427655"  cx="101.3504" fill="#1a1a1a" stroke="#b3b3b3" cy="113.47903"/>
+                                    <circle id="connector7pin" stroke-opacity="1" gorn="0.1.2.0.0.0.0.0.0.6" r="1.25" style="opacity:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke" stroke-width="0.15000001" fill-opacity="0.97427655"  cx="101.3504" fill="#1a1a1a" stroke="#b3b3b3" cy="134.60097"/>
+                                    <path id="path856" stroke-opacity="1" gorn="0.1.2.0.0.0.0.0.0.7" style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;" stroke-width="0.0382009" fill-opacity="1"  fill="#470000" stroke="none" d="m 99.053619,120.23154 h 3.990251 v 7.61693 h -3.990251 v -1.26949 h 1.330091 v -5.07795 h -1.330091 z"/>
+                                    <path id="connector3pin" stroke-opacity="1" gorn="0.1.2.0.0.0.0.0.0.8" style="fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0.69999999"  fill="#808080" stroke="#999999" d="m 101.40373,121.3854 h 0.55146"/>
+                                    <path id="connector4pin" stroke-opacity="1" gorn="0.1.2.0.0.0.0.0.0.9" style="fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0.69999999"  fill="#808080" stroke="#999999" d="m 101.40373,124.04001 h 0.55146"/>
+                                    <path id="connector5pin" stroke-opacity="1" gorn="0.1.2.0.0.0.0.0.0.10" style="fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0.69999999"  fill="#808080" stroke="#999999" d="m 101.40373,126.69462 h 0.55146"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

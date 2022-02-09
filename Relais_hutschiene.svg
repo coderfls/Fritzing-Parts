@@ -1,0 +1,249 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" width="6.0000005mm" height="91.439995mm" id="svg8"  version="1.1" viewBox="0 0 6.0000005 91.439995" gorn="0">
+    <desc >
+        <referenceFile >rf-0-bpt-21_2_.svg</referenceFile>
+    </desc>
+    <g id="breadboard"  gorn="0.1">
+        <metadata id="metadata61" />
+        <defs id="defs59" />
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <defs id="defs2"  style=""/>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,0.000000)">
+            <g >
+                <metadata id="metadata5"  style="">
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" rdf:about="">
+                            <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                            <dc:type xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                            <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+                        </cc:Work>
+                    </rdf:RDF>
+                </metadata>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,-76.199996,-27.760000)">
+            <g >
+                <rect width="5.999999" fill="#a2a2a2" height="91.439995" stroke="#ffffff" y="27.76" id="rect4518"  stroke-opacity="1" style="opacity:1;stroke-linejoin:miter;fill-rule:nonzero;paint-order:fill markers stroke;stroke-dashoffset:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0" fill-opacity="1" x="76.199997" gorn="0.1.4.0.0"/>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,-76.199996,-27.760000)">
+            <g >
+                <rect width="5" fill="#f2f2f2" height="27.9" stroke="none" y="63.299999" id="rect4522"  stroke-opacity="1" style="opacity:1;stroke-linejoin:miter;fill-rule:nonzero;paint-order:fill markers stroke;stroke-dashoffset:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0" fill-opacity="1" x="76.699997" gorn="0.1.5.0.0"/>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,-76.199996,-27.760000)">
+            <g >
+                <circle r="1.5" fill="#ffd807" stroke="none" id="path4530"  stroke-opacity="1" cy="96.455208" style="opacity:1;stroke-linejoin:miter;fill-rule:nonzero;paint-order:fill markers stroke;stroke-dashoffset:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0" fill-opacity="1" cx="79.199997" gorn="0.1.6.0.0"/>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,-76.199996,-25.040000)">
+            <g >
+                <rect width="6" fill="#ff880a" height="12.4" stroke="none" id="rect4532" y="52.040001"  stroke-opacity="1" style="opacity:1;stroke-linejoin:miter;fill-rule:nonzero;paint-order:fill markers stroke;stroke-dashoffset:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0" fill-opacity="1" x="76.199997" gorn="0.1.7.0.0"/>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,-76.199996,-25.040000)">
+            <g >
+                <path fill="none" stroke="#dc7100" id="path4536"  stroke-opacity="1" style="stroke-linejoin:miter;fill-rule:evenodd;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="1" d="m 76.199997,54.743844 c 5.999999,0 5.999999,0 5.999999,0" gorn="0.1.8.0.0"/>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,-76.199996,-25.040000)">
+            <g >
+                <path fill="none" stroke="#dc7100" id="path4538"  stroke-opacity="1" style="stroke-linejoin:miter;fill-rule:evenodd;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="1" d="m 76.199997,56.514505 c 5.999999,0 5.999999,0 5.999999,0" gorn="0.1.9.0.0"/>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,-76.199996,-25.040000)">
+            <g >
+                <path fill="none" stroke="#dc7100" id="path4540"  stroke-opacity="1" style="stroke-linejoin:miter;fill-rule:evenodd;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="1.60000002" d="m 76.199997,62.499999 c 5.999999,0 5.999999,0 5.999999,0" gorn="0.1.10.0.0"/>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,-76.199996,-27.760000)">
+            <g >
+                <path fill="#808080" stroke="#808080" id="path4542"  stroke-opacity="1" style="stroke-linejoin:miter;stroke-linecap:butt;fill-rule:evenodd;stroke-miterlimit:4;stroke-dasharray:none" stroke-width="0.26458333" d="m 76.199998,110.33229 c 5.999999,0 5.999999,0 5.999999,0" gorn="0.1.11.0.0"/>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,-76.199996,-27.760000)">
+            <g >
+                <path fill="#808080" stroke="#808080" id="path4546"  stroke-opacity="1" style="stroke-linejoin:miter;stroke-linecap:butt;fill-rule:evenodd;stroke-miterlimit:4;stroke-dasharray:none" stroke-width="0.26458333" d="m 76.199998,101.33229 c 5.999999,0 5.999999,0 5.999999,0" gorn="0.1.12.0.0"/>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,-76.199996,-27.760000)">
+            <g >
+                <path fill="#808080" stroke="#808080" id="path4548"  stroke-opacity="1" style="stroke-linejoin:miter;stroke-linecap:butt;fill-rule:evenodd;stroke-miterlimit:4;stroke-dasharray:none" stroke-width="0.396875" d="m 76.199998,36.892292 c 5.999999,0 5.999999,0 5.999999,0" gorn="0.1.13.0.0"/>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,-76.199996,-27.760000)">
+            <g >
+                <path fill="#808080" stroke="#808080" id="path4550"  stroke-opacity="1" style="stroke-linejoin:miter;stroke-linecap:butt;fill-rule:evenodd;stroke-miterlimit:4;stroke-dasharray:none" stroke-width="0.396875" d="m 76.199998,45.892292 c 5.999999,0 5.999999,0 5.999999,0" gorn="0.1.14.0.0"/>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,-84.893448,-30.179048)">
+            <g >
+                <rect width="4.1999989" fill="#ff880a" height="2.1999989" stroke="#808080" id="rect4558" y="54.733364"  stroke-opacity="1" style="opacity:1;stroke-linejoin:miter;fill-rule:nonzero;paint-order:fill markers stroke;stroke-dashoffset:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0" fill-opacity="1" x="85.793449" gorn="0.1.15.0.0"/>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,-84.893448,-30.179048)">
+            <g >
+                <path fill="none" stroke="#dc7100" id="path4560"  stroke-opacity="1" style="stroke-linejoin:miter;stroke-linecap:butt;fill-rule:evenodd;stroke-miterlimit:4;stroke-dasharray:none" stroke-width="0.396875" d="m 85.793449,55.851189 h 4.199999" gorn="0.1.16.0.0"/>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,-84.893447,-39.200635)">
+            <g >
+                <rect width="4.1999989" fill="#ff880a" height="2.1999989" stroke="#808080" y="54.733364" id="rect4566"  stroke-opacity="1" style="opacity:1;stroke-linejoin:miter;fill-rule:nonzero;paint-order:fill markers stroke;stroke-dashoffset:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0" fill-opacity="1" x="85.793449" gorn="0.1.17.0.0"/>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,-84.893447,-39.200635)">
+            <g >
+                <path fill="none" stroke="#dc7100" id="path4568"  stroke-opacity="1" style="stroke-linejoin:miter;stroke-linecap:butt;fill-rule:evenodd;stroke-miterlimit:4;stroke-dasharray:none" stroke-width="0.396875" d="m 85.793449,55.851189 h 4.199999" gorn="0.1.18.0.0"/>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,-84.893447,-48.200635)">
+            <g >
+                <rect width="4.1999989" fill="#ff880a" height="2.1999989" stroke="#808080" id="rect4572" y="54.733364"  stroke-opacity="1" style="opacity:1;stroke-linejoin:miter;fill-rule:nonzero;paint-order:fill markers stroke;stroke-dashoffset:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0" fill-opacity="1" x="85.793449" gorn="0.1.19.0.0"/>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,-84.893447,-48.200635)">
+            <g >
+                <path fill="none" stroke="#dc7100" id="path4574"  stroke-opacity="1" style="stroke-linejoin:miter;stroke-linecap:butt;fill-rule:evenodd;stroke-miterlimit:4;stroke-dasharray:none" stroke-width="0.396875" d="m 85.793449,55.851189 h 4.199999" gorn="0.1.20.0.0"/>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,-84.893447,19.238490)">
+            <g >
+                <rect width="4.1999989" fill="#ff880a" height="2.1999989" stroke="#808080" id="rect4584" y="54.733364"  stroke-opacity="1" style="opacity:1;stroke-linejoin:miter;fill-rule:nonzero;paint-order:fill markers stroke;stroke-dashoffset:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0" fill-opacity="1" x="85.793449" gorn="0.1.21.0.0"/>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,-84.893447,19.238490)">
+            <g >
+                <path fill="none" stroke="#dc7100" id="path4586"  stroke-opacity="1" style="stroke-linejoin:miter;stroke-linecap:butt;fill-rule:evenodd;stroke-miterlimit:4;stroke-dasharray:none" stroke-width="0.396875" d="m 85.793449,55.851189 h 4.199999" gorn="0.1.22.0.0"/>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,-76.199996,-27.760000)">
+            <g >
+                <circle r="2.0749991" fill="#000000" stroke="#dc7100" id="path4590"  stroke-opacity="1" cy="50.003071" style="opacity:1;stroke-linejoin:miter;fill-rule:nonzero;paint-order:fill markers stroke;stroke-dashoffset:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0" fill-opacity="1" cx="79.199997" gorn="0.1.23.0.0"/>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,-76.199996,-27.760000)">
+            <g >
+                <path fill="#1a1a1a" stroke="#dc7100" id="circle4592"  stroke-opacity="1" style="opacity:1;stroke-linejoin:miter;fill-rule:nonzero;paint-order:fill markers stroke;stroke-dashoffset:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0" fill-opacity="1" d="m 78.68971,46.78523 c 0.110532,0.48461 -0.09358,0.732443 -1.15732,1.204044 -0.454402,0.201453 -0.96707,-0.192714 -1.077604,-0.677324 -0.110534,-0.48461 0.182041,-1.035683 0.677326,-1.077604 1.182402,-0.10008 1.447064,0.06627 1.557598,0.550884 z" gorn="0.1.24.0.0"/>
+            </g>
+        </g>
+        <g  transform="translate(-76.199996,-27.76)">
+            <g >
+                <g fill="#000000" stroke="none" id="text4617"  stroke-opacity="1" aria-label="12" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;stroke-linecap:butt;stroke-linejoin:miter;" stroke-width="0.0746713" fill-opacity="1" gorn="0.1.25.0.0" font-size="0.59737">
+                    <path id="path882"  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;" stroke-width="0.0746713" d="m 79.867008,47.79789 v -0.148167 h 0.3683 v -1.17475 l -0.364067,0.237067 -0.07197,-0.116417 0.4191,-0.275167 h 0.186267 v 1.329267 h 0.338667 v 0.148167 z" gorn="0.1.25.0.0.0" font-size="0.59737"/>
+                    <path id="path884"  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;" stroke-width="0.0746713" d="M 81.858923,47.79789 H 80.980506 V 47.622206 L 81.42924,47.15654 q 0.10795,-0.110067 0.154516,-0.2032 0.04868,-0.09525 0.04868,-0.188384 v -0.05503 q 0,-0.264583 -0.230717,-0.264583 -0.1143,0 -0.18415,0.05927 -0.06773,0.05927 -0.09525,0.167217 l -0.148167,-0.05927 q 0.02117,-0.06773 0.05927,-0.124883 0.0381,-0.05927 0.09102,-0.1016 0.05503,-0.04233 0.124883,-0.06562 0.06985,-0.0254 0.156633,-0.0254 0.207434,0 0.3048,0.10795 0.09948,0.105834 0.09948,0.313267 0,0.07197 -0.0127,0.135467 -0.0127,0.06138 -0.04445,0.124883 -0.03175,0.06138 -0.08678,0.131233 -0.05292,0.06773 -0.135466,0.154517 l -0.3683,0.38735 h 0.696383 z" gorn="0.1.25.0.0.1" font-size="0.59737"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,-76.199996,-27.760000)">
+            <g >
+                <circle r="2.0749991" fill="#000000" stroke="#dc7100" id="circle4639"  stroke-opacity="1" cy="40.981483" style="opacity:1;stroke-linejoin:miter;fill-rule:nonzero;paint-order:fill markers stroke;stroke-dashoffset:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0" fill-opacity="1" cx="79.200005" gorn="0.1.26.0.0"/>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,-76.199996,-27.760000)">
+            <g >
+                <path fill="#1a1a1a" stroke="#dc7100" id="path4641"  stroke-opacity="1" style="opacity:1;stroke-linejoin:miter;fill-rule:nonzero;paint-order:fill markers stroke;stroke-dashoffset:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0" fill-opacity="1" d="m 78.689711,37.763642 c 0.110532,0.48461 -0.09358,0.732443 -1.15732,1.204044 -0.454402,0.201453 -0.96707,-0.192714 -1.077604,-0.677324 -0.110534,-0.48461 0.182041,-1.035683 0.677326,-1.077604 1.182402,-0.10008 1.447064,0.06627 1.557598,0.550884 z" gorn="0.1.27.0.0"/>
+            </g>
+        </g>
+        <g  transform="translate(-76.199996,-27.76)">
+            <g >
+                <g fill="#000000" stroke="none" id="text4645"  stroke-opacity="1" aria-label="14" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;stroke-linecap:butt;stroke-linejoin:miter;" stroke-width="0.0746713" fill-opacity="1" gorn="0.1.28.0.0" font-size="0.59737">
+                    <path id="path877"  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;" stroke-width="0.0746713" d="m 79.867015,38.776302 v -0.148166 h 0.3683 v -1.17475 l -0.364066,0.237066 -0.07197,-0.116416 0.4191,-0.275167 h 0.186267 v 1.329267 h 0.338666 v 0.148166 z" gorn="0.1.28.0.0.0" font-size="0.59737"/>
+                    <path id="path879"  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;" stroke-width="0.0746713" d="m 81.549897,38.776302 v -0.289983 h -0.637116 v -0.150283 l 0.550333,-1.037167 h 0.24765 v 1.045633 h 0.1905 v 0.141817 h -0.1905 v 0.289983 z m -0.4826,-0.4318 h 0.4826 v -0.910166 h -0.02117 z" gorn="0.1.28.0.0.1" font-size="0.59737"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,-76.199996,-27.760000)">
+            <g >
+                <circle r="2.0749991" fill="#000000" stroke="#dc7100" id="circle4653"  stroke-opacity="1" cy="31.867018" style="opacity:1;stroke-linejoin:miter;fill-rule:nonzero;paint-order:fill markers stroke;stroke-dashoffset:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0" fill-opacity="1" cx="79.200005" gorn="0.1.29.0.0"/>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,-76.199996,-27.760000)">
+            <g >
+                <path fill="#1a1a1a" stroke="#dc7100" id="path4655"  stroke-opacity="1" style="opacity:1;stroke-linejoin:miter;fill-rule:nonzero;paint-order:fill markers stroke;stroke-dashoffset:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0" fill-opacity="1" d="m 78.689711,28.649176 c 0.110532,0.48461 -0.09358,0.732443 -1.15732,1.204044 -0.454402,0.201453 -0.96707,-0.192714 -1.077604,-0.677324 -0.110534,-0.48461 0.182041,-1.035683 0.677326,-1.077604 1.182402,-0.10008 1.447064,0.06627 1.557598,0.550884 z" gorn="0.1.30.0.0"/>
+            </g>
+        </g>
+        <g  transform="translate(-76.199996,-27.76)">
+            <g >
+                <g fill="#000000" stroke="none" id="text4659"  stroke-opacity="1" aria-label="11" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;stroke-linecap:butt;stroke-linejoin:miter;" stroke-width="0.0746713" fill-opacity="1" gorn="0.1.31.0.0" font-size="0.59737">
+                    <path id="path872"  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;" stroke-width="0.0746713" d="M 79.867015,29.661837 V 29.51367 h 0.3683 v -1.17475 l -0.364066,0.237067 -0.07197,-0.116417 0.4191,-0.275167 h 0.186267 v 1.329267 h 0.338666 v 0.148167 z" gorn="0.1.31.0.0.0" font-size="0.59737"/>
+                    <path id="path874"  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;" stroke-width="0.0746713" d="M 81.008031,29.661837 V 29.51367 h 0.3683 v -1.17475 l -0.364067,0.237067 -0.07197,-0.116417 0.4191,-0.275167 h 0.186267 v 1.329267 h 0.338667 v 0.148167 z" gorn="0.1.31.0.0.1" font-size="0.59737"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,-1.000000,-76.199996,-27.760000)">
+            <g >
+                <circle r="2.0749991" fill="#000000" stroke="#dc7100" id="circle4667"  stroke-opacity="1" cy="-106.27873" style="opacity:1;stroke-linejoin:miter;fill-rule:nonzero;paint-order:fill markers stroke;stroke-dashoffset:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0" fill-opacity="1" cx="79.199997" gorn="0.1.32.0.0"/>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,-76.199996,-27.760000)">
+            <g >
+                <path fill="#1a1a1a" stroke="#dc7100" id="path4669"  stroke-opacity="1" style="opacity:1;stroke-linejoin:miter;fill-rule:nonzero;paint-order:fill markers stroke;stroke-dashoffset:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0" fill-opacity="1" d="m 78.68971,109.49659 c 0.110532,-0.48461 -0.09358,-0.73244 -1.15732,-1.20404 -0.454402,-0.20146 -0.96707,0.19271 -1.077604,0.67732 -0.110534,0.48461 0.182041,1.03568 0.677326,1.0776 1.182402,0.10008 1.447064,-0.0663 1.557598,-0.55088 z" gorn="0.1.33.0.0"/>
+            </g>
+        </g>
+        <g  transform="translate(-76.199996,-27.76)">
+            <g >
+                <g fill="#000000" stroke="none" id="text4673"  stroke-opacity="1" aria-label="A1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;stroke-linecap:butt;stroke-linejoin:miter;" stroke-width="0.0746713" fill-opacity="1" gorn="0.1.34.0.0" font-size="0.59737">
+                    <path id="path867"  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;" stroke-width="0.0746713" d="m 80.707324,109.98676 -0.131233,-0.44238 h -0.531283 l -0.131234,0.44238 h -0.169333 l 0.461433,-1.47743 h 0.211667 l 0.46355,1.47743 z m -0.340783,-1.143 -0.04657,-0.18415 h -0.02117 l -0.04657,0.18415 -0.167217,0.56092 h 0.452967 z" gorn="0.1.34.0.0.0" font-size="0.59737"/>
+                    <path id="path869"  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;" stroke-width="0.0746713" d="m 81.090706,109.98676 v -0.14816 h 0.368299 v -1.17475 l -0.364066,0.23706 -0.07197,-0.11641 0.4191,-0.27517 h 0.186267 v 1.32927 h 0.338666 v 0.14816 z" gorn="0.1.34.0.0.1" font-size="0.59737"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,-1.000000,-84.893448,139.790750)">
+            <g >
+                <rect width="4.1999989" fill="#ff880a" height="2.1999989" stroke="#808080" id="rect4691" y="54.733364"  stroke-opacity="1" style="opacity:1;stroke-linejoin:miter;fill-rule:nonzero;paint-order:fill markers stroke;stroke-dashoffset:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0" fill-opacity="1" x="85.793449" gorn="0.1.35.0.0"/>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,-1.000000,-84.893448,139.790750)">
+            <g >
+                <path fill="none" stroke="#dc7100" id="path4693"  stroke-opacity="1" style="stroke-linejoin:miter;stroke-linecap:butt;fill-rule:evenodd;stroke-miterlimit:4;stroke-dasharray:none" stroke-width="0.396875" d="m 85.793449,55.851189 h 4.199999" gorn="0.1.36.0.0"/>
+            </g>
+        </g>
+        <g  transform="matrix(1,0,0,-1,-76.199996,-27.76)">
+            <g >
+                <circle r="2.0749991" fill="#000000" stroke="#dc7100" id="circle4697"  stroke-opacity="1" cy="-115.12862" style="display:inline;opacity:1;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke" stroke-width="0" fill-opacity="1" cx="79.199997" gorn="0.1.37.0.0"/>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,-76.199996,-27.760000)">
+            <g >
+                <path fill="#1a1a1a" stroke="#dc7100" id="path4699"  stroke-opacity="1" style="opacity:1;stroke-linejoin:miter;fill-rule:nonzero;paint-order:fill markers stroke;stroke-dashoffset:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0" fill-opacity="1" d="m 78.68971,118.34647 c 0.110532,-0.48461 -0.09358,-0.73244 -1.15732,-1.20404 -0.454402,-0.20146 -0.96707,0.19271 -1.077604,0.67732 -0.110534,0.48461 0.182041,1.03568 0.677326,1.0776 1.182402,0.10008 1.447064,-0.0663 1.557598,-0.55088 z" gorn="0.1.38.0.0"/>
+            </g>
+        </g>
+        <g  transform="translate(-76.199996,-27.76)">
+            <g >
+                <g fill="#000000" stroke="none" id="text4703"  stroke-opacity="1" aria-label="A2" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;line-height:125%;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;stroke-linecap:butt;stroke-linejoin:miter;" stroke-width="0.0746713" fill-opacity="1" gorn="0.1.39.0.0" font-size="0.59737">
+                    <path id="path862"  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;" stroke-width="0.0746713" d="m 80.707324,118.83665 -0.131233,-0.44239 h -0.531283 l -0.131234,0.44239 h -0.169333 l 0.461433,-1.47744 h 0.211667 l 0.46355,1.47744 z m -0.340783,-1.143 -0.04657,-0.18415 h -0.02117 l -0.04657,0.18415 -0.167217,0.56091 h 0.452967 z" gorn="0.1.39.0.0.0" font-size="0.59737"/>
+                    <path id="path864"  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;" stroke-width="0.0746713" d="m 81.941605,118.83665 h -0.878416 v -0.17569 l 0.448733,-0.46566 q 0.10795,-0.11007 0.154517,-0.2032 0.04868,-0.0952 0.04868,-0.18839 v -0.055 q 0,-0.26458 -0.230717,-0.26458 -0.1143,0 -0.184149,0.0593 -0.06773,0.0593 -0.09525,0.16722 l -0.148167,-0.0593 q 0.02117,-0.0677 0.05927,-0.12488 0.0381,-0.0593 0.09102,-0.1016 0.05503,-0.0423 0.124884,-0.0656 0.06985,-0.0254 0.156633,-0.0254 0.207433,0 0.3048,0.10795 0.09948,0.10584 0.09948,0.31327 0,0.072 -0.0127,0.13547 -0.0127,0.0614 -0.04445,0.12488 -0.03175,0.0614 -0.08678,0.13123 -0.05292,0.0677 -0.135467,0.15452 l -0.3683,0.38735 h 0.696383 z" gorn="0.1.39.0.0.1" font-size="0.59737"/>
+                </g>
+            </g>
+        </g>
+        <g  transform="translate(-76.199996,-27.76)">
+            <g >
+                <circle r="2.0749991" fill="none" stroke="none" id="connector3pin"  stroke-opacity="1" cy="31.867018" style="display:inline;opacity:1;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke" stroke-width="0" fill-opacity="1" cx="79.200005" gorn="0.1.40.0.0"/>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,-76.199996,-27.760000)">
+            <g >
+                <circle r="2.0749991" fill="none" stroke="none" id="connector5pin"  stroke-opacity="1" cy="40.981483" style="opacity:1;stroke-linejoin:miter;fill-rule:nonzero;paint-order:fill markers stroke;stroke-dashoffset:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0" fill-opacity="1" cx="79.200005" gorn="0.1.41.0.0"/>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,1.000000,-76.199996,-27.760000)">
+            <g >
+                <circle r="2.0749991" fill="none" stroke="none" id="connector4pin"  stroke-opacity="1" cy="50.003071" style="opacity:1;stroke-linejoin:miter;fill-rule:nonzero;paint-order:fill markers stroke;stroke-dashoffset:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0" fill-opacity="1" cx="79.199997" gorn="0.1.42.0.0"/>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,-1.000000,-76.199996,-27.760000)">
+            <g >
+                <circle r="2.0749991" fill="none" stroke="none" id="connector1pin"  stroke-opacity="1" cy="-106.27873" style="opacity:1;stroke-linejoin:miter;fill-rule:nonzero;paint-order:fill markers stroke;stroke-dashoffset:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0" fill-opacity="1" cx="79.199997" gorn="0.1.43.0.0"/>
+            </g>
+        </g>
+        <g  transform="matrix(1.000000,0.000000,0.000000,-1.000000,-76.199996,-27.760000)">
+            <g >
+                <circle r="2.0749991" fill="none" stroke="none" id="connector2pin"  stroke-opacity="1" cy="-115.12862" style="opacity:1;stroke-linejoin:miter;fill-rule:nonzero;paint-order:fill markers stroke;stroke-dashoffset:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;" stroke-width="0" fill-opacity="1" cx="79.199997" gorn="0.1.44.0.0"/>
+            </g>
+        </g>
+    </g>
+</svg>
